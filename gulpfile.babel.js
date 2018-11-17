@@ -51,7 +51,7 @@ gulp.task("build-preview", ["scss", "css", "js", "fonts", "img"], (cb) => buildS
 }); */
 
 gulp.task("scss", function() {
-  return gulp.src("./src/scss/tl.scss")
+  return gulp.src("./src/scss/project.scss")
     .pipe(sass()) // Using gulp-sass
     .pipe(postcss([cssnext({browserslist: [ ">= 1% in US" ]}), cssnano()]))
     .pipe(gulp.dest("./dist/css"))
