@@ -26,13 +26,13 @@ gulp.task("hugo-preview", (cb) => buildSite(cb, hugoArgsPreview));
 
 // Run server tasks
 // JM add SCSS here
-gulp.task("server", ["hugo", "scss", "css", "js", "fonts", "img"], (cb) => runServer(cb));
-gulp.task("server-preview", ["hugo-preview", "scss", "css", "js", "fonts", "img"], (cb) => runServer(cb));
+gulp.task("server", ["hugo", "scss", "css", "js", "fonts" ], (cb) => runServer(cb));
+gulp.task("server-preview", ["hugo-preview", "scss", "css", "js", "fonts" ], (cb) => runServer(cb));
 
 // Build/production tasks
 // JM add SCSS here
-gulp.task("build", ["scss", "css", "js", "fonts", "img"], (cb) => buildSite(cb, [], "production"));
-gulp.task("build-preview", ["scss", "css", "js", "fonts", "img"], (cb) => buildSite(cb, hugoArgsPreview, "production"));
+gulp.task("build", ["scss", "css", "js", "fonts" ], (cb) => buildSite(cb, [], "production"));
+gulp.task("build-preview", ["scss", "css", "js", "fonts" ], (cb) => buildSite(cb, hugoArgsPreview, "production"));
 
 // Compile CSS with PostCSS
  gulp.task("css", () => (
@@ -84,7 +84,7 @@ gulp.task('fonts', () => (
 ));
 
 // Create responsive image sizes
-gulp.task("img", () =>
+/* gulp.task("img", () =>
   gulp.src([
     "site/static/images/uploads/**.*",
     "!static/images/uploads/**.svg"
@@ -138,6 +138,7 @@ gulp.task("img", () =>
     }))
     .pipe(gulp.dest("./dist/images/uploads")
 ));
+*/
 
 // Development server with browsersync
 function runServer() {
@@ -152,7 +153,7 @@ function runServer() {
   gulp.watch("./site/**/*", ["hugo"]);
   //JM ADD
   gulp.watch("./src/scss/**/*", ["scss"]);
-  gulp.watch("./src/img/**/*", ["img"]);
+  // gulp.watch("./src/img/**/*", ["img"]);
 };
 //JM ADD
 // gulp.task('default', ['scss' /*, possible other tasks... */]);
