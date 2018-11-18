@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
-title = "Teaching Lab"
+title = "Right To Counsel Toolkit"
 # Define how many posts should appear on a site
 paginate = 10
 

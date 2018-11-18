@@ -1,0 +1,15 @@
+<nav>
+    <div id="logo-container">
+        <div id="logo"></div>
+    </div>
+    <div id="nav-container">
+        <ul>
+            <li><a href="/">Home</a></li>
+            {{ range .Site.RegularPages }}
+            <li>
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+</nav>

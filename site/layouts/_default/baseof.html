@@ -5,20 +5,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
     <!--<base href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">-->
     <title>{{ $.Site.Title }}</title>
-    <link rel="icon" type="image/png" href="/images/icons/favicon.png">
+    <!--<link rel="icon" type="image/png" href="/images/icons/favicon.png">-->
     <link rel="stylesheet" href="/css/reset.css"/>
     <link rel="stylesheet" href="/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="/css/aos.css" />
     <link rel="stylesheet" href="/css/project.css"/>
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,400i,500,500i,600,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,700" rel="stylesheet">
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
   <body>
+    <div id="site-container">
+      {{ block "nav" . }} {{ partial "nav" . }} {{end}}
 
-    {{ block "header" . }} {{end}}
-
-    {{ block "main" . }}{{end}}
-
+      {{ block "main" . }}{{end}}
+    </div>  
     {{ block "footer" . }} {{end}}
 
     <script src="/app.js"></script>
@@ -26,5 +26,8 @@
     <script>
       AOS.init();
     </script>
+    <script src="/js/lib.min.js"></script>
+    <script src="/js/main.js?{{ now.Unix }}"></script> 
+    <script src="/js/parallax.min.js"></script>  
   </body>
 </html>

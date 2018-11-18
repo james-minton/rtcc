@@ -1,20 +1,9 @@
 ---
 title: >-
-  Innovation Road Trip: Traveling From Coast to Coast to Explore Knowledge-Rich
-  American Schools
-contenttype: blog
+  Neighborhood Organizing/ Foundational Organizing and Demands
+contenttype: toolkit
 date: 2018-10-01T02:00:58.021Z
-postauthorname: Silas Kulkarni
-postauthortitle: Founder
-postauthorimg: /images/uploads/skularni.png
-image: /images/uploads/TravelBlogIntro.jpg
-slug: innovation-road-trip-1
-listSummary: >-
-  When was the moment you fell in love with learning? If you ever fell in love
-  with learning? For most of us, it probably wasn’t when we were conjugating
-  verbs, learning about inferences, or sequencing events. More likely it
-  happened when our papier-mâché volcano erupted, we won a class debate, or we
-  learned why something we were interested in happened.
+slug: neighborhood-organizing
 ---
 _This piece was originally posted on <a href="https://www.the74million.org/article/innovation-road-trip-traveling-from-coast-to-coast-to-explore-knowledge-rich-american-schools/">The 74 Million.</a>_
 

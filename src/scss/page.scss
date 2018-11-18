@@ -1,0 +1,11 @@
+main {
+   
+    @include for-768-up {
+       max-width: 75%;
+       padding: 0 6.4rem;
+    }
+    @include for-1440-up {
+        
+    }
+    
+}

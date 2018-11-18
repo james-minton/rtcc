@@ -1,0 +1,42 @@
+nav {
+    background-color: $darkfour;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    @include for-768-up {
+        width: 25%;
+        
+        min-width: 272px;
+    }
+    @include for-1440-up {
+       
+    }
+    ul {
+        list-style: none;
+        color: #fff;
+        @include for-768-up {
+            max-width: 272px;
+            
+        }
+        a {
+            color: #fff;
+            &:hover {
+                color: #fff;
+            }
+        }
+    }
+    #logo-container {
+        width: 100%;
+        background-color: #fff;
+        padding-right: 32px;
+        display: flex;
+        justify-content: flex-end;
+        padding-bottom: 48px;
+        #logo {
+            width: 208px;
+            height: 252px;
+            background-color: #999;
+        }
+    }
+    
+}
