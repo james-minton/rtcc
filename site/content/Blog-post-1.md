@@ -1,9 +1,7 @@
 ---
-title: >-
-  Introduction: About the Authors and the Toolkit
+title: 'Introduction: About the Authors and the Toolkit'
 contenttype: toolkit
 date: 2018-10-01T02:00:58.021Z
-slug: introduction
 ---
 _This piece was originally posted on <a href="https://www.the74million.org/article/innovation-road-trip-traveling-from-coast-to-coast-to-explore-knowledge-rich-american-schools/">The 74 Million.</a>_
 
@@ -15,6 +13,8 @@ When was the moment you fell in love with learning? If you ever fell in love wit
 
 For most of us, it probably wasn’t when we were conjugating verbs, learning about inferences, or sequencing events. More likely it happened when our papier-mâché volcano erupted, we won a class debate, or we learned why something we were interested in happened. Art, music, foreign cultures, or learning how the world works were probably the things that captivated you the most.
 
+{{< resource title="TESTING AGAIN" >}}
+
 Schools that deliberately focus on imparting knowledge of the world by restoring wonder and excitement in the classroom are often called “[knowledge-rich](http://knowledgematterscampaign.org/wp-content/uploads/2016/10/FiveEssentialFeatures.pdf).” Knowledge-rich schools deepen students’ understanding of a wide range of topics, pairing the skills students need to be successful in school with the content knowledge that will prepare them for a lifetime of engaged learning. As a movement, knowledge-rich schooling has the potential to promote excellence, inspire passion, and enhance educational equity — particularly for children from homes with limited access to books and fewer opportunities than their more affluent peers to travel or visit museums.
 
 Over the next few weeks, I invite you to join me and my colleagues at the [Knowledge Matters Campaign](http://www.knowledgematterscampaign.org/) as we tour schools across the country to see the many ways knowledge-building curriculum is enhancing classroom instruction — by asking students to read, write, and speak to high standards, but to do so from a wide range of topics that enrich students’ understanding of the world around them — ranging from water conservation to the Revolutionary War to Renaissance architecture. We want to tell the story of what becoming knowledge-rich means to students, parents, and teachers, and highlight schools that are on a journey to create the kind of learning experience that can truly change lives.
@@ -24,6 +24,8 @@ Over the next few weeks, I invite you to join me and my colleagues at the [Knowl
 Our focus is on elementary schools and the reading/English language arts instruction occurring within them. Given the paucity of time devoted to social studies, science, and the arts in elementary schools across the country, if children don’t encounter these topics in their reading, and they don’t engage with them at home, they likely won’t be learned. And whether the price students pay is being “left behind” or incurring gaping holes in their background knowledge and preparedness for their futures, we believe to our core that our children, our communities, and our nation deserve better.
 
 The significant role that background knowledge and command of academic vocabulary plays in reading comprehension is not a new discovery, but its attraction as a deliberate instructional model has recently enjoyed a resurgence of interest. Driven by compelling [cognitive science](https://www.the74million.org/article/9-things-science-tells-us-about-how-kids-learn-to-read-and-think-critically/), a renewed focus on curriculum in the wake of the Common Core State Standards, and a culture of innovation encouraged by the Every Student Succeeds Act, curiosity has been piqued about what “knowledge-rich schooling” really means — and how the heck you do it.
+
+
 
 Does it just come down to picking the right curriculum and making sure teachers have the necessary supports in place, or is there something more?
 
@@ -41,7 +43,7 @@ Over the next several months, my team and I will chronicle here, on The 74, our 
 
 Beyond the many rational, research-based, educationally sound reasons for placing content knowledge at the center of the educational enterprise in elementary schools, there is something qualitatively different about teaching and learning in schools that do so. We believe there’s a hunger out there to learn more about how schools take this on — if, indeed, it’s possible that knowledge-rich schooling can breathe new life into tired old education practices. So join us this spring as we explore this in schools across the country.
 
-_[**Barbara Davidson**](https://standardswork.org/about-us/board-of-directors/) is president of [StandardsWork](https://standardswork.org/) and runs the [Knowledge Matters Campaign](Knowledge Matters Campaign). A former classroom teacher of students with learning disabilities, she has worked for the past 30 years at the intersection of education policy and practice and has led a number of curriculum development efforts._
+_[**Barbara Davidson**](https://standardswork.org/about-us/board-of-directors/) is president of [StandardsWork](https://standardswork.org/) and runs the \[Knowledge Matters Campaign](Knowledge Matters Campaign). A former classroom teacher of students with learning disabilities, she has worked for the past 30 years at the intersection of education policy and practice and has led a number of curriculum development efforts._
 
 _[**Rachel Etienne**](https://achievethecore.org/about-us) is a member of the Literacy and English Language Arts team at [Student Achievement Partners](https://achievethecore.org/). She is a former elementary school teacher and literacy coach._
 
