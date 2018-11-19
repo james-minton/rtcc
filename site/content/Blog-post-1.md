@@ -3,6 +3,8 @@ title: 'Introduction: About the Authors and the Toolkit'
 contenttype: toolkit
 date: 2018-10-01T02:00:58.021Z
 ---
+{{< resource title="Testing title!!" >}}
+
 _This piece was originally posted on <a href="https://www.the74million.org/article/innovation-road-trip-traveling-from-coast-to-coast-to-explore-knowledge-rich-american-schools/">The 74 Million.</a>_
 
 When was the moment you fell in love with learning? If you ever fell in love with learning?
@@ -24,8 +26,6 @@ Over the next few weeks, I invite you to join me and my colleagues at the [Knowl
 Our focus is on elementary schools and the reading/English language arts instruction occurring within them. Given the paucity of time devoted to social studies, science, and the arts in elementary schools across the country, if children don’t encounter these topics in their reading, and they don’t engage with them at home, they likely won’t be learned. And whether the price students pay is being “left behind” or incurring gaping holes in their background knowledge and preparedness for their futures, we believe to our core that our children, our communities, and our nation deserve better.
 
 The significant role that background knowledge and command of academic vocabulary plays in reading comprehension is not a new discovery, but its attraction as a deliberate instructional model has recently enjoyed a resurgence of interest. Driven by compelling [cognitive science](https://www.the74million.org/article/9-things-science-tells-us-about-how-kids-learn-to-read-and-think-critically/), a renewed focus on curriculum in the wake of the Common Core State Standards, and a culture of innovation encouraged by the Every Student Succeeds Act, curiosity has been piqued about what “knowledge-rich schooling” really means — and how the heck you do it.
-
-
 
 Does it just come down to picking the right curriculum and making sure teachers have the necessary supports in place, or is there something more?
 
