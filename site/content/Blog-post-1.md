@@ -3,7 +3,7 @@ title: 'Introduction: About the Authors and the Toolkit'
 contenttype: toolkit
 date: 2018-10-01T02:00:58.021Z
 ---
-{{< resource title="Testing title!!" >}}
+{{< resource title="Youtube" link="https://youtube.com" >}}
 
 _This piece was originally posted on <a href="https://www.the74million.org/article/innovation-road-trip-traveling-from-coast-to-coast-to-explore-knowledge-rich-american-schools/">The 74 Million.</a>_
 
@@ -11,11 +11,9 @@ When was the moment you fell in love with learning? If you ever fell in love wit
 
 {{< youtube id="w7Ft2ymGmfc" autoplay="true" >}}
 
-{{< resource title="TESTING" >}}
-
 For most of us, it probably wasn’t when we were conjugating verbs, learning about inferences, or sequencing events. More likely it happened when our papier-mâché volcano erupted, we won a class debate, or we learned why something we were interested in happened. Art, music, foreign cultures, or learning how the world works were probably the things that captivated you the most.
 
-{{< resource title="TESTING AGAIN" >}}
+{{< resource title="undefined" link="undefined" >}}
 
 Schools that deliberately focus on imparting knowledge of the world by restoring wonder and excitement in the classroom are often called “[knowledge-rich](http://knowledgematterscampaign.org/wp-content/uploads/2016/10/FiveEssentialFeatures.pdf).” Knowledge-rich schools deepen students’ understanding of a wide range of topics, pairing the skills students need to be successful in school with the content knowledge that will prepare them for a lifetime of engaged learning. As a movement, knowledge-rich schooling has the potential to promote excellence, inspire passion, and enhance educational equity — particularly for children from homes with limited access to books and fewer opportunities than their more affluent peers to travel or visit museums.
 
