@@ -16,9 +16,7 @@ Included are:
 * **AARP Video:** Produced by one of our campaign members, demonstrating the importance and impact of engaging a variety of stakeholders in the fight for Right to Counsel, and the importance of the legislation to a particular community.
 * **Cost and Savings Report:** Demonstrating a clear, compelling case for the cost savings of implementing Right to Counsel in New York City.
 
-
-
-Tool 7.1: Data Points to Collect to Build the Case for Right to Counsel 
+## Tool 7.1: Data Points to Collect to Build the Case for Right to Counsel 
 
 _When bolstering your arguments for Right to Counsel, it is important to collect information about the landscape of evictions, the associated costs that come with evictions, and projections for the potential benefits of Right to Counsel. Here in New York City, we are lucky to have many different sources for data, but even so, having a tangible resource like the Cost and Savings Report was instrumental in our work. Below is a list of some of the data points we collected that were instrumental in building the case for needing Right to Counsel._
 
