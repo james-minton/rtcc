@@ -40,11 +40,26 @@ body {
     font-family: $mainfont;
 }
 a {
+    color: #CA0058;
     text-decoration: none;
     &:hover {
-        
+        color: #CA0058;
         text-decoration: none;
     }
+    font-size: 1.4rem;
+    letter-spacing: 0.01rem;
+    line-height: 2.6rem;
+    font-weight: 600;
+    @include for-768-up {
+        font-size: 1.6rem;
+        letter-spacing: 0.01rem;
+        line-height: 2.5rem;
+    }
+    @include for-1440-up {
+        font-size: 2.1rem;
+        letter-spacing: 0.03rem;
+        line-height: 3.6rem;
+    }   
 }
 p {
     font-size: 1.4rem;
@@ -64,6 +79,22 @@ p {
         margin-bottom: 3.2rem;
     }   
     font-weight: 400;
+   
+}
+li {
+    font-size: 1.4rem;
+    letter-spacing: 0.01rem;
+    line-height: 2.6rem;
+    @include for-768-up {
+        font-size: 1.6rem;
+        letter-spacing: 0.01rem;
+        line-height: 2.5rem;
+    }
+    @include for-1440-up {
+        font-size: 2.1rem;
+        letter-spacing: 0.03rem;
+        line-height: 3.6rem;
+    }   
    
 }
 p.reg {
@@ -126,10 +157,12 @@ h1 {
     font-size: 2.5rem;
     letter-spacing: 0.043rem;
     line-height: 3.4rem;
+    text-align: center;
     @include for-768-up {
         font-size: 3.2rem;
         letter-spacing: 0.093rem;
         line-height: 4.3rem;
+        margin-bottom: 2.4rem;
     }
     @include for-1440-up {
         font-size: 5.6rem;
@@ -137,6 +170,10 @@ h1 {
         line-height: 7.2rem;
     }    
     font-weight: 600;
+}
+hr {
+    border-top: 6px solid #F3F3F3;
+    margin: 3.2rem 0;
 }
 h1.hero {
     color: #fff;
@@ -159,10 +196,14 @@ h2 {
     font-size: 1.8rem;
     letter-spacing: 0.03rem;
     line-height: 2.7rem;
+    text-align: center;
+    
     @include for-768-up {
         font-size: 2.4rem;
         letter-spacing: 0.05rem;
         line-height: 3rem;
+        margin: 0 auto 3.2rem;
+        max-width: 540px;
     }
     @include for-1440-up {
         font-size: 3.6rem;
@@ -253,6 +294,11 @@ h6 {
 
 
 /* Page Elements ------------ */
+
+.ytembed {
+    display: flex;
+    justify-content: center;
+}
 
 .pageWrap {
     padding-top: 53px;

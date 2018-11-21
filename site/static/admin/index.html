@@ -29,7 +29,7 @@
         // Function to create a text block from an instance of this component
         toBlock: function(obj) {
           return (
-          '<iframe width="560" height="315" src="https://www.youtube.com/embed/' + obj.id + '" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          '<div class="ytembed"><iframe width="560" height="315" src="https://www.youtube.com/embed/' + obj.id + '" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
           );
         },
         // Preview output for this component. Can either be a string or a React component
@@ -48,9 +48,10 @@
         // Visible label
         label: "Resource",
         // Fields the user need to fill out when adding an instance of the component
+        widget: 'list',
         fields: [
-            {name: 'title', label: 'Resource Title', widget: 'string'},
-            {name: 'link', label: 'Resource Link', widget: 'string'}
+            {name: 'title', label: 'Resource Title', widget: 'list'},
+            {name: 'link', label: 'Resource Link', widget: 'list'},
             ],
         // Pattern to identify a block as being an instance of this component
         pattern: /^{{< resource (.*?) >}}$/,

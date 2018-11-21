@@ -45,7 +45,7 @@ We were fortunate to have a major financial analysis firm produce the Cost Savin
 
 In order to create this video, we developed a [script](https://docs.google.com/document/d/1HFddZPuY5Gc5d_Peo8rTjMvidByxHmZl-r9aUR5VMYQ/edit) with a small group of tenant leaders and then we had coalition members fact check the script. We then broke up the script into small sections that individual tenants could read and we printed them in big font on card stock (exactly like the ones you see in the video!), with numbers on the back so we could keep track of the order. Based on the sections, we knew how many tenants we would need for the video. We then organized tenants from the Bronx to go to a housing court reform meeting in Brooklyn. At that meeting, we did a brief teach-in about RTC and the purpose of the video, and then asked tenants if they wanted to be in a video. The volunteers stepped out of their meeting into another room where we shot the video. While tenants stood in front of the camera, and organizer stood facing them, so they could read the content on the cards.  Once they did their part, they return to their meeting. When tenants practiced their parts, that was their first time! In terms of preparation and production, producing the video this way was relatively easy!  We also had the script translated into Spanish and then added [Spanish](https://docs.google.com/document/d/1DpwNjMviXpkvpZ8CwYTGOfY-avNJ-3lH-RPG7QE_mGU/edit) subtitles to the video. Note- press “CC” on the bottom of the screen to get the Spanish subtitles.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lrlsSrRCuyg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="ytembed"><iframe width="560" height="315" src="https://www.youtube.com/embed/lrlsSrRCuyg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <hr />
 
@@ -79,7 +79,7 @@ Mapping can be an engaging and accessible way to visually represent the importan
 
 This video, produced by one of our campaign members, demonstrates the importance and impact of engaging a variety of stakeholders in the fight for the Right to Counsel.  AARP has a wide and influential audience, and their engagement in the campaign meant that the Right to Counsel message had a broad reach. Your coalition can consider the engagement of allies such as AARP who are focused on particular communities that are impacted by the eviction crisis. 
 
-{{< resource title="Right to Counsel AARP Vidoe" link="https://drive.google.com/file/d/1raLveigHkHU-4q9uiC59OTtYiL4QZSk-/view" >}}
+{{< resource title="Right to Counsel AARP Video" link="https://drive.google.com/file/d/1raLveigHkHU-4q9uiC59OTtYiL4QZSk-/view" >}}
 
 <hr />
 
