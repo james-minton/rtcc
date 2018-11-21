@@ -4,6 +4,8 @@ weight: '40'
 contenttype: toolkit
 date: 2018-11-21T18:31:26.659Z
 ---
+
+
 These tools are designed to help you demonstrate the need for Right to Counsel to a variety of audiences. From numerical data to expert testimony to the voices of tenants, these tools help demonstrate the problems that exist and make the case for Right to Counsel as the solution.
 
 Included are:
@@ -42,3 +44,11 @@ We were fortunate to have a major financial analysis firm produce the Cost Savin
 In order to create this video, we developed a [script](https://docs.google.com/document/d/1HFddZPuY5Gc5d_Peo8rTjMvidByxHmZl-r9aUR5VMYQ/edit) with a small group of tenant leaders and then we had coalition members fact check the script. We then broke up the script into small sections that individual tenants could read and we printed them in big font on card stock (exactly like the ones you see in the video!), with numbers on the back so we could keep track of the order. Based on the sections, we knew how many tenants we would need for the video. We then organized tenants from the Bronx to go to a housing court reform meeting in Brooklyn. At that meeting, we did a brief teach-in about RTC and the purpose of the video, and then asked tenants if they wanted to be in a video. The volunteers stepped out of their meeting into another room where we shot the video. While tenants stood in front of the camera, and organizer stood facing them, so they could read the content on the cards.  Once they did their part, they return to their meeting. When tenants practiced their parts, that was their first time! In terms of preparation and production, producing the video this way was relatively easy!  We also had the script translated into Spanish and then added [Spanish](https://docs.google.com/document/d/1DpwNjMviXpkvpZ8CwYTGOfY-avNJ-3lH-RPG7QE_mGU/edit) subtitles to the video. Note- press “CC” on the bottom of the screen to get the Spanish subtitles.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lrlsSrRCuyg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## “What the Experts are Saying” Report from Right To Counsel Forums
+
+In 2014, our coalition organized an all-day forum called Housing Justice: A Public Forum on New Yorkers’ Right to Counsel in Eviction Proceedings hosted by the Impact Center for Public Interest Law at New York Law School. The forum was an opportunity to make the case for Right to Counsel and engage a variety of stakeholders. We carefully planned the forum to make sure a wide range of voices were represented, such as academics, judges, politicians and tenants. To capitalize on the forum beyond a one-time event, this report was developed to document the wide range of perspectives supporting RTC, to create new press opportunities by having a report release event, and to be used broadly as an outreach and advocacy tool. We sent the report to each council member, along with a letter asking for support for the legislation.  We also held a press conference in front of Manhattan Housing Court to release the report. 
+
+In order to produce the report, the event was videotaped. An intern then transcribed the video of the conference and then coalition members picked out key quotes and important information and worked with the intern to compile the content of the report. The report was designed by a staff member of a coalition member group and we were able to get a labor union to cover the cost of printing the report. It can serve as a model for others hosting similar community forums. 
+
+{{< resource title="“What the Experts are Saying” Report" link="https://d3n8a8pro7vhmx.cloudfront.net/righttocounselnyc/pages/23/attachments/original/1433269447/FINAL_expert_report.pdf?1433269447" >}}
