@@ -1,9 +1,8 @@
 ---
-title: >-
-  Neighborhood Organizing/ Foundational Organizing and Demands
+title: Neighborhood Organizing/ Foundational Organizing and Demands
+weight: '30'
 contenttype: toolkit
 date: 2018-10-01T02:00:58.021Z
-slug: neighborhood-organizing
 ---
 _This piece was originally posted on <a href="https://www.the74million.org/article/innovation-road-trip-traveling-from-coast-to-coast-to-explore-knowledge-rich-american-schools/">The 74 Million.</a>_
 
