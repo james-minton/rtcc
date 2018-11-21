@@ -5,3 +5,5 @@ contenttype: toolkit
 date: 2018-10-01T02:00:58.021Z
 ---
 {{< resource title="Testing" link="https://google.com" >}}
+
+{{< resource title="Testing" link="https://google.com" title2="Testing2" link="https://google.com" title="Testing3" link="https://google.com"  >}}
