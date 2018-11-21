@@ -1,8 +1,8 @@
 ---
 title: Building Our Case
+weight: '40'
 contenttype: toolkit
 date: 2018-11-21T18:31:26.659Z
-slug: building-our-case
 ---
 These tools are designed to help you demonstrate the need for Right to Counsel to a variety of audiences. From numerical data to expert testimony to the voices of tenants, these tools help demonstrate the problems that exist and make the case for Right to Counsel as the solution.
 
