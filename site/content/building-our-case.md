@@ -37,6 +37,8 @@ However, we didn’t have and still don’t have access to data about the number
 
 We were fortunate to have a major financial analysis firm produce the Cost Savings Report pro bono; otherwise, it is not clear we would have been able to afford it.  Secure such services as early as you can, a report like this one can be a real game-changer.  It was also critical to produce a [distilled, 2-page version of the report](https://d3n8a8pro7vhmx.cloudfront.net/righttocounselnyc/pages/23/attachments/original/1460160961/SRR_report_two_pager_FINAL.pdf?1460160961), as we knew most people would not be able to digest the full 27-page report.
 
+<hr />
+
 ## “Right to Counsel-The Facts!” Video
 
  Our coalition found that multimedia materials were crucial in getting our message out to a variety of audiences across different platforms. This tool demonstrates how to make the case for the importance of Right to Counsel using video, which can be circulated online to reach a wide variety of audiences. Videos such as this are a great opportunity to engage tenant leaders in new ways in your campaign. We played this video at our inaugural RTC forum event to help frame and ground the conversation. A college intern put this video together for us! We recommend looking within your coalition for people who are willing and able to donate their skills. 
@@ -44,6 +46,8 @@ We were fortunate to have a major financial analysis firm produce the Cost Savin
 In order to create this video, we developed a [script](https://docs.google.com/document/d/1HFddZPuY5Gc5d_Peo8rTjMvidByxHmZl-r9aUR5VMYQ/edit) with a small group of tenant leaders and then we had coalition members fact check the script. We then broke up the script into small sections that individual tenants could read and we printed them in big font on card stock (exactly like the ones you see in the video!), with numbers on the back so we could keep track of the order. Based on the sections, we knew how many tenants we would need for the video. We then organized tenants from the Bronx to go to a housing court reform meeting in Brooklyn. At that meeting, we did a brief teach-in about RTC and the purpose of the video, and then asked tenants if they wanted to be in a video. The volunteers stepped out of their meeting into another room where we shot the video. While tenants stood in front of the camera, and organizer stood facing them, so they could read the content on the cards.  Once they did their part, they return to their meeting. When tenants practiced their parts, that was their first time! In terms of preparation and production, producing the video this way was relatively easy!  We also had the script translated into Spanish and then added [Spanish](https://docs.google.com/document/d/1DpwNjMviXpkvpZ8CwYTGOfY-avNJ-3lH-RPG7QE_mGU/edit) subtitles to the video. Note- press “CC” on the bottom of the screen to get the Spanish subtitles.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lrlsSrRCuyg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr />
 
 ## “What the Experts are Saying” Report from Right To Counsel Forums
 
@@ -53,11 +57,15 @@ In order to produce the report, the event was videotaped. An intern then transcr
 
 {{< resource title="“What the Experts are Saying” Report" link="https://d3n8a8pro7vhmx.cloudfront.net/righttocounselnyc/pages/23/attachments/original/1433269447/FINAL_expert_report.pdf?1433269447" >}}
 
+<hr />
+
 ## Fact Sheet: “Housing Justice: New Yorkers Should Have a Right to Counsel in Evictions Proceedings”
 
 This fact sheet is designed to demonstrate the need for the right to counsel, the impact the legislation would have, the economic case for passing the right, and the urgency of passing the legislation.The fact sheet includes some of the key data points that our coalition collected. Because it covers an array of information, it has multiple uses for multiple audiences: community meetings, institutional allies, elected officials, media, etc. While the information included is specific to New York, we invite you to use it both as an example and as a template for your own coalition’s work. 
 
 {{< resource title="Fact sheet: “Housing Justice: New Yorkers Should Have a RIght to Counsel in Evictions  Proceedings”" link="https://d3n8a8pro7vhmx.cloudfront.net/righttocounselnyc/pages/23/attachments/original/1481217027/RTC_FACT_SHEET.pdf?1481217027" >}}
+
+<hr />
 
 ##  Map of Evictions and Rent Regulated Units in New York City
 
@@ -65,11 +73,15 @@ Mapping can be an engaging and accessible way to visually represent the importan
 
 {{< resource title="Map of Evictions and Rent Regulated Units in NYC" link="https://d3n8a8pro7vhmx.cloudfront.net/righttocounselnyc/pages/23/attachments/original/1495670143/Evictions_and_rent_reg_MAP.pdf?1495670143" >}}
 
+<hr />
+
 ## AARP Video
 
 This video, produced by one of our campaign members, demonstrates the importance and impact of engaging a variety of stakeholders in the fight for the Right to Counsel.  AARP has a wide and influential audience, and their engagement in the campaign meant that the Right to Counsel message had a broad reach. Your coalition can consider the engagement of allies such as AARP who are focused on particular communities that are impacted by the eviction crisis. 
 
 {{< resource title="Right to Counsel AARP Vidoe" link="https://drive.google.com/file/d/1raLveigHkHU-4q9uiC59OTtYiL4QZSk-/view" >}}
+
+<hr />
 
 ## Cost and Savings Report and Summary 
 
