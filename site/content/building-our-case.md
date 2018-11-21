@@ -20,7 +20,7 @@ Included are:
 
 Tool 7.1: Data Points to Collect to Build the Case for Right to Counsel 
 
-_When bolstering your arguments for Right to Counsel, it is important to collect information about the landscape of evictions, the associated costs that come with evictions, and projections for the potential benefits of Right to Counsel. Here in New York City, we are lucky to have many different sources for data, but even so, having a tangible resource like the Cost and Savings Report was instrumental in our work. Below is a list of some of the data points we collected that were instrumental in building the case for needing Right to Counsel. _
+_When bolstering your arguments for Right to Counsel, it is important to collect information about the landscape of evictions, the associated costs that come with evictions, and projections for the potential benefits of Right to Counsel. Here in New York City, we are lucky to have many different sources for data, but even so, having a tangible resource like the Cost and Savings Report was instrumental in our work. Below is a list of some of the data points we collected that were instrumental in building the case for needing Right to Counsel._
 
 We had a lot of data about housing in New York City at our disposal, which was critical for producing the report:
 
