@@ -51,10 +51,10 @@
         fields: [
             {name: 'title', label: 'Resource Title', widget: 'string'},
             {name: 'link', label: 'Resource Link', widget: 'string'},
-            {name: 'title2', label: 'Resource 2 Title', widget: 'string'},
-            {name: 'link2', label: 'Resource 2 Link', widget: 'string'},
-            {name: 'title3', label: 'Resource 3 Title', widget: 'string'},
-            {name: 'link3', label: 'Resource 3 Link', widget: 'string'},
+            {name: 'secondtitle', label: 'Resource 2 Title', widget: 'string'},
+            {name: 'secondlink', label: 'Resource 2 Link', widget: 'string'},
+            {name: 'thirdtitle', label: 'Resource 3 Title', widget: 'string'},
+            {name: 'thirdlink', label: 'Resource 3 Link', widget: 'string'}
             ],
         // Pattern to identify a block as being an instance of this component
         pattern: /^{{< resource (.*?) >}}$/,
@@ -66,7 +66,7 @@
         },
         // Function to create a text block from an instance of this component
         toBlock: function(obj) {
-          return '{{< resource title="' + obj.title + '" link="' + obj.link + '" title2="' + obj.title2 + '" link2="' + obj.link2 + '" title3="' + obj.title3 + '" link3="' + obj.link3 + '" >}}';
+          return '{{< resource title="' + obj.title + '" link="' + obj.link + '" title2="' + obj.secondtitle + '" link2="' + obj.secondlink + '" title3="' + obj.thirdtitle + '" link3="' + obj.thirdlink + '" >}}';
         },
         // Preview output for this component. Can either be a string or a React component
         // (component gives better render performance)
