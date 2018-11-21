@@ -50,8 +50,8 @@
         // Fields the user need to fill out when adding an instance of the component
         widget: 'list',
         fields: [
-            {name: 'title', label: 'Resource Title', widget: 'list'},
-            {name: 'link', label: 'Resource Link', widget: 'list'},
+            {name: 'title', label: 'Resource Title', widget: 'string'},
+            {name: 'link', label: 'Resource Link', widget: 'string'},
             ],
         // Pattern to identify a block as being an instance of this component
         pattern: /^{{< resource (.*?) >}}$/,
