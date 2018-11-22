@@ -1,15 +1,16 @@
 <nav>
     <div id="logo-container">
-        <div id="logo"></div>
+        <div id="logo"><img src="/images/rtc-logo-416.jpg"></div>
     </div>
     <div id="nav-container">
-        <ul>
-            <li><a href="/">Home</a></li>
-            {{ range .Site.RegularPages }}
-            <li>
-                <a href="{{ .Permalink }}">{{ .Title }}</a>
-            </li>
-            {{ end }}
-        </ul>
+        <h2>Toolkit</h2>
+        <div class="nav-page">
+            <a href="/">Home</a>
+        </div>
+        {{ range .Site.RegularPages }}
+        <div class="nav-page">
+            <a class="toolkit-link" href="{{ .Permalink }}">{{ .Title }}</a>
+        </div> 
+        {{ end }}
     </div>
 </nav>

@@ -1,6 +1,6 @@
 nav {
     background-color: $darkfour;
-    display: flex;
+   /* display: flex; */
     flex-direction: column;
     align-items: flex-end;
     @include for-768-up {
@@ -14,12 +14,57 @@ nav {
     ul {
         list-style: none;
         color: #fff;
+        padding-left: 0;
         @include for-768-up {
-            max-width: 272px;
+            max-width: 230px;
+            padding-right: 3.2rem;
+            font-size: 1.5rem;
             
+        }
+        li {
+            padding: 2.4rem 0;
+            border-bottom: solid 3px #55605F;
         }
         a {
             color: #fff;
+            @include for-768-up {
+                font-size: 1.5rem;
+            }
+            &:hover {
+                color: #fff;
+            }
+        }
+    }
+    #nav-container {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+     
+        h2 {
+            margin: 2.4rem 0;
+            text-align: left;
+            color: #fff;
+            font-size: 2.4rem;
+            width: 230px;
+        }
+        .nav-page {
+            border-bottom: 3px solid #55605F;
+            width: 100%;
+            display: flex;
+            justify-content: flex-end;
+            padding: 1.6rem 0;
+         
+            a {
+                width: 230px;
+                padding-right: 3.2rem;
+            }
+
+        }
+        a {
+            color: #fff;
+            @include for-768-up {
+                font-size: 1.5rem;
+            }
             &:hover {
                 color: #fff;
             }
@@ -36,6 +81,9 @@ nav {
             width: 208px;
             height: 252px;
             background-color: #999;
+            img {
+                max-width: 100%;
+            }
         }
     }
     
