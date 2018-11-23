@@ -1,6 +1,6 @@
 <div class="resource-link" style="color: red">
     <h3>RESOURCE:</h3>
-    <a href="{{ .Get "link" }}" target="_blank">{{ .Get "title" }}</a>
-    <a href="{{ .Get "link2" }}" target="_blank">{{ .Get "title2" }}</a>
-    <a href="{{ .Get "link3" }}" target="_blank">{{ .Get "title3" }}</a>
+    <a href="{{ .Get "link" }}" target="_blank">{{ .Get "title" | safeHTML }}</a>
+    <a href="{{ .Get "link2" }}" target="_blank">{{ .Get "title2" | safeHTML }}</a>
+    <a href="{{ .Get "link3" }}" target="_blank">{{ .Get "title3" | safeHTML }}</a>
 </div>
