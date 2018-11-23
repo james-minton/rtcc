@@ -12,7 +12,7 @@ date: 2018-10-01T02:00:58.021Z
 
 RTCNYC Coalition is made up of tenant organizing groups, tenant advocates, homeless advocates, senior advocates, disability advocates, academics, legal services organizations and more! We led the campaign that resulted in the passage of Local Law 136, which ensures that low-income tenants are represented in eviction cases by attorneys when they defend their rights and their homes. The Coalition is actively organizing and advocating while this law is being phased in.
 
-In 2014, the Right to Counsel Bill (Intro 214) was introduced in New York City Council in order to establish a city-funded right to counsel for low-income tenants facing eviction proceedings. After three years of organizing, the Right to Counsel was signed into law in August 2017: mandating universal access to legal representation for low-income tenants and making NYC the first city in the country to establish a right to counsel for tenants facing eviction. This means that tenants no longer have to fear unjust evictions. This means that tenants no longer have to fear eviction as retaliation for organizing in their buildings or holding their landlords accountable. This means that we have more tools to fight gentrification and displacement. The law is being phased in over 5 years. By July 2022, all low-income tenants in NYC will have a right to an attorney to defend their homes. 
+In 2014, the Right to Counsel Bill (Intro 214) was introduced in New York City Council in order to establish a city-funded right to counsel for low-income tenants facing eviction proceedings. After three years of organizing, the Right to Counsel was signed into law in August 2017: mandating universal access to legal representation for low-income tenants and **making NYC the first city in the country to establish a right to counsel for tenants facing eviction.** This means that tenants no longer have to fear unjust evictions. This means that tenants no longer have to fear eviction as retaliation for organizing in their buildings or holding their landlords accountable. This means that we have more tools to fight gentrification and displacement. The law is being phased in over 5 years. By July 2022, all low-income tenants in NYC will have a right to an attorney to defend their homes. 
 
 **The Community Development Project (“CDP”)**
 
@@ -38,7 +38,7 @@ We documented as much of the organizing process as we could, but because the too
 
  \[Activities, tools, case studies] 
 
-We invite you to start to tackle the toolkit by reading the Lessons from NYC’s Right to Counsel Campaign; this document was the impetus for the toolkit and it doubly serves as a summary of the campaign. Starting here can help you decide which tools will work best for your campaign. 
+We invite you to start to tackle the toolkit by reading the [Lessons from NYC’s Right to Counsel Campaign](https://docs.google.com/document/d/1IKbD-W23j2SthGgM892rbkxgim9f8kqAAECKoiuqMpk/edit); this document was the impetus for the toolkit and it doubly serves as a summary of the campaign. Starting here can help you decide which tools will work best for your campaign. 
 
 We offer this toolkit to the tenants’ rights movement, as a way to fight for housing as a human right and to help combat the waves of gentrification that are displacing low-income communities of color across the country.
 
