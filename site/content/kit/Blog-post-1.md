@@ -6,7 +6,7 @@ date: 2018-10-01T02:00:58.021Z
 ---
 ##  About the Authors
 
-**The Right to Counsel NYC Coalition (“RTCNYC”) **
+**The Right to Counsel NYC Coalition (“RTCNYC”)**
 
 RTCNYC Coalition is made up of tenant organizing groups, tenant advocates, homeless advocates, senior advocates, disability advocates, academics, legal services organizations and more! We led the campaign that resulted in the passage of Local Law 136, which ensures that low-income tenants are represented in eviction cases by attorneys when they defend their rights and their homes. The Coalition is actively organizing and advocating while this law is being phased in.
 
