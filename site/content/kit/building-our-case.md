@@ -91,4 +91,4 @@ A coalition ally read through the full report and distilled it down to two pages
 
 Your coalition could use this report as a model for your own context. If your coalition includes or has access to those with expertise in such financial assessments, you can approach them to help you create documents such as this one.
 
-{{< resource title="undefined" link="undefined" >}}
+{{< resource title="Link to Full Report" link="https://drive.google.com/file/d/1raLveigHkHU-4q9uiC59OTtYiL4QZSk-/view" title2="2 Page Summary" link="https://d3n8a8pro7vhmx.cloudfront.net/righttocounselnyc/pages/23/attachments/original/1460160961/SRR_report_two_pager_FINAL.pdf?1460160961" >}}
