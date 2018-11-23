@@ -6,8 +6,6 @@ date: 2018-10-01T02:00:58.021Z
 ---
 ## About the Authors
 
-
-
 **The Right to Counsel NYC Coalition (“RTCNYC”)**
 
 RTCNYC Coalition is made up of tenant organizing groups, tenant advocates, homeless advocates, senior advocates, disability advocates, academics, legal services organizations and more! We led the campaign that resulted in the passage of Local Law 136, which ensures that low-income tenants are represented in eviction cases by attorneys when they defend their rights and their homes. The Coalition is actively organizing and advocating while this law is being phased in.
@@ -18,11 +16,9 @@ In 2014, the Right to Counsel Bill (Intro 214) was introduced in New York City C
 
 CDP strengthens the impact of grassroots organizations in New York City’s low-income and other excluded communities. CDP’s Research and Policy Initiative partners with and provides strategic support to grassroots community organizations to build the power of their organizing and advocacy work. CDP utilizes a Participatory Action Research model in which low-income and excluded communities are central to the design and development of research and policy. CPD’s work consists of the following: Participatory Action Research support and report development; grassroots policymaking; popular education curriculum design and training; facilitation of strategic alliances and coalitions; and strategic campaign research.
 
-
+<hr />
 
 ## About the Toolkit
-
-
 
 This toolkit is designed by the RTCNYC Coalition, with community organizing campaigns in mind. Organizing won us the Right to Counsel in New York City. Community members and organizers strategized, campaigned and agitated for years to make this new law a reality. And the organizing continues: to improve and strengthen the law, and to ensure it is implemented in the strongest possible way.
 
@@ -42,10 +38,8 @@ We invite you to start to tackle the toolkit by reading the [Lessons from NYC’
 
 We offer this toolkit to the tenants’ rights movement, as a way to fight for housing as a human right and to help combat the waves of gentrification that are displacing low-income communities of color across the country.
 
-
+<hr />
 
 ## Acknowledgements
-
-
 
 Thanks very much to the folks at the Community Development Project, especially Alexa Kasdan, Erin Markman, Zarin Ahmed and Irene Linares who created all of the templates and tools, went through all of our unorganized material and made this toolkit possible. Thank you also for your deep belief in and commitment to organizing throughout the process. Many thanks to Inga Manticas for transcribing a panel we did that helped create the profiles. Deep thanks to Marika Dias, Randy Dillard, Lorena Lopez and Maria Lopez Nunez for your leadership, incredible persistence and your love for this work and for sharing that with everyone that sees this, in your profiles. And of course thank you to all of the members of the coalition, particularly the tenant organizing groups like CASA, Flatbush Tenant Coalition, Catholic Migration Services, Northwest Bronx Community and Clergy Coalition, Goddard Riverside Community Center, for documenting all of your amazing work, for responding to multiple requests for pictures and news coverage so that this toolkit could be possible. And of course this toolkit wouldn’t be possible without every single active member of the coalition who fought to win this campaign and who continues to fight to ensure a just implementation and ensure that it’s one step towards housing as a human right and a more just city.
