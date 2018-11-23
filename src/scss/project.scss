@@ -61,7 +61,7 @@ a {
         line-height: 3.6rem;
     }   
 }
-p {
+p, td, tr {
     font-size: 1.4rem;
     letter-spacing: 0.01rem;
     line-height: 2.6rem;
@@ -297,6 +297,23 @@ h6 {
 
 
 /* Page Elements ------------ */
+
+.table1 {
+    td {
+        padding: 24px 16px;
+        border: 2px solid #f3f3f3;
+    }
+    th {
+        padding: 16px;
+        border: 2px solid #f3f3f3;
+    }
+    .th1 {
+        min-width: 100px;
+    }
+    .th2 {
+        min-width: 180px;
+    }
+}
 
 .ytembed {
     display: flex;
