@@ -158,6 +158,7 @@ h1 {
     letter-spacing: 0.043rem;
     line-height: 3.4rem;
     text-align: center;
+    color: #222E2D;
     @include for-768-up {
         font-size: 3.2rem;
         letter-spacing: 0.093rem;
@@ -261,6 +262,7 @@ h5 {
     font-size: 1.1rem;
     letter-spacing: 0rem;
     line-height: 1.4rem;
+    color: #222E2D;
     @include for-768-up {
         font-size: 1.3rem;
         letter-spacing: 0.054rem;

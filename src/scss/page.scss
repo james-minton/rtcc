@@ -7,5 +7,35 @@ main {
     @include for-1440-up {
         
     }
+    .chapter-head {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        h1 {
+            text-align: center;
+        }
+        .chapter-arrow {
+            a {
+                display: flex;
+                color: #222E2D;
+                img.rightarrow {
+                    margin-left: 8px;
+                    position: relative;
+                    top: -2px;
+                }
+                img.leftarrow {
+                    margin-right: 8px;
+                    position: relative;
+                    top: -2px;
+                }
+                h5.leftarrow {
+                    margin-right: 16px;
+                }
+                h5.rightarrow {
+                    margin-left: 16px;
+                }
+            }
+        }
+    }
     
 }
