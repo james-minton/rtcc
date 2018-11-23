@@ -14,6 +14,8 @@ These reports, which drew attention and press to the issues faced by tenants in 
 
 Identifying the issues around housing court was the first step. CASA used “The Problem Tree” activity and had their members come together to identify the root causes of injustice in housing court, and problems and solutions in order to inform how to move forward. This tool is adapted from Tools for Radical Democracy: How to Organize for Power in Your Community by Joan Minieri and Paul Gestos and is used with permission.
 
+<hr />
+
 ## RTC NYC Tool 2.1: The Problem Tree
 
 (used by permission from Joan Minieri) 
