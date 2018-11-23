@@ -163,7 +163,7 @@ h1 {
         font-size: 3.2rem;
         letter-spacing: 0.093rem;
         line-height: 4.3rem;
-        margin-bottom: 2.4rem;
+        /* margin-bottom: 2.4rem; */
     }
     @include for-1440-up {
         font-size: 5.6rem;
@@ -218,6 +218,7 @@ h3 {
     font-size: 1.3rem;
     letter-spacing: 0.108rem;
     line-height: 2.1rem;
+    color: #222E2D;
     @include for-768-up {
         font-size: 1.5rem;
         letter-spacing: 0.14rem;

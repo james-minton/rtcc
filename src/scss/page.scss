@@ -3,6 +3,7 @@ main {
     @include for-768-up {
        max-width: 75%;
        padding: 0 6.4rem;
+       padding-bottom: 6.4rem;
     }
     @include for-1440-up {
         
@@ -35,6 +36,16 @@ main {
                     margin-left: 16px;
                 }
             }
+        }
+        &.chapter-bottom {
+            border-top: 6px solid #f3f3f3;
+            margin-top: 3.2rem;
+            padding-top: 3.2rem;
+        }
+    }
+    .resource-link {
+        h3 {
+            margin-bottom: 1.6rem;
         }
     }
     

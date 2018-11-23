@@ -14,6 +14,15 @@
     <hr />
 
     {{ .Content }}
-    </div>  
+    </div> 
+        <div class="chapter-head chapter-bottom">
+            <div class="chapter-arrow">
+                {{if .NextInSection }}<a href="{{ .NextInSection.Permalink }}"><img class="leftarrow" src="/images/icons/leftarrow.svg"/><h5 class="leftarrow">Previous</h5></a>
+                {{ else }}<a href="/"><img class="leftarrow" src="/images/icons/leftarrow.svg"/><h5 class="leftarrow">Home</h5></a>{{end}}  
+            </div>     
+            <div class="chapter-arrow">
+                {{if .PrevInSection }}<a href="{{ .PrevInSection.Permalink }}"><h5 class="rightarrow">Next</h5><img class="rightarrow" src="/images/icons/rightarrow.svg"/></a>{{end}}     
+            </div>    
+        </div> 
 </main>
 {{end}}
