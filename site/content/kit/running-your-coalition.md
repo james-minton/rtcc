@@ -25,7 +25,7 @@ While your coalition will be tailored to your local context, we hope that our wo
 
 <hr />
 
-## RTCNYC Tool 3.2: How to Leverage the Power of Institutional Members
+## Tool 3.2: How to Leverage the Power of Institutional Members
 
 _During our campaign, we worked within and outside of our coalition to access different resources and skills that grassroots organizations (or unfunded coalitions like ours at the time!)  would normally find difficult to access. For example, a legal services organization in our coalition had access to working hours with a public relations consulting firm, which we were able to use to push news stories about the coalition’s work. Below is a list of key resources and skills to consider leveraging - think about who amongst your allies or potential allies might be able to connect you to such resources._
 
