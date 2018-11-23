@@ -53,7 +53,8 @@
             {name: 'link', label: 'Resource Link', widget: 'string'}
             ],
         // Pattern to identify a block as being an instance of this component
-        pattern: /^{{< resource (.*?) >}}$/,
+        // pattern: /^{{< resource (.*?) >}}$/,
+        pattern: /^{{< resource(?:(title|link)="([^"]*)")*\s*(?:(title|link)="([^"]*)")*\s* >}}$/,
         // Function to extract data elements from the regexp match
         fromBlock: function(match) {
           return {
