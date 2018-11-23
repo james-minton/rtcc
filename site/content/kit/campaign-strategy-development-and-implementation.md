@@ -27,17 +27,17 @@ _Campaign plans are important for identifying what you want to accomplish from t
 <td>Changes in policy, resources or structures we want a person in power to make that are associated with actions during the campaign.</td>
 <td>
 
-<b>General Message:</b> 
+<p><b>General Message:</b> 
 
-The Right to Counsel Coalition of NYC is made up of tenant organizing groups, tenants advocate groups, law schools and legal services organizations. We are working together to achieve justice in our city’s housing courts so that the housing courts are a place of fairness, justice and equity.  We do not support forced displacement that can and should be prevented and we believe that safe and affordable housing is central to our city’s future. We are working on establishing a right in the city of New York for New Yorkers to be represented in housing court by licensed, qualified and experienced providers, when they go to housing court to defend their rights.  
+The Right to Counsel Coalition of NYC is made up of tenant organizing groups, tenants advocate groups, law schools and legal services organizations. We are working together to achieve justice in our city’s housing courts so that the housing courts are a place of fairness, justice and equity.  We do not support forced displacement that can and should be prevented and we believe that safe and affordable housing is central to our city’s future. We are working on establishing a right in the city of New York for New Yorkers to be represented in housing court by licensed, qualified and experienced providers, when they go to housing court to defend their rights.</p>  
 
-<b>Main Demands:</b> 
+<p><b>Main Demands:</b> 
 
 Our short-term goal is to pass INTRO 214 (at 200% of poverty level, including NYCHA proceedings and under HRA). 
 
 Our mid-term goal is to change the nature of housing court so that its primary use as a tool of displacement is dismantled. 
 
-Our long-term goal is to make housing a right and shift the balance. of power between tenants and landlords in this city.
+Our long-term goal is to make housing a right and shift the balance. of power between tenants and landlords in this city.</p>
 
 </td>
 </tr>
