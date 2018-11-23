@@ -27,11 +27,11 @@ _Campaign plans are important for identifying what you want to accomplish from t
 <td>Changes in policy, resources or structures we want a person in power to make that are associated with actions during the campaign.</td>
 <td>
 
-**General Message**: 
+<b>General Message:</b> 
 
 The Right to Counsel Coalition of NYC is made up of tenant organizing groups, tenants advocate groups, law schools and legal services organizations. We are working together to achieve justice in our city’s housing courts so that the housing courts are a place of fairness, justice and equity.  We do not support forced displacement that can and should be prevented and we believe that safe and affordable housing is central to our city’s future. We are working on establishing a right in the city of New York for New Yorkers to be represented in housing court by licensed, qualified and experienced providers, when they go to housing court to defend their rights.  
 
-**Main Demands:** 
+<b>Main Demands:</b> 
 
 Our short-term goal is to pass INTRO 214 (at 200% of poverty level, including NYCHA proceedings and under HRA). 
 
@@ -102,20 +102,21 @@ Our long-term goal is to make housing a right and shift the balance. of power be
 <td>People who actively oppose our demands and try to stop our campaign from moving forward.</td>
 
 <td>We identified potential opposition groups: 
-
-* Small landlords
-* Landlord lobbying/interest groups 
-* City government officials concerned about increasing costs for landlords and cost/benefits of the program.
+<ul>
+<li>Small landlords</li>
+<li>Landlord lobbying/interest groups </li>
+<li>City government officials concerned about increasing costs for landlords and cost/benefits of the program.</li>
+</ul>
 
 We also anticipated what the opposition’s message might be: 
-
-* The city is already too tenant friendly. 
-* For landlords to do business, rents will go up because the cost of being a landlord will go up. 
-* Landlords will be forced to discriminate against tenants they profile as not being able to pay the rent. 
-* The City will be subsidizing the cost of tenants not paying rent.   
-* The cost of the program would be too high.
-* Public misperception that RTC already exists, such as in criminal court, harder to mobilize communities.  
-
+<ul>
+<li>The city is already too tenant friendly.</li> 
+<li>For landlords to do business, rents will go up because the cost of being a landlord will go up.</li> 
+<li>Landlords will be forced to discriminate against tenants they profile as not being able to pay the rent.</li> 
+<li>The City will be subsidizing the cost of tenants not paying rent.   
+<li>The cost of the program would be too high.</li>
+<li>Public misperception that RTC already exists, such as in criminal court, harder to mobilize communities.</li>  
+</ul>
 </td>
 
 </tr>
@@ -129,33 +130,38 @@ We also anticipated what the opposition’s message might be:
 <td>Some Examples Include: 
 
 Outreach to Tenants/Members:  
-
-* Outreach in housing court on the line to have more folks who have been evicted to be a part of the work. 
-* Community forums in boroughs to get feedback on the legal services  model and build momentum. 
+<ul>
+<li>Outreach in housing court on the line to have more folks who have been evicted to be a part of the work.</li> 
+<li>Community forums in boroughs to get feedback on the legal services  model and build momentum.</li> 
+</ul>
 
 Outreach to Secondary Targets: 
-
-* Tour housing courts with key people. 
-* Get state electeds to be on board and talk about the savings for the state. 
+<ul>
+<li>Tour housing courts with key people. </li>
+<li>Get state electeds to be on board and talk about the savings for the state.</li>
+</ul> 
 
 Outreach to Primary Target: 
-
-* Postcard campaign to the mayor. 
+<ul>
+<li>Postcard campaign to the mayor. </li>
+</ul>
 
 Platforms for Tenants to Tell their Stories:
-
-* Create tenant profiles to illustrate the justice denied to pro se tenants
+<ul>
+<li>Create tenant profiles to illustrate the justice denied to pro se tenants</li>
+</ul>
 
 Addressing Opponents: 
-
-* Figure out who major players are in Housing Court. 
-  * Who are the landlords who bring the most evictions? 
-* Local actions targeting landlords, harassment and displacement because of not having RTC. 
+<ul>
+<li>Figure out who major players are in Housing Court.</li> <ul>
+  <li>Who are the landlords who bring the most evictions? </li></ul>
+<li>Local actions targeting landlords, harassment and displacement because of not having RTC.</li>
+</ul> 
 
 Garner Media Appearances:
-
-* Develop and place media like op-eds, to keep the issue in the news and in popular opinion. 
-
+<ul>
+<li>Develop and place media like op-eds, to keep the issue in the news and in popular opinion.</li> 
+</ul>
 </td>
 
 </tr>
@@ -167,13 +173,13 @@ Garner Media Appearances:
 <td>Where you are currently in your campaign? </td>
 
 <td>
-
-* We now have a website and database for folks to sign up and send emails through. 
-* We had a hugely successful forum - over 400 people came.  
-* Great coverage from the New York Times and Newsweek 
-* Working to develop a legal services model that will be presented to community members through a series of borough based town halls. 
-* Working on getting key electeds to tour the courts and building up to a big action at the end of March.
-
+<ul>
+<li>We now have a website and database for folks to sign up and send emails through.</li> 
+<li>We had a hugely successful forum - over 400 people came.</li>   
+<li>Great coverage from the New York Times and Newsweek</li>  
+<li>Working to develop a legal services model that will be presented to community members through a series of borough based town halls.</li>  
+<li>Working on getting key electeds to tour the courts and building up to a big action at the end of March.</li> 
+</ul>
 </td>
 
 </tr>
