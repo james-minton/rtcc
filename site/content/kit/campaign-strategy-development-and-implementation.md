@@ -65,7 +65,7 @@ Our long-term goal is to make housing a right and shift the balance. of power be
 <td>Secondary Targets</td>
 <td>Individuals that can get the primary target to move to give you what you want and that your organization has enough power to move.</td>
 <td>City Council Speaker, other key council members, Public Advocate, Comptroller.</td>
-<tr>
+</tr>
 
 Allies
 
