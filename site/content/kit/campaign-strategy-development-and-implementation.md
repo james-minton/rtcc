@@ -26,11 +26,11 @@ _Campaign plans are important for identifying what you want to accomplish from t
 <tr>
 <td>Principal Demands</td>
 <td>Changes in policy, resources or structures we want a person in power to make that are associated with actions during the campaign.</td>
-<td>General Message: 
+<td>**General Message:** 
 
 The Right to Counsel Coalition of NYC is made up of tenant organizing groups, tenants advocate groups, law schools and legal services organizations. We are working together to achieve justice in our city’s housing courts so that the housing courts are a place of fairness, justice and equity.  We do not support forced displacement that can and should be prevented and we believe that safe and affordable housing is central to our city’s future. We are working on establishing a right in the city of New York for New Yorkers to be represented in housing court by licensed, qualified and experienced providers, when they go to housing court to defend their rights.  
 
-Main Demands: 
+**Main Demands:** 
 
 Our short-term goal is to pass INTRO 214 (at 200% of poverty level, including NYCHA proceedings and under HRA). 
 
@@ -39,40 +39,33 @@ Our mid-term goal is to change the nature of housing court so that its primary u
 Our long-term goal is to make housing a right and shift the balance. of power between tenants and landlords in this city.
 </td>
 </tr>
-</table>
+<tr>
+<td>Primary Target</td>
 
+<td>A person with power who can make a decision to give us what we want. A target is ALWAYS a person, not a group or an institution.</td>
 
-Primary Target
+<td>Our target is Mayor De Blasio: He used the right to counsel in his campaign platform, and the legislation fits well into his plan to create more affordable housing. </td>
+</tr>
 
-A person with power who can make a decision to give us what
+<tr>
+<td>Secondary Demands</td>
 
-we want. A target is ALWAYS a person, not a group or an
+<td>These are more “winnable” demands. These help to assess and build power to win our primary demands.</td>
 
-institution.
+<td><ul><li>Get the City Council Speaker to tour the Housing courts and take a position.</li>
 
-Our target is Mayor De Blasio: He used the right to counsel in his campaign platform, and the legislation fits well into his plan to create more affordable housing. 
+<li>Hold a city council hearing.</li> 
 
-Secondary Demands
+<li>Get Bronx leaders to tour Bronx housing court, and other leaders in other boroughs too.</li>
 
-These are more “winnable” demands. These help to assess and build power to win our primary demands.
-
-Get the City Council Speaker to tour the Housing courts and take a position. 
-
-Hold a city council hearing. 
-
-Get Bronx leaders to tour Bronx housing court, and other leaders in other boroughs too.
-
-Get the Comptroller to take a position on the fiscal smartness of this.
-
-
-
-Secondary Targets
-
-Individuals that can get the primary target to move to give you what you want and that
-
-your organization has enough power to move.
-
-City Council Speaker, other key council members, Public Advocate, Comptroller. 
+<li>Get the Comptroller to take a position on the fiscal smartness of this.</li></ul>
+</td>
+</tr>
+<tr>
+<td>Secondary Targets</td>
+<td>Individuals that can get the primary target to move to give you what you want and that your organization has enough power to move.</td>
+<td>City Council Speaker, other key council members, Public Advocate, Comptroller.</td>
+<tr>
 
 Allies
 
@@ -205,3 +198,5 @@ Great coverage from the New York Times and Newsweek
 Working to develop a legal services model that will be presented to community members through a series of borough based town halls. 
 
 Working on getting key electeds to tour the courts and building up to a big action at the end of March.
+
+</table>
