@@ -91,4 +91,3 @@ A coalition ally read through the full report and distilled it down to two pages
 
 Your coalition could use this report as a model for your own context. If your coalition includes or has access to those with expertise in such financial assessments, you can approach them to help you create documents such as this one.
 
-{{< resource title="undefined" link="undefined" >}}
