@@ -73,10 +73,6 @@ Our long-term goal is to make housing a right and shift the balance. of power be
 
 <td>Allies</td>
 
-</tr>
-
-<tr>
-
 <td>Organizations that have a shared self-interest in the issue that you are working on. The outcome of the campaign will most likely impact them, and so they have a motivation to be involved.</td>
 
 <td>We have a great alliance of community groups, academic institutions and legal services providers in our coalition. </td>
