@@ -81,7 +81,7 @@ Our long-term goal is to make housing a right and shift the balance. of power be
 
 <td>We have a great alliance of community groups, academic institutions and legal services providers in our coalition. </td>
 
-<td>See the list of our allies \\[here](https://d3n8a8pro7vhmx.cloudfront.net/righttocounselnyc/pages/23/attachments/original/1495670148/Sign_On_to_RTC_Principles.pdf?1495670148). </td>
+<td>See the list of our allies <a href="https://d3n8a8pro7vhmx.cloudfront.net/righttocounselnyc/pages/23/attachments/original/1495670148/Sign_On_to_RTC_Principles.pdf?1495670148">here</a>. </td>
 
 </tr>
 
