@@ -18,7 +18,6 @@ Many organizers undoubtedly have their own tools and preferences for campaign de
 
 _Campaign plans are important for identifying what you want to accomplish from the campaign, who is going to give you what you want, and how you are going to influence these people to do what you want. This tool outlines key campaign components and examples from our campaign from early 2015. There are some key terms you will want to know, so we have also provided definitions to those terms, as well as an example of how we identified our campaign needs and key people in our work. We also took time to identify who would be opposing us, and what their messaging would be. Finally, you’ll want to think about what actions will get the decision makers to move in your direction. We have other tools in the toolkit that help you plan actions such as town halls, hearings and postcard deliveries, but this tool will help you see where your actions fit in with your larger goals. Your plan will look different depending on whether you need to pass your bill at a local or state level, and who your key players are. Remember that this is a snapshot of the life of a campaign; you should regularly engage in reviewing and updating the components of this plan as things shift in time, from the secondary goals to potential allies. It is also good practice to date the plan each time updates are made._
 
-
 <table>
 <th>Campaign Component</th>
 <th>Definition</th>
@@ -26,7 +25,9 @@ _Campaign plans are important for identifying what you want to accomplish from t
 <tr>
 <td>Principal Demands</td>
 <td>Changes in policy, resources or structures we want a person in power to make that are associated with actions during the campaign.</td>
-<td>**General Message:** 
+<td>
+
+**General Message**: 
 
 The Right to Counsel Coalition of NYC is made up of tenant organizing groups, tenants advocate groups, law schools and legal services organizations. We are working together to achieve justice in our city’s housing courts so that the housing courts are a place of fairness, justice and equity.  We do not support forced displacement that can and should be prevented and we believe that safe and affordable housing is central to our city’s future. We are working on establishing a right in the city of New York for New Yorkers to be represented in housing court by licensed, qualified and experienced providers, when they go to housing court to defend their rights.  
 
@@ -37,6 +38,7 @@ Our short-term goal is to pass INTRO 214 (at 200% of poverty level, including NY
 Our mid-term goal is to change the nature of housing court so that its primary use as a tool of displacement is dismantled. 
 
 Our long-term goal is to make housing a right and shift the balance. of power between tenants and landlords in this city.
+
 </td>
 </tr>
 <tr>
@@ -67,136 +69,113 @@ Our long-term goal is to make housing a right and shift the balance. of power be
 <td>City Council Speaker, other key council members, Public Advocate, Comptroller.</td>
 </tr>
 
-Allies
+<tr>
 
-Organizations that have a shared self-interest in the issue that you are working on. The outcome of the campaign will most likely impact them, and so they have a motivation to be involved.
+<td>Allies</td>
 
-We have a great alliance of community groups, academic institutions and legal services providers in our coalition.  
+</tr>
 
-See the list of our allies here. 
+<tr>
 
-Potential Allies 
+<td>Organizations that have a shared self-interest in the issue that you are working on. The outcome of the campaign will most likely impact them, and so they have a motivation to be involved.</td>
 
-Individuals and organizations that are not currently active in the campaign but share an interest.
+<td>We have a great alliance of community groups, academic institutions and legal services providers in our coalition. </td>
 
-We are reaching out to other organizations who are also in the movement but are not currently in the coalition or have committed to supporting the RTC legislation. 
+<td>See the list of our allies \\[here](https://d3n8a8pro7vhmx.cloudfront.net/righttocounselnyc/pages/23/attachments/original/1495670148/Sign_On_to_RTC_Principles.pdf?1495670148). </td>
 
-Opposition
+</tr>
 
-People who actively oppose our demands and try to stop our
+<tr>
 
-campaign from moving
+<td>Potential Allies </td>
 
-forward.
+<td>Individuals and organizations that are not currently active in the campaign but share an interest.</td>
 
+<td>We are reaching out to other organizations who are also in the movement but are not currently in the coalition or have committed to supporting the RTC legislation. </td>
 
+</tr>
 
+<tr>
 
+<td>Opposition</td>
 
-We identified potential opposition groups: 
+<td>People who actively oppose our demands and try to stop our campaign from moving forward.</td>
 
-Small landlords
+<td>We identified potential opposition groups: 
 
-Landlord lobbying/interest groups 
-
-City government officials concerned about increasing costs for landlords and cost/benefits of the program.
-
-
+* Small landlords
+* Landlord lobbying/interest groups 
+* City government officials concerned about increasing costs for landlords and cost/benefits of the program.
 
 We also anticipated what the opposition’s message might be: 
 
-The city is already too tenant friendly. 
+* The city is already too tenant friendly. 
+* For landlords to do business, rents will go up because the cost of being a landlord will go up. 
+* Landlords will be forced to discriminate against tenants they profile as not being able to pay the rent. 
+* The City will be subsidizing the cost of tenants not paying rent.   
+* The cost of the program would be too high.
+* Public misperception that RTC already exists, such as in criminal court, harder to mobilize communities.  
 
-For landlords to do business, rents will go up because the cost of being a landlord will go up. 
+</td>
 
-Landlords will be forced to discriminate against tenants they profile as not being able to pay the rent. 
+</tr>
 
-The City will be subsidizing the cost of tenants not paying rent.   
+<tr>
 
-The cost of the program would be too high.
+<td>Overall Strategy of the Campaign </td>
 
-Public misperception that RTC already exists, such as in criminal court, harder to mobilize communities.  
+<td>A planned series of activities that are inter-related, exercise power and build off one-another with the goal of moving an individual (target) to deliver on a specific demand.</td>
 
-
-
-Overall Strategy of the Campaign 
-
-A planned series of activities
-
-that are inter-related, exercise
-
-power and build off one-another
-
-with the goal of moving an
-
-individual (target) to deliver on
-
-a specific demand.
-
-
-
-
-
-Some Examples Include: 
+<td>Some Examples Include: 
 
 Outreach to Tenants/Members:  
 
-Outreach in housing court on the line to have more folks who have been evicted to be a part of the work. 
-
-Community forums in boroughs to get feedback on the legal services  model and build momentum. 
-
-
+* Outreach in housing court on the line to have more folks who have been evicted to be a part of the work. 
+* Community forums in boroughs to get feedback on the legal services  model and build momentum. 
 
 Outreach to Secondary Targets: 
 
-Tour housing courts with key people. 
-
-Get state electeds to be on board and talk about the savings for the state. 
-
-
+* Tour housing courts with key people. 
+* Get state electeds to be on board and talk about the savings for the state. 
 
 Outreach to Primary Target: 
 
-Postcard campaign to the mayor. 
-
-
+* Postcard campaign to the mayor. 
 
 Platforms for Tenants to Tell their Stories:
 
-Create tenant profiles to illustrate the justice denied to pro se tenants
-
- 
+* Create tenant profiles to illustrate the justice denied to pro se tenants
 
 Addressing Opponents: 
 
-Figure out who major players are in Housing Court. 
-
-Who are the landlords who bring the most evictions? 
-
-Local actions targeting landlords, harassment and displacement because of not having RTC. 
-
-
+* Figure out who major players are in Housing Court. 
+  * Who are the landlords who bring the most evictions? 
+* Local actions targeting landlords, harassment and displacement because of not having RTC. 
 
 Garner Media Appearances:
 
-Develop and place media like op-eds, to keep the issue in the news and in popular opinion. 
+* Develop and place media like op-eds, to keep the issue in the news and in popular opinion. 
 
+</td>
 
+</tr>
 
-Current State/Stage of the Campaign 
+<tr>
 
-Where you are currently in your campaign! 
+<td>Current State/Stage of the Campaign</td>
 
-  
+<td>Where you are currently in your campaign? </td>
 
-We now have a website and database for folks to sign up and send emails through. 
+<td>
 
-We had a hugely successful forum - over 400 people came.  
+* We now have a website and database for folks to sign up and send emails through. 
+* We had a hugely successful forum - over 400 people came.  
+* Great coverage from the New York Times and Newsweek 
+* Working to develop a legal services model that will be presented to community members through a series of borough based town halls. 
+* Working on getting key electeds to tour the courts and building up to a big action at the end of March.
 
-Great coverage from the New York Times and Newsweek 
+</td>
 
-Working to develop a legal services model that will be presented to community members through a series of borough based town halls. 
-
-Working on getting key electeds to tour the courts and building up to a big action at the end of March.
+</tr>
 
 </table>
