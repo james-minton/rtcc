@@ -13,6 +13,8 @@ Included are:
 * **How We Structured the Right to Counsel New York City Coalition**: Demonstrates how we are structured and how we function.
 * **Leveraging the Power of Your Institutional Members**: Suggests allies or potential allies that your coalition might leverage to provide key resources and skills you may not otherwise have access to. 
 
+<hr />
+
 ## How We Structured the Right to Counsel New York City Coalition
 
 This document, How We Structured the Right to Counsel New York City Coalition, is intended to provide insight into our central principles, structure and decision-making processes. Our structure during the campaign was not static, and this document offers a look at how the coalition was structured during the campaign. We’d like to emphasize that it is important to be flexible and adapt to the changes that may come your way during your campaign. We also want to share the fact that our funds were very limited from the onset, and that this structure was created and staffed by employees of other organizations!
@@ -21,7 +23,7 @@ While your coalition will be tailored to your local context, we hope that our wo
 
 {{< resource title="How We Structured the Right to Counsel New York City Coalition" link="https://docs.google.com/document/d/1mAb-PbkiBLeVwAWQyG-3B1BS88KklkMLu-smId7vIT4/edit#" >}}
 
-
+<hr />
 
 ## RTCNYC Tool 3.2: How to Leverage the Power of Institutional Members
 
