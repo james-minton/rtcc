@@ -297,7 +297,21 @@ h6 {
 
 
 /* Page Elements ------------ */
-
+.button-block {
+    width: 100%;
+    display: flex;
+}
+a.go.button {
+    background-color: #ca0058;
+    padding: 16px 32px;
+    border-radius: 36px;
+    color: white;
+    margin: auto;
+    &:hover {
+        background-color: #980748;
+        transition: background-color .3s ease;
+    }
+}
 .table1 {
     td {
         padding: 24px 16px;

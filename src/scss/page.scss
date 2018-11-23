@@ -8,6 +8,34 @@ main {
     @include for-1440-up {
         
     }
+    #homepage {
+        h1 {
+            @include for-768-up {
+                margin: 3.2rem 0 1.6rem;
+            }
+        }
+        p:last-of-type {
+            @include for-768-up {
+                margin: 0 0 3.2rem;
+            }
+        }
+    }
+    .home-image {
+        background-image: url("/images/rtc-celebration-july-2017-sm.jpg");
+        max-width: 90%;
+        height: 400px;
+        background-size: cover;
+        background-position-y: 50%;
+        border-radius: 6px;
+        margin: auto;
+    }
+    .chapter {
+        &.content-well {
+            img {
+                max-width: 100%;
+            }
+        }
+    }
     .chapter-head {
         display: flex;
         justify-content: space-between;
@@ -30,10 +58,10 @@ main {
                     top: -2px;
                 }
                 h5.leftarrow {
-                    margin-right: 16px;
+                    margin-right: 32px;
                 }
                 h5.rightarrow {
-                    margin-left: 16px;
+                    margin-left: 32px;
                 }
             }
         }
