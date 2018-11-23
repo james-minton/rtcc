@@ -72,3 +72,5 @@ _Facilitator leads discussion on the root causes._
 **See the problem tree that CASA  generated from their session on below!**
 
 _This activity is adapted with permission Tools for Radical Democracy: How to Organize for Power in Your Community by Joan Minieri and Paul Getsos (Jossey-Bass/Wiley 2007)_
+
+![Problem Tree](/images/uploads/problem-tree.jpg)
