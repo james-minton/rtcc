@@ -34,11 +34,20 @@ main {
             img {
                 max-width: 100%;
             }
+            .logo img {
+                width: 104px;
+                margin: 2.4rem 0;
+            }
         }
     }
     .chapter-head {
         display: flex;
-        justify-content: space-between;
+        flex-wrap: wrap;
+        justify-content: center;
+        @include for-768-up {
+            justify-content: space-between;
+            flex-wrap: nowrap;
+        }
         align-items: center;
         h1 {
             text-align: center;
@@ -63,6 +72,9 @@ main {
                 h5.rightarrow {
                     margin-left: 32px;
                 }
+            }
+            &.mobile-on {
+                margin-top: 1.6rem;
             }
         }
         &.chapter-bottom {

@@ -3,9 +3,10 @@ nav {
    /* display: flex; */
     flex-direction: column;
     align-items: flex-end;
+    display: none;
     @include for-768-up {
         width: 25%;
-        
+        display: block;
         min-width: 272px;
     }
     @include for-1440-up {
@@ -87,4 +88,19 @@ nav {
         }
     }
     
+}
+
+#footer {
+    position: fixed;
+    bottom: 0px;
+    height: 80px;
+    background-color: #fff;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    border-top: 6px solid #f3f3f3;
+    h2 {
+        text-align: left;
+        padding-left: 2.4rem;
+    }
 }

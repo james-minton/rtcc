@@ -40,7 +40,7 @@ body {
     font-family: $mainfont;
 }
 a {
-    color: #CA0058;
+    color: #ca0058;
     text-decoration: none;
     &:hover {
         color: #CA0058;
@@ -356,7 +356,7 @@ a.go.button {
 .outer-padding {
     padding: 0 24px;
     @include for-768-up {
-        padding: 0 48px;
+        padding: 0;
     } 
 }
 .altbg {}
@@ -696,7 +696,7 @@ input {
         display: inherit;
     }
     @include for-768-up {
-        display: none;
+        display: none !important;
     }
 }
 
