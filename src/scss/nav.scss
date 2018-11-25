@@ -9,12 +9,11 @@ nav.slideout-menu, nav#menu-desktop {
         width: 25%;
         display: block;
         min-width: 272px;
-        margin-top: 4rem;
+        
     }
     @include for-1440-up {
        
     }
-
     ul {
         list-style: none;
         color: #fff;
@@ -93,6 +92,9 @@ nav.slideout-menu, nav#menu-desktop {
         }
     }
     
+}
+nav#menu {
+    padding-top: 19px;
 }
 
 #footer {
