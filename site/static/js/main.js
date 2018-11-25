@@ -97,6 +97,14 @@ $(window).on('scroll', function() {
 
 // Slideout menu
 
+
+var slideout = new Slideout({
+    'panel': document.getElementById('panel'),
+    'menu': document.getElementById('menu'),
+    'padding': 256,
+    'tolerance': 70
+  });
+
 $('.toggle-button').on('click', function() {
     slideout.toggle();
 });
@@ -125,6 +133,8 @@ slideout.on('close', function () {
   fixed.style.transition = '';
 });
 
+
+
 // Set media queries for aos-fadein
 
 var navpanel = $("nav#menu");
@@ -146,6 +156,8 @@ $(document).ready(function() {
     // run test on resize of the window
     $(window).resize(checkSize);
 });
+
+
 
 
 

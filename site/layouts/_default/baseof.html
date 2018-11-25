@@ -19,25 +19,25 @@
 
       {{ block "main" . }}{{end}}
     </div>  
+    {{ if ne .Params.type "index" }}
     {{ block "footer" . }} {{ partial "footer" . }} {{end}}
+    {{ end }}
 
     <script src="/app.js"></script>
-    <script src="/js/slideout.min.js"></script>
-    <script>
-      var slideout = new Slideout({
-        'panel': document.getElementById('panel'),
-        'menu': document.getElementById('menu'),
-        'padding': 256,
-        'tolerance': 70
-      });
-    </script> 
+    
+    
     <script src="/js/aos.js"></script>
     <script>
       AOS.init();
     </script>
     <script src="/js/lib.min.js"></script>
+    <script src="/js/slideout.min.js"></script> 
     <script src="/js/main.js?{{ now.Unix }}"></script> 
-    <script src="/js/parallax.min.js"></script> 
+    <script src="/js/parallax.min.js"></script>
+    
+    <script>
+        
+      </script> 
     
   </body>
 </html>

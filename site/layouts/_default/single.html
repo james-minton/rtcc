@@ -1,10 +1,8 @@
 {{ define "main" }}
-<main id="panel" data-aos="fade-in">
+<main id="panel" class="single-page" data-aos="fade-in">
     <div class="chapter content-well outer-padding">
         <div class="chapter-head">
-                <div id="logo-container" class="mobile-on">
-                    <div class="logo"><a href="/"><img src="/images/rtc-logo-416.jpg"></a></div>
-                </div>
+                
             <div class="chapter-arrow mobile-off">
                 {{if .NextInSection }}<a href="{{ .NextInSection.Permalink }}"><img class="leftarrow" src="/images/icons/leftarrow.svg"/><h5 class="leftarrow">Previous</h5></a>
                 {{ else }}<a href="/"><img class="leftarrow" src="/images/icons/leftarrow.svg"/><h5 class="leftarrow">Home</h5></a>{{end}}  

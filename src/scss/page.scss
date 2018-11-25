@@ -12,6 +12,11 @@ main {
     @include for-1440-up {
         
     }
+    &.single-page {
+        @include for-phone-only {
+            margin-top: 120px;
+        }
+    }
     #homepage {
         @include for-phone-only {
             margin-bottom: 120px;
