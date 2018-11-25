@@ -137,7 +137,7 @@ slideout.on('close', function () {
 
 // Set media queries for aos-fadein
 
-var navpanel = $("nav#menu");
+/* var navpanel = $("nav#menu");
 function checkSize(){   
     if ($("main").css("max-width") == "100%"){
         
@@ -155,7 +155,7 @@ $(document).ready(function() {
 
     // run test on resize of the window
     $(window).resize(checkSize);
-});
+}); */
 
 
 

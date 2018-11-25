@@ -4,10 +4,10 @@ main {
        max-width: 75%;
        padding: 0 6.4rem;
        padding-bottom: 6.4rem;
-       margin-left: 272px;
+      
     }
     @include for-1024-up {
-        margin-left: 25%;
+       
     }
     @include for-1440-up {
         

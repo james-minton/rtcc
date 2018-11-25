@@ -1,4 +1,4 @@
-<nav id="menu" data-aos-duration="500">
+<nav id="menu" data-aos="fadein" data-aos-duration="500" class="mobile-on">
     <div id="logo-container" class="mobile-off">
         <div id="logo"><a href="/"><img src="/images/rtc-logo-416.jpg"></a></div>
     </div>
@@ -14,3 +14,19 @@
         {{ end }}
     </div>
 </nav>
+<nav id="menu-desktop" class="mobile-off">
+        <div id="logo-container" class="mobile-off">
+            <div id="logo"><a href="/"><img src="/images/rtc-logo-416.jpg"></a></div>
+        </div>
+        <div id="nav-container">
+            <h2 class="mobile-off">Toolkit</h2>
+            <div class="nav-page">
+                <a href="/">Home</a>
+            </div>
+            {{ range .Site.RegularPages }}
+            <div class="nav-page">
+                <a class="toolkit-link" href="{{ .Permalink }}">{{ .Title }}</a>
+            </div> 
+            {{ end }}
+        </div>
+    </nav>
