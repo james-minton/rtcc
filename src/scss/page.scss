@@ -14,8 +14,12 @@ main {
     }
     &.single-page {
         @include for-phone-only {
-            margin-top: 120px;
+           
         }
+    }
+    .spacer {
+        height: 120px;
+        width: 100%;
     }
     #homepage {
         @include for-phone-only {
