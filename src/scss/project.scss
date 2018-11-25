@@ -11,6 +11,9 @@ html {
 
 
 $darkfour: #343E3D;
+$burgundy:#ca0058;
+$slateblack: #343e3d;
+$lightgrey: #f3f3f3; 
 
 
 /* Breakpoints ---------------------------- */
@@ -313,6 +316,7 @@ a.go.button {
     }
 }
 .table1 {
+   
     td {
         padding: 24px 16px;
         border: 2px solid #f3f3f3;
@@ -688,7 +692,7 @@ input {
 }
 .mobile-off {
     @include for-phone-only {
-        display: none;
+        display: none !important;
     }
 }
 .mobile-on {
@@ -699,6 +703,9 @@ input {
         display: none !important;
     }
 }
+
+/* ----- Slideout menu --- */
+
 
 
 

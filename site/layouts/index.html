@@ -1,14 +1,21 @@
 {{ define "main" }}
-<main>
+<main id="panel">
   <div id="homepage" class="content-well">
-    <div class="chapter content-well">
+      <div class="chapter-head">
+          <div id="logo-container" class="mobile-on">
+              <div class="logo"><a href="/"><img src="/images/rtc-logo-416.jpg"></a></div>
+          </div>
+      </div>    
+    
       <div class="home-image"></div>
       <!--<img src="/images/rtc-celebration-july-2017-sm.jpg" />-->
-    </div>
-    {{ .Content }}
+      <div class="chapter content-well outer-padding">  
+      {{ .Content }}
+    
     <div class="button-block">
       <a href="/kit/introduction" class="go uppercase button">Get Started</a>
-    </div>  
+    </div> 
+  </div> 
   </div>
 </main> 
   

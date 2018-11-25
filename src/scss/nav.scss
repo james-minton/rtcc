@@ -1,17 +1,20 @@
-nav {
+nav.slideout-menu {
     background-color: $darkfour;
    /* display: flex; */
     flex-direction: column;
     align-items: flex-end;
     display: none;
     @include for-768-up {
+        opacity: 1;
         width: 25%;
         display: block;
         min-width: 272px;
+        margin-top: 4rem;
     }
     @include for-1440-up {
        
     }
+
     ul {
         list-style: none;
         color: #fff;
@@ -40,6 +43,7 @@ nav {
         display: flex;
         flex-direction: column;
         align-items: flex-end;
+        margin-bottom: 80px;
      
         h2 {
             margin: 2.4rem 0 1.6rem;
@@ -77,7 +81,7 @@ nav {
         padding-right: 32px;
         display: flex;
         justify-content: flex-end;
-        padding-bottom: 48px;
+        padding-bottom: 40px;
         #logo {
             width: 208px;
             height: 252px;
@@ -92,15 +96,77 @@ nav {
 
 #footer {
     position: fixed;
-    bottom: 0px;
+    z-index: 2;
+    bottom: 0px; 
     height: 80px;
     background-color: #fff;
+    background-color: $lightgrey;
     width: 100%;
     display: flex;
     align-items: center;
-    border-top: 6px solid #f3f3f3;
+    border-top: 6px solid $burgundy;
+    a { 
+        cursor: pointer;
+        &.toggle-button {
+            padding-left: 2.4rem;
+            display: flex;
+        }
+    }
+    svg path {
+        fill: $burgundy;
+    }
     h2 {
         text-align: left;
-        padding-left: 2.4rem;
+        /* color: $burgundy; */
+        cursor: pointer;
+        margin-left: 1.6rem;
+      
+       
+        
     }
 }
+
+/* -- Slideout menu -- */
+
+body {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .slideout-menu {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    width: 256px;
+    min-height: 100vh;
+    overflow-y: scroll;
+    -webkit-overflow-scrolling: touch;
+    z-index: 0;
+    display: none;
+  }
+  
+  .slideout-menu-left {
+    left: 0;
+  }
+  
+  .slideout-menu-right {
+    right: 0;
+  }
+  
+  .slideout-panel {
+    position: relative;
+    z-index: 1;
+    will-change: transform;
+    background-color: #FFF; /* A background-color is required */
+    min-height: 100vh;
+  }
+  
+  .slideout-open,
+  .slideout-open body,
+  .slideout-open .slideout-panel {
+    overflow: hidden;
+  }
+  
+  .slideout-open .slideout-menu {
+    display: block;
+  }

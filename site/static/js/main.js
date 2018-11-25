@@ -95,38 +95,50 @@ $(window).on('scroll', function() {
     });
 });
 
-// Carousel item # of total
+// Slideout menu
 
-var totalItems = $('.carousel-item').length;
-var currentIndex = $('div.active').index() + 1;
-$('.num').html(''+currentIndex+'/'+totalItems+'');
-
-
-$('#tv-carousel').on('slid.bs.carousel', function() {
-    currentIndex = $('div.active').index() + 1;
-   $('.num').html(''+currentIndex+' of '+totalItems+'');
+$('.toggle-button').on('click', function() {
+    slideout.toggle();
 });
 
-// Parallax image responsive positioning
+var fixed = document.querySelector('.fixed-footer');
 
+slideout.on('translate', function(translated) {
+  fixed.style.transform = 'translateX(' + translated + 'px)';
+});
 
-var panel = $("#homepage #panel1");
+slideout.on('beforeopen', function () {
+  fixed.style.transition = 'transform 300ms ease';
+  fixed.style.transform = 'translateX(256px)';
+});
+
+slideout.on('beforeclose', function () {
+  fixed.style.transition = 'transform 300ms ease';
+  fixed.style.transform = 'translateX(0px)';
+});
+
+slideout.on('open', function () {
+  fixed.style.transition = '';
+});
+
+slideout.on('close', function () {
+  fixed.style.transition = '';
+});
+
+// Set media queries for aos-fadein
+
+var navpanel = $("nav#menu");
 function checkSize(){   
-    if ($("#panel1").css("height") == "500px"){
+    if ($("main").css("max-width") == "100%"){
         
-        panel.data("positionY", "-99%");
+        navpanel.data("aos", "fadein");
     }
-    else if ($("#panel1").css("height") == "400px"){
+    else if ($("main").css("max-width") == "75%"){
        
-        panel.data("positionY", "-56%");
-    }
-    else if ($("#panel1").css("height") == "248px"){
-       
-        panel.data("positionY", "-56px");
+        navpanel.data("aos", "");
     }
 
 }
-
 $(document).ready(function() {
     // run test on initial page load
     checkSize();

@@ -18,7 +18,7 @@ Many organizers undoubtedly have their own tools and preferences for campaign de
 
 _Campaign plans are important for identifying what you want to accomplish from the campaign, who is going to give you what you want, and how you are going to influence these people to do what you want. This tool outlines key campaign components and examples from our campaign from early 2015. There are some key terms you will want to know, so we have also provided definitions to those terms, as well as an example of how we identified our campaign needs and key people in our work. We also took time to identify who would be opposing us, and what their messaging would be. Finally, you’ll want to think about what actions will get the decision makers to move in your direction. We have other tools in the toolkit that help you plan actions such as town halls, hearings and postcard deliveries, but this tool will help you see where your actions fit in with your larger goals. Your plan will look different depending on whether you need to pass your bill at a local or state level, and who your key players are. Remember that this is a snapshot of the life of a campaign; you should regularly engage in reviewing and updating the components of this plan as things shift in time, from the secondary goals to potential allies. It is also good practice to date the plan each time updates are made._
 
-<table class="table1">
+<table class="table1 table-responsive">
 <th class="th1">Campaign Component</th>
 <th class="th2">Definition</th>
 <th class="th3">RTCNYC Coalition Example</th>
