@@ -4,7 +4,13 @@
     {{ else }}
         <h3>TOOL:</h3>
     {{ end }}    
-    <a href="{{ .Get "link" }}" target="_blank">{{ .Get "title" | safeHTML }}</a>
-    <a href="{{ .Get "link2" }}" target="_blank">{{ .Get "title2" | safeHTML }}</a>
-    <a href="{{ .Get "link3" }}" target="_blank">{{ .Get "title3" | safeHTML }}</a>
+    <div class="tool1">
+        <a href="{{ .Get "link1" }}" target="_blank">{{ .Get "title1" | safeHTML }}</a>{{ if isset .Params "link1-2"}} | <a href="{{ .Get "link1-2" }}" target="_blank">{{ .Get "title1-2" | safeHTML }}</a>{{ end }}
+    </div> 
+    <div class="tool2">  
+        <a href="{{ .Get "link2" }}" target="_blank">{{ .Get "title2" | safeHTML }}</a>{{ if isset .Params "link2-2"}} | <a href="{{ .Get "link2-2" }}" target="_blank">{{ .Get "title2-2" | safeHTML }}</a>{{ end }}
+    </div> 
+    <div class="tool3"> 
+        <a href="{{ .Get "link3" }}" target="_blank">{{ .Get "title3" | safeHTML }}</a>{{ if isset .Params "link3-2"}} | <a href="{{ .Get "link3-2" }}" target="_blank">{{ .Get "title3-2" | safeHTML }}</a>{{ end }}
+    </div>    
 </div>
