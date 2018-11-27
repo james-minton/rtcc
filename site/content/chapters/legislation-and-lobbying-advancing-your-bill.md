@@ -25,11 +25,11 @@ This is the text of Local Law 136, enacted in August 2017, which establishes the
 
 Additional materials, such as hearing transcripts, can be found on the New York City Council website [here](http://legistar.council.nyc.gov/LegislationDetail.aspx?ID=1687978&GUID=29A4594B-9E8A-4C5E-A797-96BDC4F64F80&Options=ID%7cText%7c&Search=214). 
 
-{{< resource title="Local Law 136" link="https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=1687978&GUID=29A4594B-9E8A-4C5E-A797-96BDC4F64F80&Options=ID%7cText%7c&Search=214" >}}
+{{< resource title1="Local Law 136" link1="https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=1687978&GUID=29A4594B-9E8A-4C5E-A797-96BDC4F64F80&Options=ID%7cText%7c&Search=214" >}}
 
 <hr />
 
-{{< resource title="Checklist of Key Components in Right to Counsel Legislation (PDF)" link="/docs/5/Key Components of RTC Legislation.pdf" >}}
+{{< resource title1="Checklist of Key Components in Right to Counsel Legislation (PDF)" link1="/docs/5/Key Components of RTC Legislation.pdf" >}}
 
 <hr />
 
@@ -41,7 +41,7 @@ The emphasis on the unique importance of Right to Counsel as a right underscored
 
 _Citation: Scherer, Andrew, "WHY A RIGHT: The Right to Counsel and the Ecology of Housing Justice" (2016). Impact Center for Public Interest Law. Book 17_
 
-{{< resource title="WHY A RIGHT: The Right to Counsel and the Ecology of Housing Justice" link="https://digitalcommons.nyls.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1017&context=impact_center" >}}
+{{< resource title1="WHY A RIGHT: The Right to Counsel and the Ecology of Housing Justice" link1="https://digitalcommons.nyls.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1017&context=impact_center" >}}
 
 <hr />
 
@@ -51,7 +51,7 @@ This essay by Susanna Blankley, a tenant organizer and former Coalition Coordina
 
 Essays like this can be leveraged to make the case to a variety of audiences for Right to Counsel as a right, and to connect it to larger structures for racial and economic justice in your city.
 
-{{< resource title="The Fight for Justice in Housing Court: From the Bronx to a Right to Counsel for all New York City Tenants" link="https://digitalcommons.nyls.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1016&context=impact_center" >}}
+{{< resource title1="The Fight for Justice in Housing Court: From the Bronx to a Right to Counsel for all New York City Tenants" link1="https://digitalcommons.nyls.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1016&context=impact_center" >}}
 
 <hr />
 
