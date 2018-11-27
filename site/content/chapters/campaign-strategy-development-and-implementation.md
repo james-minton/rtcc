@@ -12,4 +12,4 @@ Many organizers undoubtedly have their own tools and preferences for campaign de
 
 **Outreach to Agencies and Institutions:** Designed to guide outreach to city agencies to garner support for and quell resistance to Right to Counsel, including understanding the agency’s mission, the rationale for reaching out to them, key contacts, and notes.   
 
-{{< resource title="Campaign Plan (PDF)" link="/docs/4/RTC Campaign Plan.pdf" title2="The Action Plan: A Month in the Life of the RTCNYC Campaign (PDF)" link2="/docs/4/Action Plan - A Month in the Life of the RTCNYC Campaign.pdf (PDF)" title3="Outreach to Agencies and Institutions (PDF)" link3="/docs/4/Outreach to Agencies and Institutions.pdf" >}}
+{{< resource title1="Campaign Plan (PDF)" link="/docs/4/RTC Campaign Plan.pdf" title2="The Action Plan: A Month in the Life of the RTCNYC Campaign (PDF)" link2="/docs/4/Action Plan - A Month in the Life of the RTCNYC Campaign.pdf (PDF)" title3="Outreach to Agencies and Institutions (PDF)" link3="/docs/4/Outreach to Agencies and Institutions.pdf" >}}
