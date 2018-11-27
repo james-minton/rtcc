@@ -68,3 +68,5 @@ Included in this section are:
 * Postcards to Key Decision Makers: A template for the postcards we used to pressure elected officials, plus a version in Spanish.
 * Sample Right to Counsel Petition: To be used alone or in addition to the postcards.
 * Outreach to Elected Officials: An effective and engaging way to reach electeds. You can customize the template flyer and rap to your jurisdiction.
+
+{{< resource title1="Template Postcards to key decision makers (PDF)" link1="/docs/6/Postcards to Key Decision Makers.pdf" title1-2="(DOCX)" link1-2="/docs/6/Postcards to Key Decision Makers.docx" >}}
