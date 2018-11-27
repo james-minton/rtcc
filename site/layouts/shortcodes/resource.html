@@ -1,5 +1,9 @@
 <div class="resource-link">
-    <h3>RESOURCE:</h3>
+    {{ if isset .Params "link2" }}
+        <h3>TOOLS:</h3>
+    {{ else }}
+        <h3>TOOL:</h3>
+    {{ end }}    
     <a href="{{ .Get "link" }}" target="_blank">{{ .Get "title" | safeHTML }}</a>
     <a href="{{ .Get "link2" }}" target="_blank">{{ .Get "title2" | safeHTML }}</a>
     <a href="{{ .Get "link3" }}" target="_blank">{{ .Get "title3" | safeHTML }}</a>
