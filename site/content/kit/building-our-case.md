@@ -92,8 +92,7 @@ A coalition ally read through the full report and distilled it down to two pages
 Your coalition could use this report as a model for your own context. If your coalition includes or has access to those with expertise in such financial assessments, you can approach them to help you create documents such as this one.
 
 <div class="resource-link">
-    <h3>RESOURCE:</h3>
+    <h3>TOOLS:</h3>
     <a href="https://www2.nycbar.org/pdf/report/uploads/SRR_Report_Financial_Cost_and_Benefits_of_Establishing_a_Right_to_Counsel_in_Eviction_Proceedings.pdf" target="_blank">Full Report</a>
     <a href="https://d3n8a8pro7vhmx.cloudfront.net/righttocounselnyc/pages/23/attachments/original/1460160961/SRR_report_two_pager_FINAL.pdf?1460160961" target="_blank">2 Page Summary</a>
 </div>
-
