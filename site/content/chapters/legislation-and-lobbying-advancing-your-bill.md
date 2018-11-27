@@ -4,8 +4,6 @@ weight: '70'
 contenttype: toolkit
 date: 2018-11-27T22:53:26.544Z
 ---
-
-
 This section of the toolkit focuses on the legislation that you will ultimately win! This section underscores the importance of the legislation as well as the mechanics you should consider in drafting legislation of your own. It also includes tools for engaging elected officials and lobbying for your bill. 
 
 Included in this section is:
@@ -31,4 +29,42 @@ Additional materials, such as hearing transcripts, can be found on the New York 
 
 <hr />
 
-{{< resource title="Checklist of Key Components in Right to Counsel Legislation" link="/docs/5/Key Components of RTC Legislation.pdf" >}}
+{{< resource title="Checklist of Key Components in Right to Counsel Legislation (PDF)" link="/docs/5/Key Components of RTC Legislation.pdf" >}}
+
+<hr />
+
+## WHY A RIGHT: The Right to Counsel and the Ecology of Housing Justice
+
+This 2016 article by Andrew Scherer, a respected lawyer and active member in the coalition, emphasizes the importance and impact of enacting Right to Counsel as a right, rather than just expanding existing funding for legal services. The article emphasizes that a right comes with additional protections, provides security and stability, conveys dignity, respect and equality, and ultimately shifts the balance of power.  
+
+The emphasis on the unique importance of Right to Counsel as a right underscored much of our coalition’s organizing and messaging, and this article can help inform your own thinking about the importance of enshrining Right to Counsel as a right.
+
+_Citation: Scherer, Andrew, "WHY A RIGHT: The Right to Counsel and the Ecology of Housing Justice" (2016). Impact Center for Public Interest Law. Book 17_
+
+{{< resource title="WHY A RIGHT: The Right to Counsel and the Ecology of Housing Justice" link="https://digitalcommons.nyls.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1017&context=impact_center" >}}
+
+<hr />
+
+## The Fight for Justice in Housing Court: From the Bronx to a Right to Counsel for all New York City Tenants
+
+This essay by Susanna Blankley, a tenant organizer and former Coalition Coordinator, was  written before the implementation of Right to Counsel. The piece situates the need for Right to Counsel as a key tool to start to resolve the vast power imbalances in New York City’s housing court, where low-income people of color are hugely disadvantaged by the structure of the system and the lack of access to legal representation. The essay also puts Right to Counsel in context of the larger gentrification and displacement crisis in New York City.
+
+Essays like this can be leveraged to make the case to a variety of audiences for Right to Counsel as a right, and to connect it to larger structures for racial and economic justice in your city.
+
+{{< resource title="The Fight for Justice in Housing Court: From the Bronx to a Right to Counsel for all New York City Tenants" link="https://digitalcommons.nyls.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1016&context=impact_center" >}}
+
+<hr />
+
+## Tools for Engaging Elected Officials
+
+Elected officials--legislators and the mayor or governor--are primary targets of any campaign in which legislation is the goal. The tools in this section are designed to support your outreach and lobbying efforts in order to get your bill passed. We’ve compiled a variety of the tools that worked for us in engaging elected officials.
+
+We collected close to 7,000 signatures on petitions addressed to Mayor de Blasio and the City Council Speaker in support of right to counsel, and delivered them during a press conference on the steps of City Hall. Even though collecting 7,000 signatures on a petition was no small feat, we found that postcards were more visually impactful than the signatures. We printed the postcards on brightly colored paper and put them in big, clear plastic bags to convey a strong image of public support. In addition, gathering signatures can be a great leadership development and base building tool! We passed out these petitions at community meetings and public forums. Tenant leaders also took stacks of petitions and postcards to collect over a period of time.
+
+We had a specific target for outreach to elected officials. Because the legislation had such a large fiscal impact, we wanted to demonstrate widespread support. Our goal was to have a veto-proof majority of city council members sign on to the legislation, which meant getting more than 35 council members signed on. That meant that if the Mayor vetoed the bill, the council could override his veto. While that rarely happens, such a high number of bill sponsors is also rare, which we knew would send a strong message to the Mayor. 
+
+Included in this section are: 
+
+* Postcards to Key Decision Makers: A template for the postcards we used to pressure elected officials, plus a version in Spanish.
+* Sample Right to Counsel Petition: To be used alone or in addition to the postcards.
+* Outreach to Elected Officials: An effective and engaging way to reach electeds. You can customize the template flyer and rap to your jurisdiction.
