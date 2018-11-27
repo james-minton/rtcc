@@ -21,7 +21,7 @@ This document, How We Structured the Right to Counsel New York City Coalition, i
 
 While your coalition will be tailored to your local context, we hope that our work can be a helpful model from which to build.
 
-{{< resource title="How We Structured the Right to Counsel New York City Coalition" link="https://docs.google.com/document/d/1mAb-PbkiBLeVwAWQyG-3B1BS88KklkMLu-smId7vIT4/edit#" >}}
+{{< resource title1="How We Structured the Right to Counsel New York City Coalition" link="https://docs.google.com/document/d/1mAb-PbkiBLeVwAWQyG-3B1BS88KklkMLu-smId7vIT4/edit#" >}}
 
 <hr />
 
