@@ -16,4 +16,4 @@ Many organizers undoubtedly have their own tools and preferences for campaign de
 
 ## Campaign Plan
 
-{{< resource title="Campaign Plan (PDF)" link="/docs/4/RTC Campaign Plan.pdf" >}}
+{{< resource title="Campaign Plan (PDF)" link="/docs/4/RTC Campaign Plan.pdf" title2="The Action Plan: A Month in the Life of the RTCNYC Campaign" link2="/docs/4/Action Plan - A Month in the Life of the RTCNYC Campaign.pdf" title3="Outreach to Agencies and Institutions" link3="/docs/4/Outreach to Agencies and Institutions.pdf" >}}
