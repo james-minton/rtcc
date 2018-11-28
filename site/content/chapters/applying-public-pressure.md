@@ -23,8 +23,6 @@ Included here:
 * **Preparing Testimony for Right to Counsel Hearings:** Testimony is a crucial part of holding effective hearings. We offer tips and guidance on how to craft succinct key point and prepare powerful narratives. 
 * **Sample Flyer:** This can be used as a guide to create your own. It includes the event logistics as well as our website address, for those that may not have been familiar with the issue
 
-
-
 <h3>Hearing Planning Spreadsheet</h3>
 
 Planning our hearing required coordinating a lot of moving pieces: multiple organizations and speakers, speeches and testimony, timing, press and other logistics. We had a lot of information and notes to keep track of, and we’re including the spreadsheet here that helped us stay on track during the planning phase. We’ve removed names and data, but kept the categories of speakers, organizations and tabs that correspond to the different elements of the agenda. This style of organization worked well for us, and we hope that it does for you, and that it inspires an engaging and powerful hearing!
@@ -35,8 +33,6 @@ Planning our hearing required coordinating a lot of moving pieces: multiple orga
 
 {{< resource title1="Preparing Testimony for Right to Counsel Hearings (PDF)" link1="/docs/9/Preparing Testimony for Hearings.pdf" title1-2="(DOCX)" link1-2="/docs/9/Preparing Testimony for Hearings.docx" >}}
 
-
-
 <h3>Hearing Flyer</h3>
 
 Creating and disseminating flyers is an invaluable way to spread the word about events. Not only do flyers reach masses in person, but they can be used digitally to reach an even wider audience. Because flyers are meant to capture key ideas in a succinct manner, we made sure to only provide the messaging that we felt would “grab” the audience. This flyer for our public hearing includes key messaging as well as the fact that food and transportation would be provided, which was a principle that we always adhered to. We invite you to use this flyer to model your own. 
@@ -44,3 +40,30 @@ Creating and disseminating flyers is an invaluable way to spread the word about 
 {{< resource title1="Hearing Flyer (DOCX)" link1="/docs/9/RTC Hearing Flyer.docx" >}}
 
 <hr />
+
+## Press Conferences
+
+We held many press conferences throughout the campaign! We planned press conferences to correspond with highly public actions, like delivering bags of postcards in support of Right to Counsel. Organizing these events was a way for us to control the messaging and narrative about the Right to Counsel as well as to build energy and support for RTC. One of our goals was to have a constant “buzz” about Right to Counsel, so that lawmakers were constantly hearing about it. It’s also important to note that we always had tenant leaders either MC the press conferences or co-MC them with elected officials. We wanted to make sure that it was clear to the press and to the public that the coalition is ultimately accountable to tenant leaders. Some key things to consider when planning press conferences include date and time, location, participants, speakers and press contacts. 
+
+Included are:
+
+* **Press Conference Agenda:** This is a very basic outline of a press conference. 
+* **Postcard Delivery Press Conference Agenda:** This is a more detailed outline of a press conference--it’s part-script, part-agenda, and part planning document!  
+* **Questions to Ask about RTC to Key Lawmakers at Public Events:** Includes the strategic questions we asked the Mayor of NYC in order to get him to publicly share his position on right to counsel. 
+* **Sample Chants:** We’ve included some sample chants, to help build energy and demonstrate unity!
+
+{{< resource title1="Sample Press Conference Agenda (PDF)" link1="/docs/9/Sample Press Conference Agenda.pdf" title1-2="(DOCX)" link1-2="/site/static/docs/9/Sample Press Conference Agenda.docx" >}}
+
+<h3>Postcard Delivery Press Conference</h3>
+
+The postcard delivery event was an exciting moment for the coalition. We collected hundreds of postcards in support of right to counsel (see the Legislation and Lobbying section for a sample of the postcard) and delivered them to Manhattan Housing Court in clear plastic bags for a strong visual effect. The agenda for the postcard delivery press conference was packed with faith leaders, tenant leaders speaking in multiple languages, chants to rally the crows, visuals and instructions for messaging. With both internal and external instructions, it’s a good example for how to organize an exciting event.
+
+{{< resource title1="Right To Counsel Press Conference and Postcard Delivery Rally (PDF)" link1="/docs/9/Postcard Delivery Press Conference.pdf" title1-2="(DOCX)" link1-2="/docs/9/Postcard Delivery Press Conference.docx" >}}
+
+<hr />
+
+{{< resource title1="Questions to Ask about RTC to Key Lawmakers at Public Events (PDF)" link1="/docs/9/Questions to Ask about RTC to key lawmakers at public events.pdf" title1-2="(DOCX)" link1-2="site/static/docs/9/Questions to Ask about RTC to key lawmakers at public events.docx" >}}
+
+<hr />
+
+{{< resource title1="Sample Chants for Events (PDF)" link1="/docs/9/Tenant Chant Cheat Sheet.pdf" title1-2="(DOCX)" link1-2="site/static/docs/9/Tenant Chant Cheat Sheet.docx" >}}
