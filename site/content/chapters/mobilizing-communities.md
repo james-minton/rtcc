@@ -42,4 +42,28 @@ For our town halls, we used short skits developed by tenant leaders and organize
 
 We’re excited to share our skit script here, which you could adapt for your own coalition’s needs.
 
-{{< resource title1="NYC Housing Court: A Pro Se Tenant’s Experience (PDF)" link1="/docs/8/Housing Court Skit\_ Manhattan Town Hall Version.pdf" title1-2="(DOCX)" link1-2="/docs/8/Housing Court Skit\_ Manhattan Town Hall Version.docx" >}}
+{{< resource title1="NYC Housing Court: A Pro Se Tenant’s Experience (PDF)" link1="/docs/8/Housing Court Skit.pdf" title1-2="(DOCX)" link1-2="/docs/8/Housing Court Skit.docx" >}}
+
+<hr/>
+
+## Town Hall Video
+
+This video documents town hall meetings held by the RTCNYC coalition throughout the city. Town hall and community meetings are a powerful way to bring people together to learn about the importance of Right to Counsel, meet and build with one another, engage with elected officials, and ultimately commit to supporting the fight for Right to Counsel. Documenting these meetings and creating a short video such as this one allowed the coalition to create a permanent tool that could demonstrate the degree of community engagement of Right to Counsel and get the word out even more broadly.
+
+A father and daughter video-making team created this video for us for free! Remember to look within your coalition for connections to people with videography skills, so you can approach them to help you document your work and create videos such as this one.
+
+<div class="ytembed"><iframe width="560" height="315" src="https://www.youtube.com/embed/g7X6CsgL9ug" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<hr />
+
+**Town Hall Report**
+
+This short report was created by the coalition after we hosted a series of town hall meetings. This report documents the extent of community interest in the meetings, recognizes supportive elected officials, explains the importance of the Right to Counsel, and includes key quotes from the town halls.
+
+Creating documents such as these after public meetings will allow you to extend the reach of your message beyond those who attended the meetings. We also used the report as an outreach and education tool in community meetings, meetings with allies, meetings with electeds, etc., to talk about the coalition, our impact and the importance of Right to Counsel. 
+
+{{< resource title1="Town Hall Report (PDF)" link1="/docs/8/townhall_report_final_v4.pdf"  >}}
+
+<hr />
+
+{{< resource title1="Commitment Card Template (PDF)" link1="/docs/8/Commitment Card Template.pdf" title1-2="(DOCX)" link1-2="/docs/8/Commitment Card Template.docx" >}}
