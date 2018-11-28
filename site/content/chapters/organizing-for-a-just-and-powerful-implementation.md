@@ -12,19 +12,19 @@ Please note that we developed the toolkit while still running a just implementat
 
 Included are three sets of tools:
 
-Coalition Tools around Principles and Messaging:
+<h3>Coalition Tools around Principles and Messaging</h3>
 
 * **Guiding Principles for Right to Counsel Legislation and Implementation:** Developed by our coalition to advocate for the best possible language in the legislation as well as the best possible implementation. 
 * **Tips for Speaking to the Press about Implementation:** Developed to ensure a consistent and strategic message.
 * **Working Groups for Implementation and Ongoing Organizing:** Describes the work of our different working groups as we continue the implementation process.
 
-Tools for Outreach/Tenant Engagement and Education:
+<h3>Tools for Outreach/Tenant Engagement and Education</h3>
 
 * **Frequently Asked Questions:** Designed as a community education tool to ensure tenants know their rights as well as to explain how the five year phase in would work, given that during this time some tenants have access to RTC while others do not.
 * **Facilitation Guide and Q&A for Right to Counsel and Implementation:** Designed to get the word out about implementation for tenants, legal service providers, legislators and other stakeholders.
 * **New Website:** Eviction Free NYC: Our website gives people access to information about Right to Counsel, helps determines their eligibility and shares how to connect to an attorney.  
 
-Tools for Ongoing Organizing:
+<h3>Tools for Ongoing Organizing</h3>
 
 * **Right to Counsel 2.0:** The Work to Come: Documenting our vision for continued organizing to strengthen Right to Counsel in New York City.
 * **Working Groups for Implementation and Ongoing Organizing:** To organize the work of your campaign’s implementation organizing phase.
