@@ -32,7 +32,7 @@ We want to emphasize the importance of knowing which media outlets will reach yo
 
 The following are press releases and advisories from the Coalition that can be adapted for your campaign. Writing press releases and advisories is key to getting media attention for the campaign. Your coalition can develop a list of media outlets and reporters to target, and you can then send your press advisories and releases to them in advance of a press event, as follow up or as a way to generate press without an event. 
 
-{{< resource title1="Petition Advisory (PDF)" link1="/docs/10/Petition Advisory.pdf" title1-2="(DOCX)" link1-2="/docs/10/Petition Advisory.docx" title2="Interfaith Advisory (PDF)" link2="/docs/10/Interfaith Advisory.pdf" title2-2="(DOCX)" link2-2="/docs/10/Interfaith Advisory.docx" title3="Press Release" link3="/docs/10/Press Release.pdf" title3-2="(DOCX)" link3-2="/docs/10/Press Release.docx" >}}
+{{< resource title1="Petition Advisory (PDF)" link1="/docs/10/Petition Advisory.pdf" title1-2="(DOCX)" link1-2="/docs/10/Petition Advisory.docx" title2="Interfaith Advisory (PDF)" link2="/docs/10/Interfaith Advisory.pdf" title2-2="(DOCX)" link2-2="/docs/10/Interfaith Advisory.docx" title3="Press Release (PDF)" link3="/docs/10/Press Release.pdf" title3-2="(DOCX)" link3-2="/docs/10/Press Release.docx" >}}
 
 <hr />
 
