@@ -56,7 +56,7 @@ A father and daughter video-making team created this video for us for free! Reme
 
 <hr />
 
-**Town Hall Report**
+<h3>Town Hall Report</h3>
 
 This short report was created by the coalition after we hosted a series of town hall meetings. This report documents the extent of community interest in the meetings, recognizes supportive elected officials, explains the importance of the Right to Counsel, and includes key quotes from the town halls.
 
