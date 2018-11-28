@@ -104,3 +104,28 @@ We created postcards with the website’s address and key information and consta
 The website was created on a user-friendly platform and is easy to update on our end, but this is an ongoing project as the implementation changes and expands. When we released the website, we circulated press releases on social media to help get the word out. 
 
 {{< resource title1="Website: Eviction Free NYC" link1="https://www.evictionfreenyc.org/en-US"  title2="Eviction Free NYC postcard (PDF)" link2="/docs/12/Eviction Free NYC postcard.pdf" >}}
+
+<hr />
+
+## Tools for Ongoing Community Organizing 
+
+After the win, a whole new campaign to ensure a just implementation of the law commenced. In NYC, the law funds lawyers, not organizers, which is something we are working to change. We began to organize to answer specific questions. How do we ensure that every New Yorker knows about this right? How do they claim it as their own and use it to unleash organizing potential and build the tenant movement? While there is a lot of work to do around implementation, the majority of our resources go to support this work and answer these questions.
+
+We invite you to use these tools when the time comes to expand into the next phase of right to counsel in your city. 
+
+The tools in this section include:
+
+* **Right to Counsel 2.0:** The Work to Come: We share our vision for continued organizing to strengthen the Right to Counsel.
+* **Town Hall Guiding Agenda:** To organize and facilitate public meetings in which implementation is outlined.
+* **Town Hall Phone Banking Script:** A succinct script for phone bankers to use when calling community members to inform them about town hall meetings. 
+* **Supporting Tenant Organizing:** Four tools designed to guide ongoing organizing:
+  * Principles
+  * Organizing timeline
+  * Town hall phone banking 
+  * Overview of organizing with RTC
+
+{{< resource title1="Case Study: The Work to Come & RTC 2.0 (PDF)" link1="docs/12/Case Study\_ The Work to Come\_ RTC 2.0.pdf" title1-2="(DOCX)" link1-2="docs/12/Case Study\_ The Work to Come\_ RTC 2.0.docx" >}}
+
+<h3>Town Hall Guiding Agenda</h3>
+
+After the win, it was important to continue to meet as a community, not only to inform the public of how the new right would work, but to continue to build tenant power. After the bill was passed, we held 5 town halls, one in each borough, and we are sharing the guiding agenda here so you can see what went into the planning phase. Part facilitation guide and part agenda, the document offers goals and materials needed for the meeting and options for activities.
