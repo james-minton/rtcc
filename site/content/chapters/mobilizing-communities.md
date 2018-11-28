@@ -33,3 +33,13 @@ Faith leaders played an important role in mobilizing communities around anti-dis
 We’re also including a letter that was endorsed by nearly 100 faith leaders from across New York City. The letter came at a really important time in the campaign: we had already done the cost benefit analysis, held a really powerful hearing, garnered lots of media and had the majority of the city council on board, yet we still hadn’t heard anything from the Mayor or the City Council Speaker. Having faith on board called on the Mayor to pass the Right To Council as a moral imperative, which was a really important perspective to add to the campaign. The letter can be tailored to include information and demographics from your city, and does not necessarily need to be from the perspective of faith leaders. 
 
 {{< resource title1="Interfaith Forum Agenda on Right to Counsel (PDF)" link1="/docs/8/Interfaith Forum on Right to Counsel Notes 11.301.6.pdf" title1-2="(DOCX)" link1-2="site/static/docs/8/Interfaith Forum on Right to Counsel Notes 11.301.6.docx" title2="Faith Leaders for the Right to Counsel Letter" link2="/docs/8/Faith Leaders for the NYC Right to Counsel-87-12-13-16.pdf" title2-2="(DOCX)" link2-2="/docs/8/Faith Leaders for the NYC Right to Counsel-87-12-13-16.docx">}}
+
+<hr />
+
+## Skits for Town Halls
+
+For our town halls, we used short skits developed by tenant leaders and organizers at <a href="https://nsacasa.wordpress.com/" target="_blank">Community Action for Safe Apartments</a> (CASA), which depict the experiences of tenants arriving at housing court without legal representation. These skits, which were performed by tenant leaders at our town halls, were a way to help the audience visualize the experiences of tenants. Rather than just reading about the issue, or hearing someone talk about it, we helped to show what it really looked and felt like. Performing these skits also added interest and excitement to our meetings. We had printed signs that tenants wore around their necks to depict their roles, but you could use other props like hats, scarves, ties, etc. to make it more dramatic. Writing and performing skits are also great methods to include tenant leaders in new ways!  
+
+We’re excited to share our skit script here, which you could adapt for your own coalition’s needs.
+
+{{< resource title1="NYC Housing Court: A Pro Se Tenant’s Experience (PDF)" link1="/docs/8/Housing Court Skit\_ Manhattan Town Hall Version.pdf" title1-2="(DOCX)" link1-2="/docs/8/Housing Court Skit\_ Manhattan Town Hall Version.docx" >}}
