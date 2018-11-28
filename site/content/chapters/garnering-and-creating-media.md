@@ -18,6 +18,8 @@ Included in this section are:
 * Sample Social Media Calendar/Schedule: This sample can be used to guide your social media planning.
 * Interview Guide to Create Tenant Profiles: Interviews are a great way to put a face to the issue and they can be shared on social media to amplify tenant voices and share their stories. 
 
+<hr />
+
 ## News Articles and Coverage
 
 The following is a sample of our campaign’s media coverage. These are helpful examples of the types of media outlets you might want to target and the kinds of coverage your coalition can receive. They also serve as an example of how to memorialize and publicize the press coverage you do receive. Media coverage is an important part of elevating your issues, making the case for Right to Counsel, and exerting pressure on your targets.
