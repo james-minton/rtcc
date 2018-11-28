@@ -1,6 +1,6 @@
 ---
 title: Organizing for a Just and Powerful Implementation
-weight: '120'
+weight: '130'
 contenttype: toolkit
 date: 2018-11-28T19:13:57.123Z
 ---
@@ -34,3 +34,13 @@ Included are three sets of tools:
   * Organizing Timeline
   * Town Hall phone banking 
   * Overview of organizing with RTC
+
+<hr />
+
+## Guiding Principles for Right to Counsel Implementation
+
+This set of principles was designed by our coalition after Right to Counsel was announced and before it was passed. They center and align our priorities and unify our demands for the final language of the legislation and the implementation plan. Once the Mayor and Speaker announced support for RTC (six months before the legislation passed), a lot of players who were not previously active in the coalition suddenly appeared wanting a say in the final legislation and implementation. Consequently, in order to ground and direct our work during this time, we collectively developed a set of principles over the course of a few meetings, and then met with organizations and key stakeholders individually and asked them to sign on. It was important that we show city administrators what implementation could look like, and developing these principles was a strategic part of our organizing to influence the City’s five-year implementation plan.  Some of the principles in this document were developed in direct response to what we were hearing from the City about what would or wouldn’t be in the legislation. We used this tool, as well as the list of endorsers, during the negotiations regarding the final legislative language. 
+
+Developing similar principles in your own context will help ensure that your organizing around implementation is strategic and sustainable. It is also important to keep in mind that when you win, people who weren’t involved originally will suddenly want to be, and this process helped us focus and organize our work as our coalition grew. Our principles can be used as a model, though your local context, the specifics of your legislation and the priorities of your organizing will inspire your own principles.
+
+{{< resource title1="Data Points to Collect to Build the Case for Right to Counsel (PDF)" link1="/docs/8/Town Halls--Planning for Outreach and Logistics.pdf" title1-2="(DOCX)" link1-2="/docs/7/Data Points to Collect.docx" >}}
