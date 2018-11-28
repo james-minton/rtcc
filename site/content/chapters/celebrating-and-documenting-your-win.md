@@ -16,6 +16,8 @@ In this section we share examples of our work that celebrated and documented our
 * What We Have Won Through Activism: Documenting Tenant Movement Wins: A visual representation of key moments in the history of tenant activism, situating Right to Counsel as part of a larger movement. 
 * Documenting Lessons Learned From Your Campaign: A document memorializing key organizing lessons from the campaign. 
 
+<hr />
+
 ## Activity on Right to Counsel History: Facilitator Guide
 
 As part of celebrating and memorializing the passage of the Right to Counsel bill, our coalition developed a facilitation guide and an exercise to be used to teach people about Right to Counsel’s history.
