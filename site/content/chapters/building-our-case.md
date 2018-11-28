@@ -76,6 +76,6 @@ Your coalition could use this report as a model for your own context. If your co
 
 <div class="resource-link">
     <h3>RESOURCE:</h3>
-    <a href="https://www2.nycbar.org/pdf/report/uploads/SRR_Report_Financial_Cost_and_Benefits_of_Establishing_a_Right_to_Counsel_in_Eviction_Proceedings.pdf" target="_blank">Full Report (PDF)</a>
+    <a href="https://www2.nycbar.org/pdf/report/uploads/SRR_Report_Financial_Cost_and_Benefits_of_Establishing_a_Right_to_Counsel_in_Eviction_Proceedings.pdf" target="_blank">Full Report (PDF)</a> | 
     <a href="/docs/7/SRR_report_two_pager_FINAL.pdf" target="_blank">2 Page Summary (PDF)</a>
 </div>
