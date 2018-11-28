@@ -23,8 +23,6 @@ Included here:
 * **Preparing Testimony for Right to Counsel Hearings:** Testimony is a crucial part of holding effective hearings. We offer tips and guidance on how to craft succinct key point and prepare powerful narratives. 
 * **Sample Flyer:** This can be used as a guide to create your own. It includes the event logistics as well as our website address, for those that may not have been familiar with the issue
 
-<hr />
-
 <h3>Hearing Planning Spreadsheet</h3>
 
 Planning our hearing required coordinating a lot of moving pieces: multiple organizations and speakers, speeches and testimony, timing, press and other logistics. We had a lot of information and notes to keep track of, and we’re including the spreadsheet here that helped us stay on track during the planning phase. We’ve removed names and data, but kept the categories of speakers, organizations and tabs that correspond to the different elements of the agenda. This style of organization worked well for us, and we hope that it does for you, and that it inspires an engaging and powerful hearing!
@@ -34,8 +32,6 @@ Planning our hearing required coordinating a lot of moving pieces: multiple orga
 <hr />
 
 {{< resource title1="Preparing Testimony for Right to Counsel Hearings (PDF)" link1="/docs/9/Preparing Testimony for Hearings.pdf" title1-2="(DOCX)" link1-2="/docs/9/Preparing Testimony for Hearings.docx" >}}
-
-<hr />
 
 <h3>Hearing Flyer</h3>
 
