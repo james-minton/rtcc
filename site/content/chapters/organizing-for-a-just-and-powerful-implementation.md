@@ -124,7 +124,7 @@ The tools in this section include:
   * Town hall phone banking 
   * Overview of organizing with RTC
 
-{{< resource title1="Case Study: The Work to Come & RTC 2.0 (PDF)" link1="docs/12/Case Study\_ The Work to Come\_ RTC 2.0.pdf" title1-2="(DOCX)" link1-2="docs/12/Case Study\_ The Work to Come\_ RTC 2.0.docx" >}}
+{{< resource title1="Case Study: The Work to Come & RTC 2.0 (PDF)" link1="/docs/12/Case Study-The Work to Come-RTC 2.0.pdf" title1-2="(DOCX)" link1-2="/docs/12/Case Study-The Work to Come-RTC 2.0.docx" >}}
 
 <h3>Town Hall Guiding Agenda</h3>
 
