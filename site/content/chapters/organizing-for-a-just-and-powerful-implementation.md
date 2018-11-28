@@ -37,10 +37,70 @@ Included are three sets of tools:
 
 <hr />
 
-## Guiding Principles for Right to Counsel Implementation
+## Coalition Tools around Principles and Messaging
+
+We developed the tools in this sections to guide our internal work about how to present Right to Counsel externally. These principles and tips were additional ways for us to control the narrative about the right, our stories and how we wanted the right to be rolled out. 
+
+Included in this section:
+
+* **Guiding Principles for Right to Counsel Legislation:** What we wanted implementation to look like in New York City. 
+* **Tips for Speaking to the Press About Implementation:** These tips ensured that we were speaking with one voice about implementation. 
+* **Working Groups for Implementation and Ongoing Organizing:** Describes the different working groups that are focused on different aspects of our implementation campaign.
+
+<h3>Guiding Principles for Right to Counsel Implementation</h3>
 
 This set of principles was designed by our coalition after Right to Counsel was announced and before it was passed. They center and align our priorities and unify our demands for the final language of the legislation and the implementation plan. Once the Mayor and Speaker announced support for RTC (six months before the legislation passed), a lot of players who were not previously active in the coalition suddenly appeared wanting a say in the final legislation and implementation. Consequently, in order to ground and direct our work during this time, we collectively developed a set of principles over the course of a few meetings, and then met with organizations and key stakeholders individually and asked them to sign on. It was important that we show city administrators what implementation could look like, and developing these principles was a strategic part of our organizing to influence the City’s five-year implementation plan.  Some of the principles in this document were developed in direct response to what we were hearing from the City about what would or wouldn’t be in the legislation. We used this tool, as well as the list of endorsers, during the negotiations regarding the final legislative language. 
 
 Developing similar principles in your own context will help ensure that your organizing around implementation is strategic and sustainable. It is also important to keep in mind that when you win, people who weren’t involved originally will suddenly want to be, and this process helped us focus and organize our work as our coalition grew. Our principles can be used as a model, though your local context, the specifics of your legislation and the priorities of your organizing will inspire your own principles.
 
 {{< resource title1="Data Points to Collect to Build the Case for Right to Counsel (PDF)" link1="/docs/8/Town Halls--Planning for Outreach and Logistics.pdf" title1-2="(DOCX)" link1-2="/docs/7/Data Points to Collect.docx" >}}
+
+<h3>Tips for Speaking to the Press about Implementation</h3>
+
+Our coalition developed these talking points to ensure our external messages about implementation were principled, consistent and strategic. We used these talking points to guide our work with the press and utilized them at other public presentations. We focused on key messaging areas that we knew we wanted to emphasize or that we wanted to address if they were to come up. We also tried to focus the media on the bigger picture, instead of on the challenges (unless we were strategically using media to push the administration on a particular implementation issue), knowing that our rights were always under attack and that RTC wasn’t a full right until implementation was complete. One of the challenges with Right to Counsel is that the vast implementation process included initial growing pains and naysayers. In the beginning of our movement, some staff of organizational members spoke negatively to the press about RTC because implementation was so challenging. Not only did that undermine the win and the movement, but most of the people who were speaking to press in this way were not tenants facing eviction! We also want to emphasize that during implementation, you will still be organizing and advocating, and the opposition will look for ways to undermine and negate the win. Accordingly, when we created messaging documents during particular moments in the campaign, we asked organizational leaders to implement the press strategy within their organizations.  
+
+Our talking points can be adapted for use by your coalition to guide your messaging about Right to Counsel.
+
+{{< resource title1="Press Talking Points for Implementation Challenges (PDF)" link1="/docs/12/Press Talking Points for Implementation Challenges.pdf" title1-2="(DOCX)" link1-2="/docs/12/Press Talking Points for Implementation Challenges.docx" >}}
+
+<h3>Working Groups for Implementation and Ongoing Organizing</h3>
+
+Developing working groups within your coalition is a helpful way to guide your ongoing organizing work and campaign implementation.  This helps ensure that there are people in your coalition moving forward key aspects of work, and that the work is organized and coordinated.  These groups also helped to structure large coalition meetings. During our two hour meetings, we would almost always break out into the working groups to complete targeted work and this reduced the amount of meetings overall. We would then join the larger group to share report- backs and discuss other campaign work. Here we share the working groups our coalition created during the implementation stage of the campaign. While your coalition will have unique needs based on your local context, our groups may be a helpful model as you think through your coalition structure and priorities in this phase of your campaign. 
+
+{{< resource title1="Press Talking Points for Implementation Challenges (PDF)" link1="/docs/12/Working groups to Support Implementation.pdf" title1-2="(DOCX)" link1-2="/docs/12/Working groups to Support Implementation.docx" >}}
+
+<hr />
+
+## Tools for Outreach, Tenant Engagement and Education
+
+We developed the tools in this section to educate tenants, legal service providers, lawyers and the general public to understand how the Right to Counsel would work and look like throughout New York City and we circulated general outreach flyers throughout the five boroughs. The legal landscape of implementation will look different in your city, but we hope these tools will serve as a guide for educating and spreading the word about the right when you win it! 
+
+Included in this section:
+
+* Frequently Asked Questions: A “know your rights” type document that answers the most pressing questions for tenants about Right to Counsel.
+* Facilitation Guide and Q&A for Panels and Presentations on Right to Counsel and Implementation: Designed to educate the public on implementation.
+* New Website--Eviction Free NYC: We created a new website to help tenants navigate RTC and connect with attorneys and community groups! 
+
+<h3>Frequently Asked Questions About the Right to Counsel</h3>
+
+Our coalition developed this frequently asked questions document to ensure that tenants understood Right to Counsel, how it would be be rolled out, how to assess their eligibility and how to access an attorney. We had to develop tools like this because the city bureaucracy moved so slowly. In addition, crafting these document enabled us to control the narrative and ensure our key organizing messages were included.The FAQ also emphasized our coalition’s message that evictions are about power, race and class, and that Right to Counsel is a tool in combating evictions that was won after years of hard organizing. The FAQs are featured on our website, were blasted through social media and massively distributed in the community through all of our community outreach work. We’re also including a link to a page of our website called “My Rent is Too High-How Does RTC help me?” that helps tenants determine if their high rent is legal or not. 
+
+{{< resource title1="My Rent is Too High—How Does RTC Help Me?" link1="https://www.righttocounselnyc.org/my_rent_is_too_high_how_does_rtc_help_me" >}}
+
+<h3>Facilitation Guide and Q&A for Right to Counsel and Implementation</h3>
+
+After we won, we were asked to join various panels, conferences, workshops and meetings, and we also planned our own events to help spread the word. The Q&A we are including in this section was created to help a tenant leader prepare to speak on a panel. We continued to receive invitations, and we used the tool for future panel preparation. Having a Q&A document like this one helps refine your messaging and ensures that your story about Right to Counsel is being told and it also helps to develop leaders! 
+
+The second tool is an agenda for one of the panels we planned and organized. The focus of this particular panel was to provide important organizing context and history for the Right to Counsel, to discuss ongoing goals and priorities for implementation, and to inspire others to take up the fight for Right to Counsel in their own cities. This agenda format is one we used throughout various panels and presentations, so it’s easy to adapt to different contexts. 
+
+{{< resource title1="Q&A on RTC and Organizing (PDF)" link1="/docs/12/Q&A on RTC and organizing.pdf" title1-2="(DOCX)" link1-2="/docs/12/Q&A on RTC and organizing.docx" title2="Facilitation Guide for RTC Panel (PDF)" link2="/docs/12/Facilitation Guide for RTC Panel.pdf" title2-2="(DOCX)" link2-2="/docs/12/Facilitation Guide for RTC Panel.docx" >}}
+
+<h3>EvictionFree NYC</h3>
+
+One of the main challenges of implementation is being able to address issues as they arise in real time. If you are a tenant facing eviction, how do you know if RTC applies to you and if it does, how do you then connect to an attorney? While we are waiting on and pushing the City to develop a hotline and build neighborhood-based clinics to address tenants’ issues, we had to develop tools to help tenants! We worked with JustFix.NYC to develop the <a href="https://www.evictionfreenyc.org/en-US" target="_blank">Eviction Free NYC</a> website which provides a clearinghouse for everyday New Yorkers facing eviction to determine their eligibility for Right to Counsel based on their income and address and connect them to tenant attorneys and community organizing groups. In order to create the most informative website, we toured every City court, documented how RTC worked in each particular courthouse and then generated specific court-based instructions for every borough. We then gave those guides to tenant organizers to help them explain how the court system works in their borough, and we used those guides for the basis of the new website. We also had to gather a lot of contact information for the legal services organizations as well as the tenant organizing groups. This required multiple resources and it’s one of the campaign components we raised funds for. 
+
+We created postcards with the website’s address and key information and constantly disseminated the postcards. Initially the website was only in English and Spanish, but we were able to fundraise to translate it into French and Haitian Kreyol and hope to translate it into even more languages soon!
+
+The website was created on a user-friendly platform and is easy to update on our end, but this is an ongoing project as the implementation changes and expands. When we released the website, we circulated press releases on social media to help get the word out. 
+
+{{< resource title1="Website: Eviction Free NYC" link1="https://www.evictionfreenyc.org/en-US"  title2="Eviction Free NYC postcard (PDF)" link2="/docs/12/Eviction Free NYC postcard.pdf" >}}
