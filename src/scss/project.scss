@@ -60,6 +60,7 @@ $darkfour: #343E3D;
 $burgundy:#ca0058;
 $slateblack: #343e3d;
 $lightgrey: #f3f3f3; 
+$navyblue: #3A4D82;
 
 
 /* Breakpoints ---------------------------- */
@@ -208,6 +209,7 @@ h1 {
     line-height: 3.4rem;
     text-align: center;
     color: #222E2D;
+    color: $navyblue;
     @include for-768-up {
         font-size: 3.2rem;
         letter-spacing: 0.093rem;
@@ -248,6 +250,7 @@ h2 {
     line-height: 2.7rem;
     text-align: center;
     margin: 0 auto 2.4rem;
+    color: $navyblue;
     
     @include for-768-up {
         font-size: 2.4rem;
@@ -272,6 +275,7 @@ h3 {
     text-transform: uppercase;
     text-align: center;
     margin: 3.2rem 0 2.4rem;
+    color: $navyblue;
     @include for-768-up {
         font-size: 1.5rem;
         letter-spacing: 0.14rem;
