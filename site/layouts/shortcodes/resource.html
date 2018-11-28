@@ -12,5 +12,8 @@
     </div> 
     <div class="tool3"> 
         <a href="{{ .Get "link3" }}" target="_blank">{{ .Get "title3" | safeHTML }}</a>{{ if isset .Params "link3-2"}} | <a href="{{ .Get "link3-2" }}" target="_blank">{{ .Get "title3-2" | safeHTML }}</a>{{ end }}
-    </div>    
+    </div>  
+    <div class="tool4"> 
+        <a href="{{ .Get "link4" }}" target="_blank">{{ .Get "title4" | safeHTML }}</a>{{ if isset .Params "link4-2"}} | <a href="{{ .Get "link4-2" }}" target="_blank">{{ .Get "title4-2" | safeHTML }}</a>{{ end }}
+    </div>     
 </div>
