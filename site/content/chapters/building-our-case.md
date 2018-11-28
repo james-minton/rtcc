@@ -38,7 +38,7 @@ In 2014, our coalition organized an all-day forum called Housing Justice: A Publ
 
 In order to produce the report, the event was videotaped. An intern then transcribed the video of the conference and then coalition members picked out key quotes and important information and worked with the intern to compile the content of the report. The report was designed by a staff member of a coalition member group and we were able to get a labor union to cover the cost of printing the report. It can serve as a model for others hosting similar community forums. 
 
-{{< resource title1="What the Experts Are Saying Report" link1="https://d3n8a8pro7vhmx.cloudfront.net/righttocounselnyc/pages/23/attachments/original/1433269447/FINAL_expert_report.pdf?1433269447" >}}
+{{< resource title1="What the Experts Are Saying Report" link1="/docs/7/FINAL_expert_report.pdf" >}}
 
 <hr />
 
