@@ -18,7 +18,7 @@ Included are:
 
 <hr />
 
-{{< resource title1="Data Points to Collect to Build the Case for Right to Counsel (PDF)" link1="site/static/docs/7/Data Points to Collect.pdf" title1-2="(DOCX)" link1="site/static/docs/7/Data Points to Collect.docx" >}}
+{{< resource title1="Data Points to Collect to Build the Case for Right to Counsel (PDF)" link1="/docs/7/Data Points to Collect.pdf" title1-2="(DOCX)" link1-2="/docs/7/Data Points to Collect.docx" >}}
 
 <hr />
 
