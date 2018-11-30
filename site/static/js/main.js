@@ -127,10 +127,12 @@ slideout.on('beforeclose', function () {
 
 slideout.on('open', function () {
   fixed.style.transition = '';
+  // $("svg#menu-closed").addClass("mobile-off");
 });
 
 slideout.on('close', function () {
   fixed.style.transition = '';
+  // $("svg#menu-closed").removeClass("mobile-off");
 });
 
 
@@ -156,6 +158,8 @@ $(document).ready(function() {
     // run test on resize of the window
     $(window).resize(checkSize);
 }); */
+
+
 
 
 

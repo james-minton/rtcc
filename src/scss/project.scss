@@ -164,9 +164,11 @@ p.reg {
     font-weight: 500;
     
 }
-p:last-of-type {
-    /* margin-bottom: 0; */
-}
+/* p:last-of-type {
+    @include for-1440-up {
+        margin-bottom: 4rem; 
+    }   
+} */
 p.caption {
     font-size: 1.3rem;
     font-weight: 500;
@@ -217,8 +219,8 @@ h1 {
         /* margin-bottom: 2.4rem; */
     }
     @include for-1440-up {
-        font-size: 5.6rem;
-        letter-spacing: 0.01rem;
+        font-size: 5rem;
+        letter-spacing: 0.005rem;
         line-height: 7.2rem;
     }    
     font-weight: 600;
@@ -226,6 +228,9 @@ h1 {
 hr {
     border-top: 6px solid #F3F3F3;
     margin: 3.2rem 0;
+    @include for-1440-up {
+        margin: 4.8rem 0;
+    }
 }
 h1.hero {
     color: #fff;
@@ -263,6 +268,7 @@ h2 {
         font-size: 3.6rem;
         letter-spacing: 0.06rem;
         line-height: 5.2rem;
+        margin: 0 auto 4rem;
     }   
     
     font-weight: 600;
@@ -412,6 +418,9 @@ a.go.button {
     @include for-768-up {
         padding-top: 4rem;
     }
+    @include for-1440-up {
+        padding-top: 5.6rem;
+    }
 }
 
 
@@ -450,9 +459,10 @@ a.go.button {
 .content-well {
     
     @include for-768-up {
-        max-width: 800px;
-        
-       
+        max-width: 800px;   
+    }
+    @include for-1440-up {
+        max-width: 980px;   
     }
     
 }

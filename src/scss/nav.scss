@@ -50,6 +50,11 @@ nav.slideout-menu, nav#menu-desktop {
             color: #fff;
             font-size: 2.4rem;
             width: 230px;
+            @include for-1440-up {
+                font-size: 3.2rem;
+                width: 296px;
+                margin: 4rem 2.4rem 1.6rem 0;
+            }
         }
         .nav-page {
             border-bottom: 3px solid #55605F;
@@ -57,10 +62,21 @@ nav.slideout-menu, nav#menu-desktop {
             display: flex;
             justify-content: flex-end;
             padding: 1.6rem 0;
+            &:hover {
+                background-color: #55605f;
+            }
+            @include for-1440-up {
+                padding: 2.4rem;
+            }
          
             a {
                 width: 230px;
                 padding-right: 3.2rem;
+                @include for-1440-up {
+                    width: 296px;
+                    padding-right: 4.8rem;
+                    font-size: 2.1rem;
+                }
             }
 
         }
@@ -81,13 +97,25 @@ nav.slideout-menu, nav#menu-desktop {
         display: flex;
         justify-content: flex-end;
         padding-bottom: 40px;
+        @include for-1440-up {
+            padding-right: 48px;
+            padding-bottom: 48px;
+        }
         #logo {
             width: 208px;
             height: 252px;
             background-color: #999;
+            @include for-1440-up {
+                height: auto;
+                width: 258px;
+            }
             img {
                 width: 208px;
                 height: 252px;
+                @include for-1440-up {
+                    height: auto;
+                    width: 258px;
+                }
             }
         }
     }

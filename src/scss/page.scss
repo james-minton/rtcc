@@ -10,7 +10,7 @@ main {
        
     }
     @include for-1440-up {
-        
+        padding: 0 8rem 8rem;
     }
     &.single-page {
         @include for-phone-only {
@@ -20,6 +20,11 @@ main {
     .spacer {
         height: 120px;
         width: 100%;
+    }
+    h1 {
+        @include for-1440-up {
+            margin-bottom: -6px;
+        }
     }
     #homepage {
         @include for-phone-only {
