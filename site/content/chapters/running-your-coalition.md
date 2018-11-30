@@ -27,4 +27,4 @@ While your coalition will be tailored to your local context, we hope that our wo
 
 ## How to Leverage the Power of Institutional Members
 
-{{< resource title1="How to Leverage the Power of Institutional Members" link1="/docs/3/Leveraging the Full Power of Your Coalition.pdf" title1-2="(DOCX)" link1="/docs/3/Leveraging the Full Power of Your Coalition.docx" >}}
+{{< resource title1="How to Leverage the Power of Institutional Members" link1="/docs/3/Leveraging the Full Power of Your Coalition.pdf" title1-2="(DOCX)" link1-2="/docs/3/Leveraging the Full Power of Your Coalition.docx" >}}
