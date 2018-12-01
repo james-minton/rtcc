@@ -3,8 +3,9 @@ div[data-role="form-footer"] {
 }
 div[data-type="page"] {
     box-shadow: none !important;
+    margin-top: 0px !important;
 }
-h1 {
+nav h1 {
 display: none;
 }
 div[data-role=input-row] {
@@ -44,5 +45,12 @@ form[data-form-id="4457814"] input[type="email"] {
     form[data-form-id="4457814"] button[data-role="submit"] {
     width: 160px;
     margin-left: 20px !important;
+    }
+
+    form[data-form-id="4457814"] .tdmain-thankyou font b#id123-thankyou {
+        font-size: 21px !important;
+        color: #fff !important;
+        text-align: left !important;
+        width: 270px !important;
     }
 
