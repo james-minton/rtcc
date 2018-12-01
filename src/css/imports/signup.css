@@ -8,7 +8,7 @@ div[data-type="page"] {
     box-shadow: none !important;
     margin-top: 0px !important;
 }
-nav h1 {
+div[data-type="form-header"] h1 {
 display: none;
 }
 div[data-role=input-row] {
