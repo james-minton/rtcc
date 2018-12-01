@@ -1,6 +1,9 @@
 div[data-role="form-footer"] {
     display: none;
 }
+.form-footer.transparent-footer {
+    display: none !important;
+}
 div[data-type="page"] {
     box-shadow: none !important;
     margin-top: 0px !important;
