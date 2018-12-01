@@ -1,6 +1,9 @@
 div[data-role="form-footer"] {
     display: none;
 }
+div[data-type="page"] {
+    box-shadow: none !important;
+}
 h1 {
 display: none;
 }
