@@ -40,6 +40,6 @@ form[data-form-id="4457814"] input[type="email"] {
     }
     form[data-form-id="4457814"] button[data-role="submit"] {
     width: 160px;
-    margin-left: 20px;
+    margin-left: 20px !important;
     }
 
