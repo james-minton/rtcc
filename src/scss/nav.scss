@@ -14,6 +14,9 @@ nav.slideout-menu, nav#menu-desktop {
     @include for-1440-up {
        
     }
+    div[data-role="form-footer"] {
+        display: none;
+    }
     ul {
         list-style: none;
         color: #fff;

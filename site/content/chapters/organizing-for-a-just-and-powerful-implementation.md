@@ -129,3 +129,4 @@ The tools in this section include:
 <h3>Town Hall Guiding Agenda</h3>
 
 After the win, it was important to continue to meet as a community, not only to inform the public of how the new right would work, but to continue to build tenant power. After the bill was passed, we held 5 town halls, one in each borough, and we are sharing the guiding agenda here so you can see what went into the planning phase. Part facilitation guide and part agenda, the document offers goals and materials needed for the meeting and options for activities.
+
