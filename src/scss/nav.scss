@@ -127,7 +127,17 @@ nav.slideout-menu, nav#menu-desktop {
 nav#menu {
     padding-top: 19px;
 }
-
+#formsmall {
+    @include for-1440-up {
+        display: none;
+    }
+}
+#formlarge{
+    display: none;
+    @include for-1440-up {
+        display: block;
+    }
+}
 #footer {
     position: fixed;
     z-index: 2;

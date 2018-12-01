@@ -26,18 +26,17 @@ width: 126px;
 border-radius: 24px !important;
 }
 
-@media (min-width: 1440px) {
 
-    input[type="email"] {
+
+form[data-form-id="4457814"] input[type="email"] {
     width: 278px !important;
     margin-right: 0.8rem !important;
     height: 48px !important;
     }
-    div[data-type="form-action-bar"] {
+    form[data-form-id="4457814"] div[data-type="form-action-bar"] {
     width: 223px !important;
     }
-    button[data-role="submit"] {
+    form[data-form-id="4457814"] button[data-role="submit"] {
     width: 126px;
     }
 
-}
