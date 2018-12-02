@@ -73,6 +73,8 @@ nav.slideout-menu, nav#menu-desktop {
             }
          
             a {
+                font-size: 1.5rem;
+                color: #fff;
                 width: 230px;
                 padding-right: 3.2rem;
                 @include for-1440-up {
@@ -81,6 +83,7 @@ nav.slideout-menu, nav#menu-desktop {
                     font-size: 2.1rem;
                 }
             }
+            
 
         }
         a {
@@ -92,6 +95,43 @@ nav.slideout-menu, nav#menu-desktop {
                 color: #fff;
             }
         }
+    }
+    .signup-intro {
+        font-size: 1.5rem;
+        color: #fff;
+        width: 230px;
+        padding-right: 3.2rem;
+        font-size: 2.1rem;
+        font-weight: bold;
+        @include for-1440-up {
+            width: 320px;
+            padding-right: 4.8rem;
+            font-size: 2.1rem;
+        }
+    }
+    .nav-page-form {
+        width: 100%;
+        display: flex;
+        justify-content: flex-end;
+        padding: 3.2rem 0 0;
+        @include for-1440-up {
+            padding: 4rem 0 0;
+            margin-bottom: -3.2rem;
+        }
+     
+        a {
+            font-size: 1.5rem;
+            color: #fff;
+            width: 230px;
+            padding-right: 3.2rem;
+            @include for-1440-up {
+                width: 296px;
+                padding-right: 4.8rem;
+                font-size: 2.1rem;
+            }
+        }
+        
+
     }
     #logo-container {
         width: 100%;
