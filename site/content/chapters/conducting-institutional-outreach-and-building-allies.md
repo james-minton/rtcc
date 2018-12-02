@@ -16,7 +16,7 @@ This short presentation is designed to introduce potential stakeholders to the i
 
 This sample resolution shows what can result from outreach to community boards. We drafted the community board resolution, rather than leave it up to each board to write their own resolution. This made it easier for the board to sign on to it, and it ensured that what was being signed was helpful to our campaign since we drafted it. Such resolutions demonstrate key stakeholder support for the legislation, and are helpful in both leveraging other resources and exerting pressure on the mayor and other targets. This resolution can be used as a model for other community boards or similar bodies.
 
-{{< resource title1="Sample Community Board Resolution - Access Needed (PDF)" link1="undefined" >}}
+{{< resource title1="Sample Community Board Resolution (PDF)" link1="/docs/5/Community Board Resolution.pdf" title1-2="(DOCX)" link1-2="/docs/5/Community Board Resolution.docx" >}}
 
 <hr />
 
