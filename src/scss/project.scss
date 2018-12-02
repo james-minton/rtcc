@@ -459,7 +459,7 @@ a.go.button {
 .content-well {
     
     @include for-768-up {
-        max-width: 800px;   
+        max-width: 880px;   
     }
     @include for-1440-up {
         max-width: 980px;   
