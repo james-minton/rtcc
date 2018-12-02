@@ -41,7 +41,7 @@ center {
 }
 .tdmain-thankyou font b#id123-thankyou {
     font-size: 18px !important;
-    width: 228px !important;
+    /* width: 228px !important; */
     text-align: left !important;
     padding-right: 2.4rem;
     color: #fff;
@@ -66,6 +66,6 @@ form[data-form-id="4457814"] input[type="email"] {
         font-size: 21px !important;
         color: #fff !important;
         text-align: left !important;
-        width: 270px !important;
+        /* width: 270px !important; */
     }
 
