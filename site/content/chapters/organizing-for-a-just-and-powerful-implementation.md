@@ -142,9 +142,10 @@ Here we share our organizing principles. You may want to revise these to fit wit
 
 {{< resource title1="Organizing Principles for Right to Counsel Implementation Phase (PDF)" link1="/docs/12/Organizing Principles.pdf" title1-2="(DOCX)" link1-2="/docs/12/Organizing Principles.docx" >}}
 
+_<br />_
+
 _Timeline and Plan for Organizing After RTC Win_
 
 After Right to Counsel is won, there is a lot of work to do to make sure tenants know their rights and claim them.  And because our legislation didn’t fund community organizing or outreach, there was no mechanism built in to make sure that tenants know and feel worthy and powerful in using their new right!  Our coalition found it helpful to develop a timeline with key organizing steps laid out throughout the year, as well as broader tasks such as outreach materials to develop, outreach activities, and places at which relationships should be built. Here in NYC, neighborhood-based community organizing groups are working on implementing the timeline in their neighborhoods. Because our roll out is by zip code, the outreach and organizing work is focused in the neighborhoods where RTC is being implemented.  Documents like this one ensure that our organizing remains strategic and coordinated, and they also reflect the collective thinking of a large committee of tenant leaders and organizers.  We share our timeline and planning document here for your coalition to use as a model.
 
 {{< resource title1="Timeline and Plan for Organizing After RTC Win (PDF)" link1="/docs/12/RTC Organizing Timeline 2017-2018.pdf" title1-2="(DOCX)" link1-2="/docs/12/RTC Organizing Timeline 2017-2018.docx" >}}
-
