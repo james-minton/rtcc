@@ -4,6 +4,8 @@ weight: '2'
 contenttype: toolkit
 date: 2018-10-01T02:00:58.021Z
 ---
+<img src="/images/june-2015 RTC PC.JPG" />
+
 ## About the Authors
 
 **The Right to Counsel NYC Coalition (“RTCNYC”)**
