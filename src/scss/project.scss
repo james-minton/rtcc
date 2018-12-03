@@ -262,13 +262,14 @@ h2 {
         letter-spacing: 0.05rem;
         line-height: 3rem;
         margin: 0 auto 3.2rem;
-        max-width: 540px;
+        max-width: 640px;
     }
     @include for-1440-up {
         font-size: 3.6rem;
         letter-spacing: 0.06rem;
         line-height: 5.2rem;
         margin: 0 auto 4rem;
+        max-width: 720px;
     }   
     
     font-weight: 600;

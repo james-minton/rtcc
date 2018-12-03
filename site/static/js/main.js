@@ -135,9 +135,7 @@ slideout.on('close', function () {
   // $("svg#menu-closed").removeClass("mobile-off");
 });
 
-window.onload = function() {
-    document.getElementById("panel").focus();
-  };
+
 
 // Set media queries for aos-fadein
 
