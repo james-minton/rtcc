@@ -4,7 +4,7 @@ weight: '30'
 contenttype: toolkit
 date: 2018-10-01T02:00:58.021Z
 ---
-<img src="/images/evicted-banner-sm2.jpg" />
+<img src="/images/save-our-homes-sm.jpg" />
 
 One catalyst in launching our fight for the Right to Counsel stemmed from documenting the degree of intimidation, harassment and confusion in Housing Court, the power inequities between landlords and tenants and the impact this had on tenants, families and communities. We found that grassroots campaigns in the Bronx and Brooklyn shared similar demands of housing court that ultimately led to the formation of the RTCNYC Coalition. The reports on those earlier organizing efforts highlight the work that came before the coalition formed, and we’re excited to share those here with you.  
 
