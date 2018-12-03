@@ -4,6 +4,8 @@ weight: '30'
 contenttype: toolkit
 date: 2018-10-01T02:00:58.021Z
 ---
+<img src="/images/evicted-banner-sm.jpg" />
+
 One catalyst in launching our fight for the Right to Counsel stemmed from documenting the degree of intimidation, harassment and confusion in Housing Court, the power inequities between landlords and tenants and the impact this had on tenants, families and communities. We found that grassroots campaigns in the Bronx and Brooklyn shared similar demands of housing court that ultimately led to the formation of the RTCNYC Coalition. The reports on those earlier organizing efforts highlight the work that came before the coalition formed, and we’re excited to share those here with you.  
 
 In 2012, before the formation of the coalition, New Settlement Apartments’ Community Action for Safe Apartments (“CASA”), which would later become the anchor organization for the coalition, decided to start a campaign to reform Bronx housing court. CASA partnered with the Community Development Project (“CDP”) to conduct a participatory research project. Organizers and tenants were trained and supported by CDP to lead the research. The report that resulted, [_Tipping the Scales: A Report of Tenant Experiences in Bronx Housing Court_](https://cdp.urbanjustice.org/sites/default/files/CDP.WEB.doc_Report_CASA-TippingScales-full_201303.pdf) demonstrated how difficult and confusing NYC’s housing courts were to navigate, and the vast injustice between landlords, nearly all of whom had legal representation, and tenants, nearly all of whom did not. The report documented the impacts of this power imbalance, and demonstrated just how disadvantaged unrepresented (pro se) tenants were in going up against landlords and their lawyers.
