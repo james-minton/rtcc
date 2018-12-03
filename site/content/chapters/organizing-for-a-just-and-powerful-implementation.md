@@ -168,4 +168,4 @@ While Right to Counsel implementation and organizing may look different in your 
 
 
 
-{{< resource title1="Tenant Organizing in RTC Zips—What’s Different About It (PDF)" link1="/docs/12/Tenant Organizing in RTC Zips--what’s different about it.pdf" title1-2="(DOCX)" link1-2="/docs/12/Tenant Organizing in RTC Zips--what’s different about it.pdf" >}}
+{{< resource title1="Tenant Organizing in RTC Zips—What’s Different About It (PDF)" link1="/docs/12/Tenant Organizing in RTC Zips--what’s different about it.pdf" title1-2="(DOCX)" link1-2="/docs/12/Tenant Organizing in RTC Zips--what’s different about it.docx" >}}
