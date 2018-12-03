@@ -4,6 +4,8 @@ weight: '90'
 contenttype: toolkit
 date: 2018-11-28T01:40:35.075Z
 ---
+<img src="/images/tenant-power-sm.JPG" />
+
 Town hall meetings are crucial events that can engage, educate and mobilize communities around issues. During our campaign, neighborhood-based community organizing groups came together to plan shared agendas, outreach plans, as well as guiding principles like ensuring that the town halls provided food, interpretation services and childcare. So while the neighborhood-based community groups ran town halls in their communities, there was always overarching support and guidance from the coalition.  
 
 The tools here are intended to support planning and facilitating public events. Included are: 
