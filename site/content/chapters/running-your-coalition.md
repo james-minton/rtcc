@@ -4,6 +4,8 @@ weight: '40'
 contenttype: toolkit
 date: 2018-11-23T18:01:04.257Z
 ---
+<img src="site/static/images/coalition-meeting-sm.jpg" />
+
 In our experience, convening and running a coalition dedicated to advancing the right to counsel was central to our organizing strategy. Our coalition is made up of organizations that provide direct advocacy and/or organizing around issues of housing displacement in New York City and that are dedicated to building tenant power. A broad-based coalition with a clear structure, decision making processes and goals helped us leverage community power and various resources in order to advance the campaign.
 
 The tools offered here are intended to support your thinking about the development of your own coalition. 
@@ -27,7 +29,8 @@ title1="How We Structured the Right to Counsel New York City Coalition (PDF)"
 link1="/docs/3/RTCNYC Structure.pdf" 
 title1-2="(DOCX)" 
 link1-2="/docs/3/RTCNYC Structure.docx" 
->}}
+
+> }}
 
 <hr />
 
@@ -38,4 +41,5 @@ resource
 title1="How to Leverage the Power of Institutional Members (PDF)" link1="/docs/3/Leveraging the Full Power of Your Coalition.pdf" 
 title1-2="(DOCX)" 
 link1-2="/docs/3/Leveraging the Full Power of Your Coalition.docx" 
->}}
+
+> }}
