@@ -22,7 +22,7 @@ This sample resolution shows what can result from outreach to community boards. 
 
 ## Sample Campaign Endorsement Letter
 
-{{< resource title1="Campaign Endorsement Letter" link1="/docs/5/RTC Campaign Endorsement Letter.pdf" >}}
+{{< resource title1="Campaign Endorsement Letter" link1="/docs/5/RTC Campaign Endorsement Letter.pdf" title1-2="(DOCX)" link1-2="/docs/5/RTC Campaign Endorsement Letter.docx" >}}
 
 <hr />
 
