@@ -28,9 +28,7 @@ resource
 title1="How We Structured the Right to Counsel New York City Coalition (PDF)" 
 link1="/docs/3/RTCNYC Structure.pdf" 
 title1-2="(DOCX)" 
-link1-2="/docs/3/RTCNYC Structure.docx" 
-
-> }}
+link1-2="/docs/3/RTCNYC Structure.docx" >}}
 
 <hr />
 
@@ -40,6 +38,4 @@ link1-2="/docs/3/RTCNYC Structure.docx"
 resource 
 title1="How to Leverage the Power of Institutional Members (PDF)" link1="/docs/3/Leveraging the Full Power of Your Coalition.pdf" 
 title1-2="(DOCX)" 
-link1-2="/docs/3/Leveraging the Full Power of Your Coalition.docx" 
-
-> }}
+link1-2="/docs/3/Leveraging the Full Power of Your Coalition.docx" >}}
