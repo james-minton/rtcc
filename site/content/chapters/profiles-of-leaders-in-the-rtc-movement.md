@@ -32,7 +32,7 @@ Since the win, the nature of housing court needs to evolve to reflect Right to C
 
 ## Tenant Profile: Maria Lopez-Nunez, Community Organizer, Ironbound Community Corporation, Newark, NJ 
 
-_Maria Lopez Nuñez is the Director of Environmental Justice and Community Development at the Ironbound Community Corporation in Newark, NJ, where she has served as a community organizer for the past five years. Maria works on issues at the intersections of immigration, environmental and housing justice. She is a displaced Bushwick resident who hopes to not repeat the same story in Newark, which is one of the reasons why Right to Counsel is so important to her. _
+_Maria Lopez Nuñez is the Director of Environmental Justice and Community Development at the Ironbound Community Corporation in Newark, NJ, where she has served as a community organizer for the past five years. Maria works on issues at the intersections of immigration, environmental and housing justice. She is a displaced Bushwick resident who hopes to not repeat the same story in Newark, which is one of the reasons why Right to Counsel is so important to her._
 
 Originally from Honduras, Maria moved to Bushwick, Brooklyn as a young child. Maria’s family had been living in the same building for over 20 years when they were pushed out due to rising rents. Almost all of her neighbors were also forced to move over time and the neighborhood she grew up in was lost. Now a resident of Newark, NJ, she does not want to see this happen in Newark.  In her immigration justice work, she saw again and again that undocumented tenants suffer disproportionately from landlord abuse. Maria sees Right to Counsel as a huge opportunity to defend Newark’s most vulnerable tenants. 
 
