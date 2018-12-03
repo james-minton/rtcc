@@ -4,6 +4,8 @@ weight: '50'
 contenttype: toolkit
 date: 2018-11-23T18:25:40.932Z
 ---
+<img src="/images/tenant-power-sm.JPG" />
+
 Many organizers undoubtedly have their own tools and preferences for campaign development exercises and campaign planning tools. Here we include several tools that we used to develop our assessment of power in our local landscape and to make informed campaign plans and decisions based on this analysis. Although our coalition’s target was clear, different organizing contexts have different needs. Conducting a power analysis to understand who has the power to make your wins possible is crucial. There are great tools for power analysis online, as well as in Chapter 8 of Joan Minieri and Paul Getsos’ _Tools for Radical Democracy_, titled “Researching the Politics of an Issue.”  We hope that the following tools will help develop your campaign strategy.
 
 **Campaign Plan Template:** Designed to help identify and document campaign demands, targets, allies and opposition.
@@ -23,4 +25,5 @@ link2-2="/docs/4/Action Plan-A Month in the Life of the RTCNYC Campaign.docx"
 title3="Outreach to Agencies and Institutions (PDF)" link3="/docs/4/Outreach to Agencies and Institutions.pdf" 
 title3-2="(DOCX)"
 link3-2="/docs/4/Outreach to Agencies and Institutions.docx"
->}}
+
+> }}
