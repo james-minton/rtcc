@@ -24,6 +24,4 @@ title2-2="(DOCX)"
 link2-2="/docs/4/Action Plan-A Month in the Life of the RTCNYC Campaign.docx"
 title3="Outreach to Agencies and Institutions (PDF)" link3="/docs/4/Outreach to Agencies and Institutions.pdf" 
 title3-2="(DOCX)"
-link3-2="/docs/4/Outreach to Agencies and Institutions.docx"
-
-> }}
+link3-2="/docs/4/Outreach to Agencies and Institutions.docx" >}}
