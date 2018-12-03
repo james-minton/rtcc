@@ -23,7 +23,7 @@ Included in this section is:
 
 This is the text of Local Law 136, enacted in August 2017, which establishes the right to counsel for low-income tenants facing eviction! This new right will be phased in over 5 years so that by July 2022, all low-income tenants in NYC will have a right to an attorney to defend their homes.
 
-Additional materials, such as hearing transcripts, can be found on the New York City Council website [here](http://legistar.council.nyc.gov/LegislationDetail.aspx?ID=1687978&GUID=29A4594B-9E8A-4C5E-A797-96BDC4F64F80&Options=ID%7cText%7c&Search=214). 
+Additional materials, such as hearing transcripts, can be found on the New York City Council website <a href="http://legistar.council.nyc.gov/LegislationDetail.aspx?ID=1687978&GUID=29A4594B-9E8A-4C5E-A797-96BDC4F64F80&Options=ID%7cText%7c&Search=214" target="_blank">here</a>. 
 
 {{< resource title1="Local Law 136" link1="https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=1687978&GUID=29A4594B-9E8A-4C5E-A797-96BDC4F64F80&Options=ID%7cText%7c&Search=214" >}}
 
