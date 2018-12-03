@@ -131,3 +131,13 @@ The tools in this section include:
 After the win, it was important to continue to meet as a community, not only to inform the public of how the new right would work, but to continue to build tenant power. After the bill was passed, we held 5 town halls, one in each borough, and we are sharing the guiding agenda here so you can see what went into the planning phase. Part facilitation guide and part agenda, the document offers goals and materials needed for the meeting and options for activities.
 
 {{< resource title1="Town Hall Guiding Agenda (PDF)" link1="/docs/12/RTC Town Hall Agenda.pdf" title1-2="(DOCX)" link1-2="/docs/12/RTC Town Hall Agenda.docx" >}}
+
+<h3>Supporting Tenant Organizing</h3>
+
+_Organizing Principles for Right to Counsel Implementation Phase_
+
+As you move into the phase of organizing that happens after your Right to Counsel bill is passed, having primary organizing principles to guide your work is important. These principles will inform your work within your coalition, your ongoing organizing planning and your targets and tactics.
+
+Here we share our organizing principles. You may want to revise these to fit with your coalition’s priorities, or brainstorm your own principles separately. 
+
+{{< resource title1="Organizing Principles for Right to Counsel Implementation Phase (PDF)" link1="/docs/12/Organizing Principles.pdf" title1-2="(DOCX)" link1-2="/docs/12/Organizing Principles.docx" >}}
