@@ -157,3 +157,15 @@ _RTCNYC Town Hall Phone Banking Script_
 Holding town halls was an effective way for us to reach out and share information with communities about the Right to Counsel legislation. We relied on coalition members to volunteer and spread the word about these events. We’ve included a script for phone banking that we developed to reach out to tenants. You’ll see that we typed out guided instructions for volunteers to follow, including how to engage people who were not able to attend. It was also important that we provide brief context and history of the right to counsel. Simply tailor the script to include the relevant event information and historical context so that your phone bankers are prepared. 
 
 {{< resource title1="Town Hall Phone Banking Script (PDF)" link1="/docs/12/RTC Town Hall Phone Banking Script.pdf" title1-2="(DOCX)" link1-2="/docs/12/RTC Town Hall Phone Banking Script.docx" >}}
+
+<br />
+
+_Overview of Organizing  in RTC Zips—What’s Different About It?_
+
+This document was designed by the coalition to be used by organizers. It lays out key steps organizers should take when working in buildings that are in zip codes that qualify for Right to Counsel, ranging from ensuring that tenants know they have the right to counsel (even if they don’t have an active case) to helping identify tenants at risk of eviction to set up rapid response defense and explore actions like eviction blockades. Documents like these, that tie Right to Counsel to larger organizing efforts, are an important part of the ongoing campaign.
+
+While Right to Counsel implementation and organizing may look different in your local context, your coalition can use this document as a model when thinking about your own guidance to organizers.
+
+
+
+{{< resource title1="Tenant Organizing in RTC Zips—What’s Different About It (PDF)" link1="/docs/12/Tenant Organizing in RTC Zips--what’s different about it.pdf" title1-2="(DOCX)" link1-2="/docs/12/Tenant Organizing in RTC Zips--what’s different about it.pdf" >}}
