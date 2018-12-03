@@ -29,7 +29,7 @@ Additional materials, such as hearing transcripts, can be found on the New York 
 
 <hr />
 
-{{< resource title1="Checklist of Key Components in Right to Counsel Legislation (PDF)" link1="/docs/5/Key Components of RTC Legislation.pdf" >}}
+{{< resource title1="Checklist of Key Components in Right to Counsel Legislation (PDF)" link1="/docs/5/Key Components of RTC Legislation.pdf" title1-2="(DOCX)" link1-2="/docs/5/Key Components of RTC Legislation.docx" >}}
 
 <hr />
 
