@@ -1,5 +1,5 @@
 ---
-title: Running Your Coalition
+title: 3. Running Your Coalition
 weight: '40'
 contenttype: toolkit
 date: 2018-11-23T18:01:04.257Z
