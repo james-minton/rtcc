@@ -20,11 +20,11 @@ The tools here are intended to support planning and facilitating public events. 
 
 <hr />
 
-{{< resource title1="Checklist for Organizing Town Hall Outreach and Logistics (PDF)" link1="/docs/8/Town Halls--Planning for Outreach and Logistics.pdf" title1-2="(DOCX)" link1-2="/docs/8/Town Halls--Planning for Outreach and Logistics.docx" >}}
+{{< resource title1="8.1: Checklist for Organizing Town Hall Outreach and Logistics (PDF)" link1="/docs/8/Town Halls--Planning for Outreach and Logistics.pdf" title1-2="(DOCX)" link1-2="/docs/8/Town Halls--Planning for Outreach and Logistics.docx" >}}
 
 <hr />
 
-{{< resource title1="Town Hall Facilitation Guide (PDF)" link1="/docs/8/RTC Town Hall Facilitation Guide.pdf" title1-2="(DOCX)" link1-2="/docs/8/RTC Town Hall Facilitation Guide.docx" >}}
+{{< resource title1="8.2: Town Hall Facilitation Guide (PDF)" link1="/docs/8/RTC Town Hall Facilitation Guide.pdf" title1-2="(DOCX)" link1-2="/docs/8/RTC Town Hall Facilitation Guide.docx" >}}
 
 <hr />
 
@@ -34,7 +34,7 @@ Faith leaders played an important role in mobilizing communities around anti-dis
 
 We’re also including a letter that was endorsed by nearly 100 faith leaders from across New York City. The letter came at a really important time in the campaign: we had already done the cost benefit analysis, held a really powerful hearing, garnered lots of media and had the majority of the city council on board, yet we still hadn’t heard anything from the Mayor or the City Council Speaker. Having faith on board called on the Mayor to pass the Right To Council as a moral imperative, which was a really important perspective to add to the campaign. The letter can be tailored to include information and demographics from your city, and does not necessarily need to be from the perspective of faith leaders. 
 
-{{< resource title1="Interfaith Forum Agenda on Right to Counsel (PDF)" link1="/docs/8/Interfaith Forum on Right to Counsel Notes 11.301.6.pdf" title1-2="(DOCX)" link1-2="/docs/8/Interfaith Forum on Right to Counsel Notes 11.301.6.docx" title2="Faith Leaders for the Right to Counsel Letter (PDF)" link2="/docs/8/Faith Leaders for the NYC Right to Counsel-87-12-13-16.pdf" title2-2="(DOCX)" link2-2="/docs/8/Faith Leaders for the NYC Right to Counsel-87-12-13-16.docx">}}
+{{< resource title1="8.3a: Interfaith Forum Agenda on Right to Counsel (PDF)" link1="/docs/8/Interfaith Forum on Right to Counsel Notes 11.301.6.pdf" title1-2="(DOCX)" link1-2="/docs/8/Interfaith Forum on Right to Counsel Notes 11.301.6.docx" title2="8.3b: Faith Leaders for the Right to Counsel Letter (PDF)" link2="/docs/8/Faith Leaders for the NYC Right to Counsel-87-12-13-16.pdf" title2-2="(DOCX)" link2-2="/docs/8/Faith Leaders for the NYC Right to Counsel-87-12-13-16.docx">}}
 
 <hr />
 
@@ -44,7 +44,7 @@ For our town halls, we used short skits developed by tenant leaders and organize
 
 We’re excited to share our skit script here, which you could adapt for your own coalition’s needs.
 
-{{< resource title1="NYC Housing Court: A Pro Se Tenant’s Experience (PDF)" link1="/docs/8/Housing Court Skit.pdf" title1-2="(DOCX)" link1-2="/docs/8/Housing Court Skit.docx" >}}
+{{< resource title1="8.4: NYC Housing Court: A Pro Se Tenant’s Experience (PDF)" link1="/docs/8/Housing Court Skit.pdf" title1-2="(DOCX)" link1-2="/docs/8/Housing Court Skit.docx" >}}
 
 <hr/>
 
@@ -64,8 +64,8 @@ This short report was created by the coalition after we hosted a series of town 
 
 Creating documents such as these after public meetings will allow you to extend the reach of your message beyond those who attended the meetings. We also used the report as an outreach and education tool in community meetings, meetings with allies, meetings with electeds, etc., to talk about the coalition, our impact and the importance of Right to Counsel. 
 
-{{< resource title1="Town Hall Report (PDF)" link1="/docs/8/townhall_report_final_v4.pdf"  >}}
+{{< resource title1="8.6: Town Hall Report (PDF)" link1="/docs/8/townhall_report_final_v4.pdf"  >}}
 
 <hr />
 
-{{< resource title1="Commitment Card Template (PDF)" link1="/docs/8/Commitment Card Template.pdf" title1-2="(DOCX)" link1-2="/docs/8/Commitment Card Template.docx" >}}
+{{< resource title1="8.7: Commitment Card Template (PDF)" link1="/docs/8/Commitment Card Template.pdf" title1-2="(DOCX)" link1-2="/docs/8/Commitment Card Template.docx" >}}
