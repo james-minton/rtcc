@@ -1,5 +1,5 @@
 ---
-title: 'Campaign Strategy, Development and Implementation'
+title: '4. Campaign Strategy, Development and Implementation'
 weight: '50'
 contenttype: toolkit
 date: 2018-11-23T18:25:40.932Z
