@@ -4,6 +4,8 @@ weight: '70'
 contenttype: toolkit
 date: 2018-11-27T22:53:26.544Z
 ---
+<img src="/images/legislation-sm.jpg" />
+
 This section of the toolkit focuses on the legislation that you will ultimately win! This section underscores the importance of the legislation as well as the mechanics you should consider in drafting legislation of your own. It also includes tools for engaging elected officials and lobbying for your bill. 
 
 Included in this section is:
