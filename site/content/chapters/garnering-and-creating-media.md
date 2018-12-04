@@ -4,6 +4,8 @@ weight: '110'
 contenttype: toolkit
 date: 2018-11-28T18:27:19.774Z
 ---
+<img src="/images/june-2015-RTC-PC-sm.jpg" />
+
 This section of the toolkit focuses on critical components of your campaign: garnering media coverage and creating your own media. Media coverage has a variety of strategic uses: elevating your issue in the public eye, recruiting new allies, and creating new points of public pressure to move key targets. Different media outlets will reach different audiences, and we recommend being strategic about finding out what media reaches your targets and tailoring your plans accordingly.
 
 Creating your own publicity, particularly through social media is also critical for engaging the public, sharing information about events and the campaign’s progress, and to create and control your own narrative.   
