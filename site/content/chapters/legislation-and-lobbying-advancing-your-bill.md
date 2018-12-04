@@ -25,11 +25,11 @@ This is the text of Local Law 136, enacted in August 2017, which establishes the
 
 Additional materials, such as hearing transcripts, can be found on the New York City Council website <a href="http://legistar.council.nyc.gov/LegislationDetail.aspx?ID=1687978&GUID=29A4594B-9E8A-4C5E-A797-96BDC4F64F80&Options=ID%7cText%7c&Search=214" target="_blank">here</a>. 
 
-{{< resource title1="Local Law 136" link1="https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=1687978&GUID=29A4594B-9E8A-4C5E-A797-96BDC4F64F80&Options=ID%7cText%7c&Search=214" >}}
+{{< resource title1="6.1: Local Law 136" link1="https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=1687978&GUID=29A4594B-9E8A-4C5E-A797-96BDC4F64F80&Options=ID%7cText%7c&Search=214" >}}
 
 <hr />
 
-{{< resource title1="Checklist of Key Components in Right to Counsel Legislation (PDF)" link1="/docs/5/Key Components of RTC Legislation.pdf" title1-2="(DOCX)" link1-2="/docs/5/Key Components of RTC Legislation.docx" >}}
+{{< resource title1="6.2: Checklist of Key Components in Right to Counsel Legislation (PDF)" link1="/docs/5/Key Components of RTC Legislation.pdf" title1-2="(DOCX)" link1-2="/docs/5/Key Components of RTC Legislation.docx" >}}
 
 <hr />
 
@@ -41,7 +41,7 @@ The emphasis on the unique importance of Right to Counsel as a right underscored
 
 _Citation: Scherer, Andrew, "WHY A RIGHT: The Right to Counsel and the Ecology of Housing Justice" (2016). Impact Center for Public Interest Law. Book 17_
 
-{{< resource title1="WHY A RIGHT: The Right to Counsel and the Ecology of Housing Justice" link1="https://digitalcommons.nyls.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1017&context=impact_center" >}}
+{{< resource title1="6.3: WHY A RIGHT: The Right to Counsel and the Ecology of Housing Justice" link1="https://digitalcommons.nyls.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1017&context=impact_center" >}}
 
 <hr />
 
@@ -51,7 +51,7 @@ This essay by Susanna Blankley, a tenant organizer and former Coalition Coordina
 
 Essays like this can be leveraged to make the case to a variety of audiences for Right to Counsel as a right, and to connect it to larger structures for racial and economic justice in your city.
 
-{{< resource title1="The Fight for Justice in Housing Court: From the Bronx to a Right to Counsel for all New York City Tenants" link1="https://digitalcommons.nyls.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1016&context=impact_center" >}}
+{{< resource title1="6.4: The Fight for Justice in Housing Court: From the Bronx to a Right to Counsel for all New York City Tenants" link1="https://digitalcommons.nyls.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1016&context=impact_center" >}}
 
 <hr />
 
@@ -69,4 +69,4 @@ Included in this section are:
 * Sample Right to Counsel Petition: To be used alone or in addition to the postcards.
 * Outreach to Elected Officials: An effective and engaging way to reach electeds. You can customize the template flyer and rap to your jurisdiction.
 
-{{< resource title1="Template Postcards to key decision makers (PDF)" link1="/docs/6/Postcards to Key Decision Makers.pdf" title1-2="(DOCX)" link1-2="/docs/6/Postcards to Key Decision Makers.docx" title2="Petitions (PDF)" link2="/docs/6/Sample RTC Petition.pdf" title2-2="(DOCX)" link2-2="/docs/6/Sample RTC Petition.docx" title3="Template for Call Drives to Elected Officials (PDF)" link3="/docs/6/Outreach to Elected Officials.pdf" title3-2="(DOCX)" link3-2="/docs/6/Outreach to Elected Officials.docx" title4="City Council Member Call Sheet (PDF)" link4="/docs/6/city council call sheet.pdf" >}}
+{{< resource title1="6.5: Template Postcards to key decision makers (PDF)" link1="/docs/6/Postcards to Key Decision Makers.pdf" title1-2="(DOCX)" link1-2="/docs/6/Postcards to Key Decision Makers.docx" title2="6.6: Petitions (PDF)" link2="/docs/6/Sample RTC Petition.pdf" title2-2="(DOCX)" link2-2="/docs/6/Sample RTC Petition.docx" title3="6.7: Template for Call Drives to Elected Officials (PDF)" link3="/docs/6/Outreach to Elected Officials.pdf" title3-2="(DOCX)" link3-2="/docs/6/Outreach to Elected Officials.docx" title4="6.8: City Council Member Call Sheet (PDF)" link4="/docs/6/city council call sheet.pdf" >}}
