@@ -1,5 +1,5 @@
 ---
-title: Organizing for a Just and Powerful Implementation
+title: 12. Organizing for a Just and Powerful Implementation
 weight: '130'
 contenttype: toolkit
 date: 2018-11-28T19:13:57.123Z
