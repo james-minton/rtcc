@@ -18,7 +18,7 @@ Included are:
 
 <hr />
 
-{{< resource title1="Data Points to Collect to Build the Case for Right to Counsel (PDF)" link1="/docs/7/Data Points to Collect.pdf" title1-2="(DOCX)" link1-2="/docs/7/Data Points to Collect.docx" >}}
+{{< resource title1="7.1 Data Points to Collect to Build the Case for Right to Counsel (PDF)" link1="/docs/7/Data Points to Collect.pdf" title1-2="(DOCX)" link1-2="/docs/7/Data Points to Collect.docx" >}}
 
 <hr />
 
@@ -38,7 +38,7 @@ In 2014, our coalition organized an all-day forum called Housing Justice: A Publ
 
 In order to produce the report, the event was videotaped. An intern then transcribed the video of the conference and then coalition members picked out key quotes and important information and worked with the intern to compile the content of the report. The report was designed by a staff member of a coalition member group and we were able to get a labor union to cover the cost of printing the report. It can serve as a model for others hosting similar community forums. 
 
-{{< resource title1="What the Experts Are Saying Report" link1="/docs/7/FINAL_expert_report.pdf" >}}
+{{< resource title1="7.3 What the Experts Are Saying Report" link1="/docs/7/FINAL_expert_report.pdf" >}}
 
 <hr />
 
@@ -46,7 +46,7 @@ In order to produce the report, the event was videotaped. An intern then transcr
 
 This fact sheet is designed to demonstrate the need for the right to counsel, the impact the legislation would have, the economic case for passing the right, and the urgency of passing the legislation.The fact sheet includes some of the key data points that our coalition collected. Because it covers an array of information, it has multiple uses for multiple audiences: community meetings, institutional allies, elected officials, media, etc. While the information included is specific to New York, we invite you to use it both as an example and as a template for your own coalition’s work. 
 
-{{< resource title1="Fact sheet: “Housing Justice: New Yorkers Should Have a RIght to Counsel in Evictions  Proceedings”" link1="/docs/7/RTC_FACT_SHEET.pdf" >}}
+{{< resource title1="7.4 Fact sheet: “Housing Justice: New Yorkers Should Have a RIght to Counsel in Evictions  Proceedings”" link1="/docs/7/RTC_FACT_SHEET.pdf" >}}
 
 <hr />
 
@@ -54,7 +54,7 @@ This fact sheet is designed to demonstrate the need for the right to counsel, th
 
 Mapping can be an engaging and accessible way to visually represent the importance of Right to Counsel. In New York City, evictions are not only destabilizing and traumatic for individuals and communities, but they are also a tool used by landlords to seek higher profits for their rental stock. Landlords seek to evict tenants in rent regulated apartments so that they can raise the rent for future renters, once those apartments have been vacated by the original tenants. This map demonstrates the relationship between high eviction rates and areas dense with rent-regulated housing, helping to support the argument that evictions are a business model rather than a compilation of individual cases. It positions the Right to Counsel not only as a tool against evictions but as a tool to preserve rent regulated housing, fight gentrification and stop landlord harassment. This map was created by one of our coalition members! This issue may be important in your city or state as well, or other issues may lend themselves well to visualizing with maps. If your coalition includes or has connections to people with mapping skills, you can approach them to help you create maps such as this one.
 
-{{< resource title1="Map of Evictions and Rent Regulated Units in NYC" link1="/docs/7/Evictions_and_rent_reg_MAP.pdf" >}}
+{{< resource title1="7.5 Map of Evictions and Rent Regulated Units in NYC" link1="/docs/7/Evictions_and_rent_reg_MAP.pdf" >}}
 
 <hr />
 
@@ -62,7 +62,7 @@ Mapping can be an engaging and accessible way to visually represent the importan
 
 This video, produced by one of our campaign members, demonstrates the importance and impact of engaging a variety of stakeholders in the fight for the Right to Counsel.  AARP has a wide and influential audience, and their engagement in the campaign meant that the Right to Counsel message had a broad reach. Your coalition can consider the engagement of allies such as AARP who are focused on particular communities that are impacted by the eviction crisis. 
 
-{{< resource title1="AARP Video" link1="/docs/7/Right to Counsel Video.mp4" >}}
+{{< resource title1="7.6 AARP Video" link1="/docs/7/Right to Counsel Video.mp4" >}}
 
 <hr />
 
@@ -76,6 +76,6 @@ Your coalition could use this report as a model for your own context. If your co
 
 <div class="resource-link">
     <h3>RESOURCE:</h3>
-    <a href="https://www2.nycbar.org/pdf/report/uploads/SRR_Report_Financial_Cost_and_Benefits_of_Establishing_a_Right_to_Counsel_in_Eviction_Proceedings.pdf" target="_blank">Full Report (PDF)</a> | 
-    <a href="/docs/7/SRR_report_two_pager_FINAL.pdf" target="_blank">2 Page Summary (PDF)</a>
+    <a href="https://www2.nycbar.org/pdf/report/uploads/SRR_Report_Financial_Cost_and_Benefits_of_Establishing_a_Right_to_Counsel_in_Eviction_Proceedings.pdf" target="_blank">7.7.1 Full Report (PDF)</a> | 
+    <a href="/docs/7/SRR_report_two_pager_FINAL.pdf" target="_blank">7.7.2 Two  Page Summary (PDF)</a>
 </div>
