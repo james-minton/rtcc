@@ -53,7 +53,7 @@ This set of principles was designed by our coalition after Right to Counsel was 
 
 Developing similar principles in your own context will help ensure that your organizing around implementation is strategic and sustainable. It is also important to keep in mind that when you win, people who weren’t involved originally will suddenly want to be, and this process helped us focus and organize our work as our coalition grew. Our principles can be used as a model, though your local context, the specifics of your legislation and the priorities of your organizing will inspire your own principles.
 
-{{< resource title1="Guiding Principles for Right to Counsel Implementation (PDF)" link1="/docs/12/Guiding-Principles-for-RTC-Implementation-FINAL.pdf" >}}
+{{< resource title1="12.1.1: Guiding Principles for Right to Counsel Implementation (PDF)" link1="/docs/12/Guiding-Principles-for-RTC-Implementation-FINAL.pdf" >}}
 
 <h3>Tips for Speaking to the Press about Implementation</h3>
 
@@ -61,13 +61,13 @@ Our coalition developed these talking points to ensure our external messages abo
 
 Our talking points can be adapted for use by your coalition to guide your messaging about Right to Counsel.
 
-{{< resource title1="Press Talking Points for Implementation Challenges (PDF)" link1="/docs/12/Press Talking Points for Implementation Challenges.pdf" title1-2="(DOCX)" link1-2="/docs/12/Press Talking Points for Implementation Challenges.docx" >}}
+{{< resource title1="12.1.2: Press Talking Points for Implementation Challenges (PDF)" link1="/docs/12/Press Talking Points for Implementation Challenges.pdf" title1-2="(DOCX)" link1-2="/docs/12/Press Talking Points for Implementation Challenges.docx" >}}
 
 <h3>Working Groups for Implementation and Ongoing Organizing</h3>
 
 Developing working groups within your coalition is a helpful way to guide your ongoing organizing work and campaign implementation.  This helps ensure that there are people in your coalition moving forward key aspects of work, and that the work is organized and coordinated.  These groups also helped to structure large coalition meetings. During our two hour meetings, we would almost always break out into the working groups to complete targeted work and this reduced the amount of meetings overall. We would then join the larger group to share report- backs and discuss other campaign work. Here we share the working groups our coalition created during the implementation stage of the campaign. While your coalition will have unique needs based on your local context, our groups may be a helpful model as you think through your coalition structure and priorities in this phase of your campaign. 
 
-{{< resource title1="Press Talking Points for Implementation Challenges (PDF)" link1="/docs/12/Working groups to Support Implementation.pdf" title1-2="(DOCX)" link1-2="/docs/12/Working groups to Support Implementation.docx" >}}
+{{< resource title1="12.1.3: Press Talking Points for Implementation Challenges (PDF)" link1="/docs/12/Working groups to Support Implementation.pdf" title1-2="(DOCX)" link1-2="/docs/12/Working groups to Support Implementation.docx" >}}
 
 <hr />
 
@@ -85,7 +85,7 @@ Included in this section:
 
 Our coalition developed this frequently asked questions document to ensure that tenants understood Right to Counsel, how it would be be rolled out, how to assess their eligibility and how to access an attorney. We had to develop tools like this because the city bureaucracy moved so slowly. In addition, crafting these document enabled us to control the narrative and ensure our key organizing messages were included.The FAQ also emphasized our coalition’s message that evictions are about power, race and class, and that Right to Counsel is a tool in combating evictions that was won after years of hard organizing. The FAQs are featured on our website, were blasted through social media and massively distributed in the community through all of our community outreach work. We’re also including a link to a page of our website called “My Rent is Too High-How Does RTC help me?” that helps tenants determine if their high rent is legal or not. 
 
-{{< resource title1="My Rent is Too High—How Does RTC Help Me?" link1="https://www.righttocounselnyc.org/my_rent_is_too_high_how_does_rtc_help_me" >}}
+{{< resource title1="12.2.1: My Rent is Too High—How Does RTC Help Me?" link1="https://www.righttocounselnyc.org/my_rent_is_too_high_how_does_rtc_help_me" >}}
 
 <h3>Facilitation Guide and Q&A for Right to Counsel and Implementation</h3>
 
@@ -93,7 +93,7 @@ After we won, we were asked to join various panels, conferences, workshops and m
 
 The second tool is an agenda for one of the panels we planned and organized. The focus of this particular panel was to provide important organizing context and history for the Right to Counsel, to discuss ongoing goals and priorities for implementation, and to inspire others to take up the fight for Right to Counsel in their own cities. This agenda format is one we used throughout various panels and presentations, so it’s easy to adapt to different contexts. 
 
-{{< resource title1="Q&A on RTC and Organizing (PDF)" link1="/docs/12/Q&A on RTC and organizing.pdf" title1-2="(DOCX)" link1-2="/docs/12/Q&A on RTC and organizing.docx" title2="Facilitation Guide for RTC Panel (PDF)" link2="/docs/12/Facilitation Guide for RTC Panel.pdf" title2-2="(DOCX)" link2-2="/docs/12/Facilitation Guide for RTC Panel.docx" >}}
+{{< resource title1="12.2.2: Q&A on RTC and Organizing (PDF)" link1="/docs/12/Q&A on RTC and organizing.pdf" title1-2="(DOCX)" link1-2="/docs/12/Q&A on RTC and organizing.docx" title2="12.2.2b: Facilitation Guide for RTC Panel (PDF)" link2="/docs/12/Facilitation Guide for RTC Panel.pdf" title2-2="(DOCX)" link2-2="/docs/12/Facilitation Guide for RTC Panel.docx" >}}
 
 <h3>EvictionFree NYC</h3>
 
@@ -103,7 +103,7 @@ We created postcards with the website’s address and key information and consta
 
 The website was created on a user-friendly platform and is easy to update on our end, but this is an ongoing project as the implementation changes and expands. When we released the website, we circulated press releases on social media to help get the word out. 
 
-{{< resource title1="Website: Eviction Free NYC" link1="https://www.evictionfreenyc.org/en-US"  title2="Eviction Free NYC postcard (PDF)" link2="/docs/12/Eviction Free NYC postcard.pdf" >}}
+{{< resource title1="12.2.3: Website: Eviction Free NYC" link1="https://www.evictionfreenyc.org/en-US"  title2="12.2.3b: Eviction Free NYC postcard (PDF)" link2="/docs/12/Eviction Free NYC postcard.pdf" >}}
 
 <hr />
 
@@ -124,13 +124,13 @@ The tools in this section include:
   * Town hall phone banking 
   * Overview of organizing with RTC
 
-{{< resource title1="Case Study: The Work to Come & RTC 2.0 (PDF)" link1="/docs/12/Case Study-The Work to Come-RTC 2.0.pdf" title1-2="(DOCX)" link1-2="/docs/12/Case Study-The Work to Come-RTC 2.0.docx" >}}
+{{< resource title1="12.3.1: Case Study: The Work to Come & RTC 2.0 (PDF)" link1="/docs/12/Case Study-The Work to Come-RTC 2.0.pdf" title1-2="(DOCX)" link1-2="/docs/12/Case Study-The Work to Come-RTC 2.0.docx" >}}
 
 <h3>Town Hall Guiding Agenda</h3>
 
 After the win, it was important to continue to meet as a community, not only to inform the public of how the new right would work, but to continue to build tenant power. After the bill was passed, we held 5 town halls, one in each borough, and we are sharing the guiding agenda here so you can see what went into the planning phase. Part facilitation guide and part agenda, the document offers goals and materials needed for the meeting and options for activities.
 
-{{< resource title1="Town Hall Guiding Agenda (PDF)" link1="/docs/12/RTC Town Hall Agenda.pdf" title1-2="(DOCX)" link1-2="/docs/12/RTC Town Hall Agenda.docx" >}}
+{{< resource title1="12.3.2: Town Hall Guiding Agenda (PDF)" link1="/docs/12/RTC Town Hall Agenda.pdf" title1-2="(DOCX)" link1-2="/docs/12/RTC Town Hall Agenda.docx" >}}
 
 <h3>Supporting Tenant Organizing</h3>
 
@@ -140,7 +140,7 @@ As you move into the phase of organizing that happens after your Right to Counse
 
 Here we share our organizing principles. You may want to revise these to fit with your coalition’s priorities, or brainstorm your own principles separately. 
 
-{{< resource title1="Organizing Principles for Right to Counsel Implementation Phase (PDF)" link1="/docs/12/Organizing Principles.pdf" title1-2="(DOCX)" link1-2="/docs/12/Organizing Principles.docx" >}}
+{{< resource title1="12.3.3.1: Organizing Principles for Right to Counsel Implementation Phase (PDF)" link1="/docs/12/Organizing Principles.pdf" title1-2="(DOCX)" link1-2="/docs/12/Organizing Principles.docx" >}}
 
 _<br />_
 
@@ -148,7 +148,7 @@ _Timeline and Plan for Organizing After RTC Win_
 
 After Right to Counsel is won, there is a lot of work to do to make sure tenants know their rights and claim them.  And because our legislation didn’t fund community organizing or outreach, there was no mechanism built in to make sure that tenants know and feel worthy and powerful in using their new right!  Our coalition found it helpful to develop a timeline with key organizing steps laid out throughout the year, as well as broader tasks such as outreach materials to develop, outreach activities, and places at which relationships should be built. Here in NYC, neighborhood-based community organizing groups are working on implementing the timeline in their neighborhoods. Because our roll out is by zip code, the outreach and organizing work is focused in the neighborhoods where RTC is being implemented.  Documents like this one ensure that our organizing remains strategic and coordinated, and they also reflect the collective thinking of a large committee of tenant leaders and organizers.  We share our timeline and planning document here for your coalition to use as a model.
 
-{{< resource title1="Timeline and Plan for Organizing After RTC Win (PDF)" link1="/docs/12/RTC Organizing Timeline 2017-2018.pdf" title1-2="(DOCX)" link1-2="/docs/12/RTC Organizing Timeline 2017-2018.docx" >}}
+{{< resource title1="12.3.3.2: Timeline and Plan for Organizing After RTC Win (PDF)" link1="/docs/12/RTC Organizing Timeline 2017-2018.pdf" title1-2="(DOCX)" link1-2="/docs/12/RTC Organizing Timeline 2017-2018.docx" >}}
 
 <br />
 
@@ -156,7 +156,7 @@ _RTCNYC Town Hall Phone Banking Script_
 
 Holding town halls was an effective way for us to reach out and share information with communities about the Right to Counsel legislation. We relied on coalition members to volunteer and spread the word about these events. We’ve included a script for phone banking that we developed to reach out to tenants. You’ll see that we typed out guided instructions for volunteers to follow, including how to engage people who were not able to attend. It was also important that we provide brief context and history of the right to counsel. Simply tailor the script to include the relevant event information and historical context so that your phone bankers are prepared. 
 
-{{< resource title1="Town Hall Phone Banking Script (PDF)" link1="/docs/12/RTC Town Hall Phone Banking Script.pdf" title1-2="(DOCX)" link1-2="/docs/12/RTC Town Hall Phone Banking Script.docx" >}}
+{{< resource title1="12.3.3.3: Town Hall Phone Banking Script (PDF)" link1="/docs/12/RTC Town Hall Phone Banking Script.pdf" title1-2="(DOCX)" link1-2="/docs/12/RTC Town Hall Phone Banking Script.docx" >}}
 
 <br />
 
@@ -166,4 +166,4 @@ This document was designed by the coalition to be used by organizers. It lays ou
 
 While Right to Counsel implementation and organizing may look different in your local context, your coalition can use this document as a model when thinking about your own guidance to organizers.
 
-{{< resource title1="Tenant Organizing in RTC Zips—What’s Different About It (PDF)" link1="/docs/12/Tenant Organizing in RTC Zips--what’s different about it.pdf" title1-2="(DOCX)" link1-2="/docs/12/Tenant Organizing in RTC Zips--what’s different about it.docx" >}}
+{{< resource title1="12.3.3.4: Tenant Organizing in RTC Zips—What’s Different About It (PDF)" link1="/docs/12/Tenant Organizing in RTC Zips--what’s different about it.pdf" title1-2="(DOCX)" link1-2="/docs/12/Tenant Organizing in RTC Zips--what’s different about it.docx" >}}
