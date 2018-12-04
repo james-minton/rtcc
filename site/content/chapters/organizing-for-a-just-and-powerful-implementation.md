@@ -53,7 +53,7 @@ This set of principles was designed by our coalition after Right to Counsel was 
 
 Developing similar principles in your own context will help ensure that your organizing around implementation is strategic and sustainable. It is also important to keep in mind that when you win, people who weren’t involved originally will suddenly want to be, and this process helped us focus and organize our work as our coalition grew. Our principles can be used as a model, though your local context, the specifics of your legislation and the priorities of your organizing will inspire your own principles.
 
-{{< resource title1="Guiding Principles for Right to Counsel Implementation (PDF)" link1="site/static/docs/12/Guiding-Principles-for-RTC-Implementation-FINAL.pdf" >}}
+{{< resource title1="Guiding Principles for Right to Counsel Implementation (PDF)" link1="/docs/12/Guiding-Principles-for-RTC-Implementation-FINAL.pdf" >}}
 
 <h3>Tips for Speaking to the Press about Implementation</h3>
 
