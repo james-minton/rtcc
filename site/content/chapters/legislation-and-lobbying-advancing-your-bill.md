@@ -1,5 +1,5 @@
 ---
-title: 'Legislation and Lobbying: Advancing Your Bill'
+title: '6. Legislation and Lobbying: Advancing Your Bill'
 weight: '70'
 contenttype: toolkit
 date: 2018-11-27T22:53:26.544Z
