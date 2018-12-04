@@ -4,6 +4,8 @@ weight: '140'
 contenttype: toolkit
 date: 2018-12-03T01:07:40.015Z
 ---
+<img src="/images/rtcc-leaderssm.jpg" />
+
 ## Tenant Profile: Randy Dillard, NYC Tenant, Member of Community Action for Safe Apartments (CASA)
 
 _Randy Dillard is a resident of the Bronx, and is a single father of 5 children. He has been a CASA member for 6 years and a CASA leader for 4 of those years. Randy has been intricately involved in the city-wide Right to Counsel coalition since 2014. Randy was also appointed to a local community board in the Bronx, is a member of the Bronx Defenders, the National Action Network and he represents CASA on the RTCNYC Steering Committee._
@@ -30,7 +32,7 @@ Since the win, the nature of housing court needs to evolve to reflect Right to C
 
 <hr />
 
-## Tenant Profile: Maria Lopez-Nunez, Community Organizer, Ironbound Community Corporation, Newark, NJ 
+## Tenant Profile: Maria Lopez-Nunez, Community Organizer, Ironbound Community Corporation, Newark, NJ
 
 _Maria Lopez Nuñez is the Director of Environmental Justice and Community Development at the Ironbound Community Corporation in Newark, NJ, where she has served as a community organizer for the past five years. Maria works on issues at the intersections of immigration, environmental and housing justice. She is a displaced Bushwick resident who hopes to not repeat the same story in Newark, which is one of the reasons why Right to Counsel is so important to her._
 
