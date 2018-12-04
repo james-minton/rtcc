@@ -53,7 +53,7 @@ This set of principles was designed by our coalition after Right to Counsel was 
 
 Developing similar principles in your own context will help ensure that your organizing around implementation is strategic and sustainable. It is also important to keep in mind that when you win, people who weren’t involved originally will suddenly want to be, and this process helped us focus and organize our work as our coalition grew. Our principles can be used as a model, though your local context, the specifics of your legislation and the priorities of your organizing will inspire your own principles.
 
-{{< resource title1="Data Points to Collect to Build the Case for Right to Counsel (PDF)" link1="/docs/8/Town Halls--Planning for Outreach and Logistics.pdf" title1-2="(DOCX)" link1-2="/docs/7/Data Points to Collect.docx" >}}
+{{< resource title1="Guiding Principles for Right to Counsel Implementation (PDF)" link1="site/static/docs/12/Guiding-Principles-for-RTC-Implementation-FINAL.pdf" >}}
 
 <h3>Tips for Speaking to the Press about Implementation</h3>
 
@@ -165,7 +165,5 @@ _Overview of Organizing  in RTC Zips—What’s Different About It?_
 This document was designed by the coalition to be used by organizers. It lays out key steps organizers should take when working in buildings that are in zip codes that qualify for Right to Counsel, ranging from ensuring that tenants know they have the right to counsel (even if they don’t have an active case) to helping identify tenants at risk of eviction to set up rapid response defense and explore actions like eviction blockades. Documents like these, that tie Right to Counsel to larger organizing efforts, are an important part of the ongoing campaign.
 
 While Right to Counsel implementation and organizing may look different in your local context, your coalition can use this document as a model when thinking about your own guidance to organizers.
-
-
 
 {{< resource title1="Tenant Organizing in RTC Zips—What’s Different About It (PDF)" link1="/docs/12/Tenant Organizing in RTC Zips--what’s different about it.pdf" title1-2="(DOCX)" link1-2="/docs/12/Tenant Organizing in RTC Zips--what’s different about it.docx" >}}
