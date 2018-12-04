@@ -52,7 +52,7 @@ Included are:
 * **Questions to Ask about RTC to Key Lawmakers at Public Events:** Includes the strategic questions we asked the Mayor of NYC in order to get him to publicly share his position on right to counsel. 
 * **Sample Chants:** We’ve included some sample chants, to help build energy and demonstrate unity!
 
-{{< resource title1="Sample Press Conference Agenda (PDF)" link1="/docs/9/Sample Press Conference Agenda.pdf" title1-2="(DOCX)" link1-2="/site/static/docs/9/Sample Press Conference Agenda.docx" >}}
+{{< resource title1="Sample Press Conference Agenda (PDF)" link1="/docs/9/Sample Press Conference Agenda.pdf" title1-2="(DOCX)" link1-2="/docs/9/Sample Press Conference Agenda.docx" >}}
 
 <h3>Postcard Delivery Press Conference</h3>
 
@@ -62,8 +62,8 @@ The postcard delivery event was an exciting moment for the coalition. We collect
 
 <hr />
 
-{{< resource title1="Questions to Ask about RTC to Key Lawmakers at Public Events (PDF)" link1="/docs/9/Questions to Ask about RTC to key lawmakers at public events.pdf" title1-2="(DOCX)" link1-2="site/static/docs/9/Questions to Ask about RTC to key lawmakers at public events.docx" >}}
+{{< resource title1="Questions to Ask about RTC to Key Lawmakers at Public Events (PDF)" link1="/docs/9/Questions to Ask about RTC to key lawmakers at public events.pdf" title1-2="(DOCX)" link1-2="/docs/9/Questions to Ask about RTC to key lawmakers at public events.docx" >}}
 
 <hr />
 
-{{< resource title1="Sample Chants for Events (PDF)" link1="/docs/9/Tenant Chant Cheat Sheet.pdf" title1-2="(DOCX)" link1-2="site/static/docs/9/Tenant Chant Cheat Sheet.docx" >}}
+{{< resource title1="Sample Chants for Events (PDF)" link1="/docs/9/Tenant Chant Cheat Sheet.pdf" title1-2="(DOCX)" link1-2="/docs/9/Tenant Chant Cheat Sheet.docx" >}}
