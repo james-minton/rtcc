@@ -24,7 +24,7 @@ As part of celebrating and memorializing the passage of the Right to Counsel bil
 
 This activity was part of a larger meeting. It can be used at a workshop, tenant association meeting, an outreach training, a community meeting, an orientation for new lawyers, etc. You can make the meeting last 20 minutes or 40 minutes, depending on which activities you choose to facilitate. The goal of having an activity about our history was to be able to incorporate our history into many different forums, ensuring that the story of Right to Counsel would be told from the perspective of the tenant movement, with emphasis on organizing efforts and opportunities.  It was also a way to really celebrate and acknowledge our victory as we prepare for the work ahead!
 
-{{< resource title1="RTC History Activity: Facilitation Guide (PDF)" link1="/docs/11/RTC History Activity Facilitation Guide.pdf" title1-2="(DOCX)" link1-2="/docs/11/RTC History Activity Facilitation Guide.docx" >}}
+{{< resource title1="11.1: RTC History Activity: Facilitation Guide (PDF)" link1="/docs/11/RTC History Activity Facilitation Guide.pdf" title1-2="(DOCX)" link1-2="/docs/11/RTC History Activity Facilitation Guide.docx" >}}
 
 <hr />
 
@@ -36,7 +36,7 @@ This timeline was made for use in our <a href="/docs/11/RTC History Activity Fac
 
 We have included our timeline here, which you can adapt to celebrate your own win!
 
-{{< resource title1="Interactive Timeline of Right to Counsel Win (PDF)" link1="/docs/11/RTC History Interactive--revised 2018.pdf" title1-2="(DOCX)" link1-2="/docs/11/RTC History Interactive--revised 2018.docx" >}}
+{{< resource title1="11.2: Interactive Timeline of Right to Counsel Win (PDF)" link1="/docs/11/RTC History Interactive--revised 2018.pdf" title1-2="(DOCX)" link1-2="/docs/11/RTC History Interactive--revised 2018.docx" >}}
 
 <hr />
 
@@ -48,7 +48,7 @@ This teach-in was developed by our coalition for tenants, organizers and legal s
 
 Our guide can be adapted by your coalition for similar engagement purposes.
 
-{{< resource title1="Teach-In on Right to Counsel (PDF)" link1="/docs/11/Teach in draft agenda.pdf" title1-2="(DOCX)" link1-2="/docs/11/Teach in draft agenda.docx" >}}
+{{< resource title1="11.3: Teach-In on Right to Counsel (PDF)" link1="/docs/11/Teach in draft agenda.pdf" title1-2="(DOCX)" link1-2="/docs/11/Teach in draft agenda.docx" >}}
 
 <hr />
 
@@ -58,7 +58,7 @@ In addition to documenting the history and wins of your Right to Counsel organiz
 
 A simple and clear visual representation helps show this history and the power of the current moment.  Our poster, focused on New York tenant movement wins, dates back to winning a rent freeze, the right to a habitable home, the right to organize and the right to shelter in the 1970s, through anti-discrimination wins and more, culminating in the win of Right to Counsel. Your coalition’s timeline will center on your own local or regional history.
 
-{{< resource title1="What We Have Won (PDF)" link1="/docs/11/RTC activism poster v7 final.pdf" >}}
+{{< resource title1="11.4: What We Have Won (PDF)" link1="/docs/11/RTC activism poster v7 final.pdf" >}}
 
 <hr />
 
@@ -68,4 +68,4 @@ After we won the Right to Counsel, we started getting questions from people in o
 
 We have included our coalition’s lessons learned document, which is hopefully useful to you as you navigate the toolkit, and it can also be a basis on which you can model your own.  Please share yours with us!  We are happy to add new lessons learned documents from other cities to the RTC Campaign toolkit!
 
-{{< resource title1="Lessons Learned (PDF)" link1="/docs/11/Lessons Learned.pdf" title1-2="(DOCX)" link1-2="/docs/11/Lessons Learned.docx" >}}
+{{< resource title1="11.5: Lessons Learned (PDF)" link1="/docs/11/Lessons Learned.pdf" title1-2="(DOCX)" link1-2="/docs/11/Lessons Learned.docx" >}}
