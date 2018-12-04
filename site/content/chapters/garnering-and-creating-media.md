@@ -1,5 +1,5 @@
 ---
-title: 'Garnering and Creating Media '
+title: '10. Garnering and Creating Media '
 weight: '110'
 contenttype: toolkit
 date: 2018-11-28T18:27:19.774Z
