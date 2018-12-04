@@ -4,7 +4,7 @@ weight: '60'
 contenttype: toolkit
 date: 2018-11-27T22:30:18.964Z
 ---
-<img src="/images/outreach-sm.jpg" />
+<img src="/images/outreach2-sm.jpg" />
 
 ## Sample PowerPoint Presentation about the Right to Counsel
 
