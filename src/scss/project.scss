@@ -773,10 +773,11 @@ input {
     }
 }
 .sticky-main {
+    @include for-768-up {
     position: fixed;
-   
     bottom: 0rem; 
     margin-left: 272px;
+    }
     @media (min-width: 1080px) {
         margin-left: 25%;
     }
