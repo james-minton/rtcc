@@ -69,7 +69,7 @@ Our talking points can be adapted for use by your coalition to guide your messag
 
 Developing working groups within your coalition is a helpful way to guide your ongoing organizing work and campaign implementation.  This helps ensure that there are people in your coalition moving forward key aspects of work, and that the work is organized and coordinated.  These groups also helped to structure large coalition meetings. During our two hour meetings, we would almost always break out into the working groups to complete targeted work and this reduced the amount of meetings overall. We would then join the larger group to share report- backs and discuss other campaign work. Here we share the working groups our coalition created during the implementation stage of the campaign. While your coalition will have unique needs based on your local context, our groups may be a helpful model as you think through your coalition structure and priorities in this phase of your campaign. 
 
-{{< resource title1="12.1.3: Press Talking Points for Implementation Challenges (PDF)" link1="/docs/12/Working groups to Support Implementation.pdf" title1-2="(DOCX)" link1-2="/docs/12/Working groups to Support Implementation.docx" >}}
+{{< resource title1="12.1.3: Working groups to Support Implementation (PDF)" link1="/docs/12/Working groups to Support Implementation.pdf" title1-2="(DOCX)" link1-2="/docs/12/Working groups to Support Implementation.docx" >}}
 
 <hr />
 
