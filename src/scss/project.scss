@@ -772,6 +772,11 @@ input {
         display: none !important;
     }
 }
+.sticky-main {
+    position: fixed;
+    left: 25%;
+    bottom: 0rem;
+}
 
 /* ----- Slideout menu --- */
 

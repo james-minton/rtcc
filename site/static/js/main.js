@@ -1,5 +1,5 @@
 // Hide Header on on scroll down
-var didScroll;
+/* var didScroll;
 var lastScrollTop = 0;
 var delta = 5;
 var navbarHeight = $('nav').outerHeight();
@@ -59,7 +59,7 @@ $('#recipeCarousel.carousel .carousel-item').each(function(){
         next.children(':first-child').clone().appendTo($(this));
       }
 });
-
+*/
 // Reverse Homepage Panel 3 Slider Direction
 
 // $( document ).ready(function() {
@@ -85,7 +85,7 @@ var $flyout = $(".app-menu");
 
 // Highlight page section on scroll
 
-$(window).on('scroll', function() {
+/* $(window).on('scroll', function() {
     $('.target').each(function() {
         if($(window).scrollTop() >= $(this).offset().top -500) {
             var id = $(this).attr('id');
@@ -93,7 +93,7 @@ $(window).on('scroll', function() {
             $('h3[ id='+ id +']').addClass('active');
         }
     });
-});
+}); */
 
 // Slideout menu
 
@@ -163,5 +163,28 @@ $(document).ready(function() {
 
 
 
+var mainContainer = $('main'),
+divHeight = $('#homepage').height(),
+stickyClass = 'sticky-main'
 
+function checkSize(){   
+    if ($("main").css("max-width") == "75%"){
+        $(window).on('scroll', function(){
+            var scrollPos = $(window).scrollTop() + $('#homepage').height()-40;
+        if ((scrollPos > divHeight) && (divHeight < $(window).height())) {
+        mainContainer.addClass(stickyClass)
+        } else {
+        mainContainer.removeClass(stickyClass)
+        }
+        })
 
+    }
+}
+
+$(document).ready(function() {
+    // run test on initial page load
+    checkSize();
+
+    // run test on resize of the window
+    $(window).resize(checkSize);
+}); 
