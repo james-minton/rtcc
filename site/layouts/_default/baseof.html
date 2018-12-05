@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
     <!--<base href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">-->
-    {{ $.Scratch.Set "description" "Learn how to implement Right to Counsel and defend againt evictions in your community." }}
+    {{ $.Scratch.Set "description" "Learn about NYC's campaign to win Right to Counsel as a tool to stop evictions and build tenant power." }}
     {{ if .Params.socialDescription }}
 			{{ $.Scratch.Set "socialDescription" .Params.socialDescription }}
     {{ end }}
