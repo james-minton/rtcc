@@ -774,8 +774,12 @@ input {
 }
 .sticky-main {
     position: fixed;
-    left: 25%;
-    bottom: 0rem;
+   
+    bottom: 0rem; 
+    margin-left: 272px;
+    @media (min-width: 1080px) {
+        margin-left: 25%;
+    }
 }
 
 /* ----- Slideout menu --- */

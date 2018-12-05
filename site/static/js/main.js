@@ -170,11 +170,15 @@ stickyClass = 'sticky-main'
 function checkSize(){   
     if ($("main").css("max-width") == "75%"){
         $(window).on('scroll', function(){
-            var scrollPos = $(window).scrollTop() + $('#homepage').height()-40;
-        if ((scrollPos > divHeight) && (divHeight < $(window).height())) {
-        mainContainer.addClass(stickyClass)
+            var topSetting = divHeight - $(window).height()+40;
+            var scrollPos = $(window).scrollTop() + (divHeight-40) - topSetting;
+            
+        if /*(*/(scrollPos > divHeight) /* && (divHeight < $(window).height())) */ {
+            //$('.sticky-main').css("top", topSetting);
+            mainContainer.addClass(stickyClass);
         } else {
-        mainContainer.removeClass(stickyClass)
+            mainContainer.removeClass(stickyClass);
+           // $('main').css("top", "unset");
         }
         })
 
