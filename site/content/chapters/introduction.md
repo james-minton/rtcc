@@ -8,13 +8,13 @@ date: 2018-10-01T02:00:58.021Z
 
 ## About the Authors
 
-**The Right to Counsel NYC Coalition (“RTCNYC”)**
+<h3>The Right to Counsel NYC Coalition (“RTCNYC”)</h3>
 
 RTCNYC Coalition is made up of tenant organizing groups, tenant advocates, homeless advocates, senior advocates, disability advocates, academics, legal services organizations and more! We led the campaign that resulted in the passage of Local Law 136, which ensures that low-income tenants are represented in eviction cases by attorneys when they defend their rights and their homes. The Coalition is actively organizing and advocating while this law is being phased in.
 
 In 2014, the Right to Counsel Bill (Intro 214) was introduced in New York City Council in order to establish a city-funded right to counsel for low-income tenants facing eviction proceedings. After three years of organizing, the Right to Counsel was signed into law in August 2017: mandating universal access to legal representation for low-income tenants and **making NYC the first city in the country to establish a right to counsel for tenants facing eviction.** This means that tenants no longer have to fear unjust evictions. This means that tenants no longer have to fear eviction as retaliation for organizing in their buildings or holding their landlords accountable. This means that we have more tools to fight gentrification and displacement. The law is being phased in over 5 years. By July 2022, all low-income tenants in NYC will have a right to an attorney to defend their homes. 
 
-**The Community Development Project (“CDP”)**
+<h3>The Community Development Project (“CDP”)</h3>
 
 CDP strengthens the impact of grassroots organizations in New York City’s low-income and other excluded communities. CDP’s Research and Policy Initiative partners with and provides strategic support to grassroots community organizations to build the power of their organizing and advocacy work. CDP utilizes a Participatory Action Research model in which low-income and excluded communities are central to the design and development of research and policy. CPD’s work consists of the following: Participatory Action Research support and report development; grassroots policymaking; popular education curriculum design and training; facilitation of strategic alliances and coalitions; and strategic campaign research.
 
@@ -26,11 +26,11 @@ This toolkit is designed by the RTCNYC Coalition, with community organizing camp
 
 These tools are for organizers and community members fighting evictions, displacement and gentrification pressures, and seeking to advance the right to counsel in their own communities.  We know every campaign will be different, because local contexts differ as does the organizing landscape. You may be just starting to think about what it would take to initiate such a campaign, or you may be most of the way there already. The tools, templates and examples we provide are intended to be adapted and modified to fit your needs. 
 
-How to use the Toolkit:
+<h3>How to use the Toolkit:</h3>
 
 We invite you to start to tackle the toolkit by reading the <a href="/docs/11/Lessons Learned.pdf" target="_blank">Lessons from NYC’s Right to Counsel Campaign</a>; this document was the impetus for the toolkit and it doubly serves as a summary of the campaign. Starting here can help you decide which tools will work best for your campaign.
 
-You can read the toolkit the whole way through or pick and choose the pieces that are most relevant to your campaign. The toolkit is laid out in sections that follow one another, but we know that campaigns are not linear.Building your coalition may start early but continue throughout your campaign, and your needs and goals will change over time. You may have early moments where you seek to gain media attention and apply public pressure, and later moments where you are focusing on internal base building and research. We offer these tools to be used when you need them and in the ways that you need them. 
+You can read the toolkit the whole way through or pick and choose the pieces that are most relevant to your campaign. The toolkit is laid out in sections that follow one another, but we know that campaigns are not linear. Building your coalition may start early but continue throughout your campaign, and your needs and goals will change over time. You may have early moments where you seek to gain media attention and apply public pressure, and later moments where you are focusing on internal base building and research. We offer these tools to be used when you need them and in the ways that you need them. 
 
 * **Activities:** The activities included in the Toolkit are meant to be done in group settings to get the energy flowing and turn community voices into action and progress. 
 * **Tools:** We turned our work into usable tools and templates that you can download, print and start using right away. 
