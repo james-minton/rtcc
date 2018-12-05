@@ -170,7 +170,7 @@ stickyClass = 'sticky-main'
 function checkSize(){   
     if ($("main").css("max-width") == "75%"){
         $(window).on('scroll', function(){
-            var topSetting = divHeight - $(window).height()+50;
+            var topSetting = divHeight - $(window).height()+56;
             var scrollPos = $(window).scrollTop() + (divHeight-40) - topSetting;
             
         if /*(*/(scrollPos > divHeight) /* && (divHeight < $(window).height())) */ {
