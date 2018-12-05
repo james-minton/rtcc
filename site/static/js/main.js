@@ -45,8 +45,8 @@ var mainContainer = $('main'),
 divHeight = $('#homepage').height(),
 stickyClass = 'sticky-main'
 
-function checkSize(){   
-    if ($("main").css("max-width") == "75%"){
+// function checkSize(){   
+   // if ($("main").css("max-width") == "75%"){
         $(window).on('scroll', function(){
             var topSetting = divHeight - $(window).height()+64;
             var scrollPos = $(window).scrollTop() + (divHeight-40) - topSetting;
@@ -60,12 +60,12 @@ function checkSize(){
         }
         })
 
-    }
-}
-$(document).ready(function() {
+  //  }
+// }
+/* $(document).ready(function() {
     // run test on initial page load
     checkSize();
 
     // run test on resize of the window
     $(window).resize(checkSize);
-}); 
+}); */
