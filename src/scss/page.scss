@@ -129,3 +129,9 @@ main {
     }
     
 }
+h2#about-the-authors {
+    margin-bottom: -0.8rem !important;
+    @include for-768-up {
+        margin-bottom: -1.6rem !important;
+    }
+}
