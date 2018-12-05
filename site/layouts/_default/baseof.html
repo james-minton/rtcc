@@ -21,13 +21,17 @@
 <!-- Facebook metadata -->
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="website" />
-<meta property="og:title" content="The Right to Counsel Toolkit | {{ .Title }}" />
+{{ if ne .Title "Home" }}
+  <meta property="og:title" content="The Right to Counsel Toolkit | {{ .Title }}" />
+{{ else }}
+  <meta property="og:title" content="The Right to Counsel Toolkit" />  
+{{ end }}  
 {{ if .Params.socialDescription }}
   <meta property="og:description" content="{{ $.Scratch.Get "socialDescription" }}" />
   {{ else }}
   <meta property="og:description" content="{{ $.Scratch.Get "description" }}" />
 {{ end }}
-<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:url" content="https://www.rtctoolkit.org{{ .Permalink }}" />
 <meta property="og:site_name" content="Right To Counsel Toolkit" />
 {{ if .Params.image }}
   <meta property="og:image" content="https://www.rtctoolkit.org/{{ $.Scratch.Get "socialImage" }}" />
@@ -42,7 +46,11 @@
   <!-- Twitter metadata -->
 <meta name="twitter:card" content="summary_large_image" />
 <!--<meta name="twitter:site" content="@TeachingLabHQ" />-->
-<meta name="twitter:title" content="The Right to Counsel Toolkit | {{ .Title }}" />
+{{ if ne .Title "Home" }}
+  <meta name="twitter:title" content="The Right to Counsel Toolkit | {{ .Title }}" />
+{{ else }}  
+  <meta name="twitter:title" content="The Right to Counsel Toolkit" />
+{{ end }}  
 {{ if .Params.socialDescription }}
   <meta name="twitter:description" content="{{ $.Scratch.Get "socialDescription" }}" />
   {{ else }}
