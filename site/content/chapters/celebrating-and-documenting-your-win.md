@@ -12,11 +12,11 @@ Once we won the campaign, we had a huge party where we mostly danced! There isnâ
 
 In this section we share examples of our work that celebrated and documented our win. Included are:
 
-* Facilitator Guide for Teach-ins on Right to Counsel History: Celebrating a Tenant Movement Victory: A guide to meetings that tell the history of our campaign and ensure the story of Right to Counsel is told from the perspective of the tenant movement.
-* Creating an Interactive Timeline of Your Right to Counsel Win: A component of our teach-ins, this interactive timeline allows community members to participate in telling the history of Right to Counsel.
-* Teach In Facilitation Guide for Tenants on how Right to Counsel works: A guide and agenda for facilitating a workshop on how Right To Counsel works.
-* What We Have Won Through Activism: Documenting Tenant Movement Wins: A visual representation of key moments in the history of tenant activism, situating Right to Counsel as part of a larger movement. 
-* Documenting Lessons Learned From Your Campaign: A document memorializing key organizing lessons from the campaign. 
+* **Facilitator Guide for Teach-ins on Right to Counsel History**: Celebrating a Tenant Movement Victory: A guide to meetings that tell the history of our campaign and ensure the story of Right to Counsel is told from the perspective of the tenant movement.
+* **Creating an Interactive Timeline of Your Right to Counsel Win**: A component of our teach-ins, this interactive timeline allows community members to participate in telling the history of Right to Counsel.
+* **Teach In Facilitation Guide for Tenants on how Right to Counsel works**: A guide and agenda for facilitating a workshop on how Right To Counsel works.
+* **What We Have Won Through Activism: Documenting Tenant Movement Wins**: A visual representation of key moments in the history of tenant activism, situating Right to Counsel as part of a larger movement. 
+* **Documenting Lessons Learned From Your Campaign**: A document memorializing key organizing lessons from the campaign. 
 
 <hr />
 
