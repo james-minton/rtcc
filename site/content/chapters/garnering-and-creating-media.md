@@ -12,13 +12,13 @@ Creating your own publicity, particularly through social media is also critical 
 
 Included in this section are:
 
-* News Articles and Coverage: These clippings are good examples of the types of coverage your coalition can garner, and serve as examples of how to memorialize your coverage for use in your campaign.
-* Press Releases and Advisories: Also used to get media coverage.
-* Sample Media Plan: This is a sample plan to organize our efforts for media coverage and ensure they aligned with key campaign dates. It can be adapted by your coalition.
-* Sample Messaging Tip Sheet: Includes key talking points about RTC, which can be adapted for use by your coalition.
-* Social Media Plan: For strategic social media use.
-* Sample Social Media Calendar/Schedule: This sample can be used to guide your social media planning.
-* Interview Guide to Create Tenant Profiles: Interviews are a great way to put a face to the issue and they can be shared on social media to amplify tenant voices and share their stories. 
+* **News Articles and Coverage**: These clippings are good examples of the types of coverage your coalition can garner, and serve as examples of how to memorialize your coverage for use in your campaign.
+* **Press Releases and Advisories**: Also used to get media coverage.
+* **Sample Media Plan**: This is a sample plan to organize our efforts for media coverage and ensure they aligned with key campaign dates. It can be adapted by your coalition.
+* **Sample Messaging Tip Sheet**: Includes key talking points about RTC, which can be adapted for use by your coalition.
+* **Social Media Plan**: For strategic social media use.
+* **Sample Social Media Calendar/Schedule**: This sample can be used to guide your social media planning.
+* **Interview Guide to Create Tenant Profiles**: Interviews are a great way to put a face to the issue and they can be shared on social media to amplify tenant voices and share their stories. 
 
 <hr />
 
