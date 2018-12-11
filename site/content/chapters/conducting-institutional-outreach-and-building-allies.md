@@ -17,6 +17,8 @@ Included are:
 * **Memos of Support from Legal Organizations**: Showing how the legal services community, a key constituency, concretized their support for the campaign and the legislation. 
 * **List of Endorsers of Implementation Principles**: Demonstrates the breadth of endorsers that can be garnered through outreach. 
 
+
+
 ## Sample PowerPoint Presentation about the Right to Counsel
 
 This short presentation is designed to introduce potential stakeholders to the issues that underlay the need for a right to counsel, the importance and potential impact of the legislation itself and our coalition. The presentation ends with an ask to the Mayor to sign a petition. The presentation is designed to be brief and targeted for settings where time is limited, and it can be adapted to a variety of audiences.
