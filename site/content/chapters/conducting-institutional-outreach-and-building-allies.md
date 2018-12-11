@@ -6,6 +6,17 @@ date: 2018-11-27T22:30:18.964Z
 ---
 <img src="/images/outreach2-sm.jpg" />
 
+These tools are designed to build support for your campaign and broaden your base of coalition supporters. One of our main campaign strategies was to build widespread popular support, demonstrate that vast support and quell opposition. Because we knew the legislation was both expensive and an overhaul of how our courts have worked for generations, we wanted our targets to be overwhelmed by calls for support from many different angles. Some of these tools focus on community boards, which in NYC are local representative bodies that vote on local matters and serve as advisors to the mayoral administration. While our coalition identified community boards as key stakeholders, these tools can be easily adapted for other audiences.   
+
+Included are:
+
+* **PowerPoint Presentation about the Right to Counsel**: Designed for use at community board meetings or other forums. 
+* **Agenda for Right to Counsel Presentations**: A short presentation designed to inform community board members or others about the importance of Right to Counsel to seek their support.
+* **Community Board Resolution**: Demonstrating what can result from outreach to community boards and how that can subsequently be used to leverage more supporters or exert pressure on targets. It can be used as a model for other community boards or similar bodies.
+* **Campaign Endorsement Letter**: A template letter for organizational sign-on’s to support the Right to Counsel legislation. 
+* **Memos of Support from Legal Organizations**: Showing how the legal services community, a key constituency, concretized their support for the campaign and the legislation. 
+* **List of Endorsers of Implementation Principles**: Demonstrates the breadth of endorsers that can be garnered through outreach. 
+
 ## Sample PowerPoint Presentation about the Right to Counsel
 
 This short presentation is designed to introduce potential stakeholders to the issues that underlay the need for a right to counsel, the importance and potential impact of the legislation itself and our coalition. The presentation ends with an ask to the Mayor to sign a petition. The presentation is designed to be brief and targeted for settings where time is limited, and it can be adapted to a variety of audiences.
