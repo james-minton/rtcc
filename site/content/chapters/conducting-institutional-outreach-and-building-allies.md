@@ -17,7 +17,7 @@ Included are:
 * **Memos of Support from Legal Organizations**: Showing how the legal services community, a key constituency, concretized their support for the campaign and the legislation. 
 * **List of Endorsers of Implementation Principles**: Demonstrates the breadth of endorsers that can be garnered through outreach. 
 
-
+<hr />
 
 ## Sample PowerPoint Presentation about the Right to Counsel
 
