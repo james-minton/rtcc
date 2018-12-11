@@ -32,10 +32,10 @@ Included are three sets of tools:
 * **Working Groups for Implementation and Ongoing Organizing:** To organize the work of your campaign’s implementation organizing phase.
 * **Town Hall Guiding Agenda:** To organize and facilitate public meetings in which implementation is outlined.
 * **Supporting Implementation Organizing:** These tools are designed to guide ongoing organizing:
-  * Principles
-  * Organizing Timeline
-  * Town Hall phone banking 
-  * Overview of organizing with RTC
+  * **Principles**
+  * **Organizing Timeline**
+  * **Town Hall phone banking **
+  * **Overview of organizing with RTC**
 
 <hr />
 
@@ -79,9 +79,9 @@ We developed the tools in this section to educate tenants, legal service provide
 
 Included in this section:
 
-* Frequently Asked Questions: A “know your rights” type document that answers the most pressing questions for tenants about Right to Counsel.
-* Facilitation Guide and Q&A for Panels and Presentations on Right to Counsel and Implementation: Designed to educate the public on implementation.
-* New Website--Eviction Free NYC: We created a new website to help tenants navigate RTC and connect with attorneys and community groups! 
+* **Frequently Asked Questions**: A “know your rights” type document that answers the most pressing questions for tenants about Right to Counsel.
+* **Facilitation Guide and Q&A for Panels and Presentations on Right to Counsel and Implementation**: Designed to educate the public on implementation.
+* **New Website--Eviction Free NYC**: We created a new website to help tenants navigate RTC and connect with attorneys and community groups! 
 
 <h3>Frequently Asked Questions About the Right to Counsel</h3>
 
