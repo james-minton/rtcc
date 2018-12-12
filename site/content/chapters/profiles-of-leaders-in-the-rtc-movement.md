@@ -4,7 +4,7 @@ weight: '140'
 contenttype: toolkit
 date: 2018-12-03T01:07:40.015Z
 ---
-<img src="/images/rtcc-leaderssm.jpg" />
+<img src="/images/rtcc-leaderssm.jpg" "alt="3 leaders of the Right to Counsel movement smiling" />
 
 ## Tenant Profile: Randy Dillard, NYC Tenant, Member of Community Action for Safe Apartments (CASA)
 
