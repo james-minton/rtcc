@@ -1,14 +1,14 @@
 {{ define "main" }}
 <main id="panel" class="single-page" data-aos="fade-in">
     <div class="chapter content-well outer-padding">
-        <div class="chapter-head">
+        <div class="chapter-head chapter-top">
             <div class="spacer mobile-on"></div>   
-            <div class="chapter-arrow mobile-off">
+            <div class="chapter-arrow arrow-prev mobile-off">
                 {{if .NextInSection }}<a href="{{ .NextInSection.Permalink }}"><img class="leftarrow" src="/images/icons/leftarrow.svg" alt="previous chapter" /><h5 class="leftarrow">Previous</h5></a>
-                {{ else }}<a href="/"><img class="leftarrow" src="/images/icons/leftarrow.svg"/><h5 class="leftarrow">Home</h5></a>{{end}}  
+                {{ else }}<a href="/" class="home-arrow"><img class="leftarrow" src="/images/icons/leftarrow.svg" alt="home"/><h5 class="leftarrow">Home</h5></a>{{end}}  
             </div>     
             <h1>{{ .Title }}</h1>
-            <div class="chapter-arrow mobile-off">
+            <div class="chapter-arrow arrow-next mobile-off">
                 {{if .PrevInSection }}<a href="{{ .PrevInSection.Permalink }}"><h5 class="rightarrow">Next</h5><img class="rightarrow" src="/images/icons/rightarrow.svg" alt="next chapter"/></a>{{end}}     
             </div> 
             <div class="chapter-arrow mobile-on">
@@ -22,11 +22,11 @@
     {{ .Content }}
     </div> 
         <div class="chapter-head chapter-bottom">
-            <div class="chapter-arrow">
+            <div class="chapter-arrow arrow-prev">
                 {{if .NextInSection }}<a href="{{ .NextInSection.Permalink }}"><img class="leftarrow" src="/images/icons/leftarrow.svg" alt="previous chapter"/><h5 class="leftarrow">Previous</h5></a>
-                {{ else }}<a href="/"><img class="leftarrow" src="/images/icons/leftarrow.svg"/><h5 class="leftarrow">Home</h5></a>{{end}}  
+                {{ else }}<a href="/" class="home-arrow"><img class="leftarrow" src="/images/icons/leftarrow.svg"/><h5 class="leftarrow">Home</h5></a>{{end}}  
             </div>     
-            <div class="chapter-arrow">
+            <div class="chapter-arrow arrow-next">
                 {{if .PrevInSection }}<a href="{{ .PrevInSection.Permalink }}"><h5 class="rightarrow">Next</h5><img class="rightarrow" src="/images/icons/rightarrow.svg" alt="next chapter"/></a>{{end}}     
             </div>    
         </div> 

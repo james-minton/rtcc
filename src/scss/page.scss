@@ -103,6 +103,26 @@ main {
                 width: 100%;
             }
         }
+        &.chapter-top .chapter-arrow.arrow-next a:hover {
+            border-bottom: 3px solid #3a4d82;
+            h5.rightarrow {
+                position: relative;
+                margin-top: 3px;
+            }
+            img {
+                margin-top: 3px;
+            }
+        }
+        &.chapter-top .chapter-arrow.arrow-prev a:hover {
+            border-bottom: 3px solid #3a4d82;
+            h5.leftarrow {
+                position: relative;
+                margin-top: 3px;
+            }
+            img {
+                margin-top: 3px;
+            }
+        }
         .chapter-arrow {
             a {
                 display: flex;
@@ -117,23 +137,86 @@ main {
                     position: relative;
                     top: -2px;
                 }
-                h5.leftarrow {
-                    margin-right: 32px;
+                @include for-phone-only {
+                    h5.leftarrow {
+                        margin-right: 32px; 
+                    }
+                    h5.rightarrow {
+                        margin-left: 32px; 
+                    } 
+                } 
+            }
+            a:hover {
+                
+            }
+           
+            &.arrow-prev a.home-arrow {
+                @include for-768-up {
+                    min-width: 6.6rem;
                 }
-                h5.rightarrow {
-                    margin-left: 32px;
+                @include for-1440-up {
+                    min-width: 7.6rem;
                 }
             }
+            &.arrow-next {
+                margin-left: 3.2rem;
+                a {
+                    @include for-768-up {
+                        min-width: 57px;
+                    }
+                    @include for-1440-up {
+                        min-width: 64px;
+                    }
+                }
+            }
+            &.arrow-prev {
+                margin-right: 3.2rem;
+                a {
+                    @include for-768-up {
+                        min-width: 84px;
+                    }
+                    @include for-1440-up {
+                        min-width: 96px;
+                    }
+                }
+            }    
             &.mobile-on {
                 margin-top: 1.6rem;
             }
         }
         &.chapter-bottom {
+            @include for-768-up {
+                height:56px;
+            }
             border-top: 6px solid #f3f3f3;
             margin-top: 3.2rem;
             padding-top: 3.2rem;
             @include for-phone-only {
                 margin-bottom: 10.4rem;
+            }
+            @include for-768-up {
+                .chapter-arrow.arrow-prev a:hover {
+                    border-bottom: 3px solid #3a4d82;
+                    h5.leftarrow {
+                        position: relative;
+                        margin-top: 3px;
+                    }
+                    img {
+                        position: relative;
+                        margin-top: 3px;
+                    }
+                }
+                .chapter-arrow.arrow-next a:hover {
+                    border-bottom: 3px solid #3a4d82;
+                    h5.rightarrow {
+                        position: relative;
+                        margin-top: 3px;
+                    }
+                    img {
+                        position: relative;
+                        margin-top: 3px;
+                    }
+                }
             }
         }
     }
