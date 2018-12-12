@@ -4,7 +4,7 @@ weight: '2'
 contenttype: toolkit
 date: 2018-10-01T02:00:58.021Z
 ---
-<img src="/images/intro-about-sm.jpg" />
+<img src="/images/intro-about-sm.jpg" alt="A group of Right to Counsel activists chanting" />
 
 ## About the Authors
 
