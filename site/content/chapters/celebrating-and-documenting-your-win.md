@@ -4,7 +4,7 @@ weight: '120'
 contenttype: toolkit
 date: 2018-11-28T19:29:59.250Z
 ---
-<img src="/images/celebrating-sm.jpg" />
+<img src="/images/celebrating-sm.jpg" alt="A party featuring activists celebrating their victory in winning Right to Counsel" />
 
 Celebration and commemoration are important parts of your campaign.  When your coalition wins, it is momentous! Even if you know your organizing will be ongoing, it is important to mark your victories. Take the time to have a party, celebrate your coalition and tenant leaders, and thank your allies. It is also important to document your win, both for your internal purposes and to ensure that the story of your campaign is told through your own words. Often after major organizing wins, the public narrative focuses just on what was won (that a Right to Counsel was passed) and not on how it was won or who fought for it. It is important for your campaign, and for the broader tenant movement, for your organizing story to be told.  Ask yourself some questions about what you want to document. What worked well that got you to this point?  What is the story you want to tell about the campaign? How does your campaign fit into a larger narrative of tenant activism? Take the time after your win to develop materials that you can use to tell your story and continue to engage others. 
 
