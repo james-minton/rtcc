@@ -47,8 +47,16 @@ stickyClass = 'sticky-main'
 
 // function checkSize(){   
    // if ($("main").css("max-width") == "75%"){
+     
         $(window).on('scroll', function(){
-            var topSetting = divHeight - $(window).height()+64;
+           if ($("h1").css("font-size") == "32px") {
+            var mainPadding = 64;
+           }
+           else if ($("h1").css("font-size") == "48px") {
+             var mainPadding = 80;
+           };
+          
+            var topSetting = divHeight - $(window).height() + mainPadding;
             var scrollPos = $(window).scrollTop() + (divHeight-40) - topSetting;
             
         if /*(*/(scrollPos > divHeight) /* && (divHeight < $(window).height())) */ {
