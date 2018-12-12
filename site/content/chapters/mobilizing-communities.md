@@ -4,7 +4,7 @@ weight: '90'
 contenttype: toolkit
 date: 2018-11-28T01:40:35.075Z
 ---
-<img src="/images/tenant-power-sm.JPG" />
+<img src="/images/tenant-power-sm.JPG" alt="A group of Right to Counsel activists holding a sign that reads 'Tenant Power'" />
 
 Town hall meetings are crucial events that can engage, educate and mobilize communities around issues. During our campaign, neighborhood-based community organizing groups came together to plan shared agendas, outreach plans, as well as guiding principles like ensuring that the town halls provided food, interpretation services and childcare. So while the neighborhood-based community groups ran town halls in their communities, there was always overarching support and guidance from the coalition.  
 
