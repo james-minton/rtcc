@@ -34,7 +34,7 @@ Included are three sets of tools:
 * **Supporting Implementation Organizing:** These tools are designed to guide ongoing organizing:
   * **Principles**
   * **Organizing Timeline**
-  * **Town Hall phone banking **
+  * **Town Hall phone banking**
   * **Overview of organizing with RTC**
 
 <hr />
@@ -121,10 +121,10 @@ The tools in this section include:
 * **Town Hall Guiding Agenda:** To organize and facilitate public meetings in which implementation is outlined.
 * **Town Hall Phone Banking Script:** A succinct script for phone bankers to use when calling community members to inform them about town hall meetings. 
 * **Supporting Tenant Organizing:** Four tools designed to guide ongoing organizing:
-  * Principles
-  * Organizing timeline
-  * Town hall phone banking 
-  * Overview of organizing with RTC
+  * **Principles**
+  * **Organizing timeline**
+  * **Town hall phone banking** 
+  * **Overview of organizing with RTC**
 
 {{< resource title1="12.3.1: Case Study: The Work to Come & RTC 2.0 (PDF)" link1="/docs/12/Case Study-The Work to Come-RTC 2.0.pdf" title1-2="(DOCX)" link1-2="/docs/12/Case Study-The Work to Come-RTC 2.0.docx" >}}
 
