@@ -4,7 +4,7 @@ weight: '130'
 contenttype: toolkit
 date: 2018-11-28T19:13:57.123Z
 ---
-<img src="/images/just-implementation-sm.jpg" />
+<img src="/images/just-implementation-sm.jpg" alt="An outdoor rally featuring a tenant activist speaker" />
 
 Once we won, we began a whole new campaign to ensure a just implementation of the law and also to ensure that the law helps build tenant power through bold organizing. We developed a lot of materials and structures to support implementation and increase awareness. This was in part because city government was not creating these mechanisms fast enough to keep up with the need for them, and because developing these resources allowed us to continue to control the narrative around Right to Counsel. Organizing around implementation had 4 main components: tenant outreach, education and organizing; advocacy related to court based procedures and policies; training tenant attorneys (new and old); and working to improve, strengthen and expand the legislation. In this phase of the campaign we began to fundraise for dedicated resources to support the coalition, and we hired a coalition coordinator as we recognized that the implementation work would require additional resources. As we moved forward, we dedicated resources primarily to support neighborhood-based community organizing work, but also for resources like our Eviction Free NYC website.
 
