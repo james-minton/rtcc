@@ -4,7 +4,7 @@ weight: '50'
 contenttype: toolkit
 date: 2018-11-23T18:25:40.932Z
 ---
-<img src="/images/campaign-strategy.jpg" />
+<img src="/images/campaign-strategy.jpg" alt="A meeting of the coalition indoors in a large hall"/>
 
 Many organizers undoubtedly have their own tools and preferences for campaign development exercises and campaign planning tools. Here we include several tools that we used to develop our assessment of power in our local landscape and to make informed campaign plans and decisions based on this analysis. Although our coalition’s target was clear, different organizing contexts have different needs. Conducting a power analysis to understand who has the power to make your wins possible is crucial. There are great tools for power analysis online, as well as in Chapter 8 of Joan Minieri and Paul Getsos’ _Tools for Radical Democracy_, titled “Researching the Politics of an Issue.”  We hope that the following tools will help develop your campaign strategy.
 
