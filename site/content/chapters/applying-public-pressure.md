@@ -10,8 +10,8 @@ We tried to be strategic about when to apply public pressure. Before launching t
 
 Included are:
 
-* Hearings: Examples from our campaign’s hearings, including agendas, a flyer and a tool to help you prepare for giving testimony at a hearing.
-* Press Conferences: Includes example agendas.
+* **Hearings**: Examples from our campaign’s hearings, including agendas, a flyer and a tool to help you prepare for giving testimony at a hearing.
+* **Press Conferences**: Includes example agendas.
 
 <hr />
 
