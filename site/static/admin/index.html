@@ -10,7 +10,10 @@
 <body>
   <!-- Include the script that builds the page and powers Netlify CMS -->
   <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,700,800" rel="stylesheet">
   <script>
+  CMS.registerPreviewStyle("/css/cms.css");
+ 
       CMS.registerEditorComponent({
         // Internal id of the component
         id: "youtube",
