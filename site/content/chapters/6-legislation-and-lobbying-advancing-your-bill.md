@@ -3,6 +3,8 @@ title: '6. Legislation and Lobbying: Advancing Your Bill'
 weight: '70'
 contenttype: toolkit
 date: 2018-11-27T22:53:26.544Z
+aliases:
+    - /legislation-and-lobbying-advancing-your-bill
 ---
 <img src="/images/legislation-sm.jpg" alt="A rally featuring a group of activists and public figures" />
 

@@ -3,6 +3,8 @@ title: '1. Introduction: About the Authors and the Toolkit'
 weight: '2'
 contenttype: toolkit
 date: 2018-10-01T02:00:58.021Z
+aliases:
+    - /introduction
 ---
 <img src="/images/intro-about-sm.jpg" alt="A group of Right to Counsel activists chanting" />
 

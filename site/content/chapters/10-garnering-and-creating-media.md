@@ -3,6 +3,8 @@ title: '10. Garnering and Creating Media '
 weight: '110'
 contenttype: toolkit
 date: 2018-11-28T18:27:19.774Z
+aliases:
+    - /garnering-and-creating-media
 ---
 <img src="/images/june-2015-RTC-PC-sm.jpg" alt="An outdoors press conference for Right to Counsel" />
 

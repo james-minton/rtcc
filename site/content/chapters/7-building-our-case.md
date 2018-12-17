@@ -3,6 +3,8 @@ title: 7. Building Our Case
 weight: '80'
 contenttype: toolkit
 date: 2018-11-21T18:31:26.659Z
+aliases:
+    - /building-our-case
 ---
 <img src="/images/building-case-sm.jpg" alt="A press conference promoting Right to Counsel" />
 

@@ -3,6 +3,8 @@ title: '4. Campaign Strategy, Development and Implementation'
 weight: '50'
 contenttype: toolkit
 date: 2018-11-23T18:25:40.932Z
+aliases:
+    - /campaign-strategy-development-and-implementation
 ---
 <img src="/images/campaign-strategy.jpg" alt="A meeting of the coalition indoors in a large hall"/>
 

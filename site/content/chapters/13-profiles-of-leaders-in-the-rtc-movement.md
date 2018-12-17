@@ -3,6 +3,8 @@ title: 13. Profiles of Leaders in the RTC Movement
 weight: '140'
 contenttype: toolkit
 date: 2018-12-03T01:07:40.015Z
+aliases:
+    - /profiles-of-leaders-in-the-rtc-movement
 ---
 <img src="/images/rtcc-leaderssm.jpg" "alt="3 leaders of the Right to Counsel movement smiling" />
 
