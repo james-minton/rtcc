@@ -4,7 +4,7 @@ weight: '100'
 contenttype: toolkit
 date: 2018-11-28T03:11:23.870Z
 aliases:
-    - /applying-public-pressure
+    - /chapters/applying-public-pressure
 ---
 <img src="/images/public-pressure-sm.jpg" alt="A group of Right to Counsel activists holds bags full of postcards demanding right to counsel" />
 

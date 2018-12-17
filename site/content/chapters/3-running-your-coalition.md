@@ -4,7 +4,7 @@ weight: '40'
 contenttype: toolkit
 date: 2018-11-23T18:01:04.257Z
 aliases:
-    - /running-your-coalition
+    - /chapters/running-your-coalition
 ---
 <img src="/images/coalition-meeting-sm.jpg" alt="A meeting of the coalition"/>
 

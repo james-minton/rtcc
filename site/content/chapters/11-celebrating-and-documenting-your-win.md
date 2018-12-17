@@ -4,7 +4,7 @@ weight: '120'
 contenttype: toolkit
 date: 2018-11-28T19:29:59.250Z
 aliases:
-    - /celebrating-and-documenting-your-win
+    - /chapters/celebrating-and-documenting-your-win
 ---
 <img src="/images/celebrating-sm.jpg" alt="A party featuring activists celebrating their victory in winning Right to Counsel" />
 

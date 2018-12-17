@@ -4,7 +4,7 @@ weight: '30'
 contenttype: toolkit
 date: 2018-10-01T02:00:58.021Z
 aliases:
-    - /neighborhood-organizing
+    - /chapters/neighborhood-organizing
 ---
 <img src="/images/save-our-homes-sm.jpg"  alt="A group of Right to Counsel activists meet. One holds a sign reading Save Our Homes"/>
 

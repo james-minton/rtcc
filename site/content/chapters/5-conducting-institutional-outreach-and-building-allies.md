@@ -4,7 +4,7 @@ weight: '60'
 contenttype: toolkit
 date: 2018-11-27T22:30:18.964Z
 aliases:
-    - /conducting-institutional-outreach-and-building-allies
+    - /chapters/conducting-institutional-outreach-and-building-allies
 ---
 <img src="/images/outreach2-sm.jpg" />
 

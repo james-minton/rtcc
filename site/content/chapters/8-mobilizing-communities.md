@@ -4,7 +4,7 @@ weight: '90'
 contenttype: toolkit
 date: 2018-11-28T01:40:35.075Z
 aliases:
-    - /mobilizing-communities
+    - /chapters/mobilizing-communities
 ---
 <img src="/images/tenant-power-sm.JPG" alt="A group of Right to Counsel activists holding a sign that reads 'Tenant Power'" />
 
