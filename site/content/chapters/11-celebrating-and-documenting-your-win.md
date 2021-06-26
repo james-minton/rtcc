@@ -1,10 +1,10 @@
 ---
-title: '11. Celebrating and Documenting Your Win '
-weight: '120'
+title: "11. Celebrating and Documenting Your Win "
+weight: "120"
 contenttype: toolkit
 date: 2018-11-28T19:29:59.250Z
 aliases:
-    - /chapters/celebrating-and-documenting-your-win
+  - /chapters/celebrating-and-documenting-your-win
 ---
 <img src="/images/celebrating-sm.jpg" alt="A party featuring activists celebrating their victory in winning Right to Counsel" />
 
@@ -73,3 +73,7 @@ After we won the Right to Counsel, we started getting questions from people in o
 We have included our coalition’s lessons learned document, which is hopefully useful to you as you navigate the toolkit, and it can also be a basis on which you can model your own.  Please share yours with us!  We are happy to add new lessons learned documents from other cities to the RTC Campaign toolkit!
 
 {{< resource title1="11.5: Lessons Learned (PDF)" link1="/docs/11/Lessons Learned.pdf" title1-2="(DOCX)" link1-2="/docs/11/Lessons Learned.docx" >}}
+
+At the end of 2020, we premiered our Documentary, “Our Rights, Our Power: The Right to Counsel Campaign to Fight Evictions in NYC!” which tells the story of how low-income Black and brown community members dreamed big, fought hard and eventually won the landmark Right to Counsel (RTC) legislation, guaranteeing  tenants the right to a free lawyer when facing eviction in housing court.  We hope you can use it for your campaigns for Right to Counsel! The documentary is 52 minutes long with spanish subtitles and closed captions.
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/457047852" width="640" height="360" frameborder="0" allowfullscreen></iframe>
