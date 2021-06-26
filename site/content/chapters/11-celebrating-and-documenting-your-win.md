@@ -74,6 +74,8 @@ We have included our coalition’s lessons learned document, which is hopefully 
 
 {{< resource title1="11.5: Lessons Learned (PDF)" link1="/docs/11/Lessons Learned.pdf" title1-2="(DOCX)" link1-2="/docs/11/Lessons Learned.docx" >}}
 
+
+
 At the end of 2020, we premiered our Documentary, “Our Rights, Our Power: The Right to Counsel Campaign to Fight Evictions in NYC!” which tells the story of how low-income Black and brown community members dreamed big, fought hard and eventually won the landmark Right to Counsel (RTC) legislation, guaranteeing  tenants the right to a free lawyer when facing eviction in housing court.  We hope you can use it for your campaigns for Right to Counsel! The documentary is 52 minutes long with spanish subtitles and closed captions.
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/457047852" width="640" height="360" frameborder="0" allowfullscreen></iframe>
