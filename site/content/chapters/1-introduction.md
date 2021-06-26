@@ -1,10 +1,10 @@
 ---
-title: '1. Introduction: About the Authors and the Toolkit'
-weight: '2'
+title: "1. Introduction: About the Authors and the Toolkit"
+weight: "2"
 contenttype: toolkit
 date: 2018-10-01T02:00:58.021Z
 aliases:
-    - /chapters/introduction
+  - /chapters/introduction
 ---
 <img src="/images/intro-about-sm.jpg" alt="A group of Right to Counsel activists chanting" />
 
@@ -37,6 +37,7 @@ You can read the toolkit the whole way through or pick and choose the pieces tha
 * **Activities:** The activities included in the Toolkit are meant to be done in group settings to get the energy flowing and turn community voices into action and progress. 
 * **Tools:** We turned our work into usable tools and templates that you can download, print and start using right away. 
 * **Reports and Essays**: These are intended to provide context and framing for specific legal and organizing issues.
+* **Webinar**: Check out <a href="https://youtu.be/hvMJMz1CF9U" target="_blank" rel="noopener noreferrer">this video of a 1 hour webinar</a> that provides an overview of the toolkit, why we made it, how to navigate it and answered key questions from participants. .
 
 Sharing this toolkit is possible because we documented almost every step of our campaign, and we urge you to document the work of your coalition/organization as it is in progress. We found video to be particularly helpful. This way you can use your work not only in the moment but can continue to capitalize on it in the future. As you will see, we found ways to use things multiple times, such as hosting a forum, creating a video from that forum to reach a wider audience, and then using a transcription of the video to write a report which we could then release, creating a new opportunity for press and public engagement. 
 
