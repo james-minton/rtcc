@@ -19,6 +19,7 @@ In this section we share examples of our work that celebrated and documented our
 * **Teach In Facilitation Guide for Tenants on how Right to Counsel works**: A guide and agenda for facilitating a workshop on how Right To Counsel works.
 * **What We Have Won Through Activism: Documenting Tenant Movement Wins**: A visual representation of key moments in the history of tenant activism, situating Right to Counsel as part of a larger movement. 
 * **Documenting Lessons Learned From Your Campaign**: A document memorializing key organizing lessons from the campaign. 
+* **Our Documentary about our campaign:** "Our Rights! Our Power! The Right to Counsel (RTC) Campaign to Fight Evictions in NYC!"
 
 
 
