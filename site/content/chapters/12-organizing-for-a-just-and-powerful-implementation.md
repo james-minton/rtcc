@@ -171,3 +171,27 @@ This document was designed by the coalition to be used by organizers. It lays ou
 While Right to Counsel implementation and organizing may look different in your local context, your coalition can use this document as a model when thinking about your own guidance to organizers.
 
 {{< resource title1="12.3.3.4: Tenant Organizing in RTC Zips—What’s Different About It (PDF)" link1="/docs/12/Tenant Organizing in RTC Zips--what’s different about it.pdf" title1-2="(DOCX)" link1-2="/docs/12/Tenant Organizing in RTC Zips--what’s different about it.docx" >}}
+
+_Worst Evictors List_
+
+The Worst Evictors List started as an outreach idea. We were brainstorming how to reach the people most impacted by evictions to make sure they knew about the right to counsel. Our organizers wanted to think strategically about outreach, education and organizing around the right to counsel. We knew there weren’t enough organizers to talk to everyone that had the new right, so we decided to target buildings with a lot of violations, but the tenants we came across mostly needed repairs in their units, and we needed to get to tenants who were facing evictions. That’s when we started to compile lists of buildings by eviction. Once we saw the overwhelming amount of data on this, we felt compelled to repeat the process and share the data annually. We’ve since published the list twice, but we didn’t do it in 2020 since there was an eviction moratorium in place across the city due to COVID-19. We also used the list as an organizing tool to advocate to the city to not fund any of the worst evictors, to pull funding from them when possible and to investigate the worst evictors. 
+
+Creating the Worst Evictors List in NYC is possible because there are multiple organizations and groups in the city who use data as a social justice tool. We encourage you to seek out similar groups in your city and include data folks in the movement! 
+
+Here is the [Worst Evictors List](https://www.worstevictorsnyc.org/) and an accompanying [flyer](https://drive.google.com/file/d/0B4Qu4KTkQ0lIb2tDLTM3Vzg3ZFFjWjFKY3NsX1pyN25BSjVj/view?resourcekey=0-x52Cp2r_3y-Qjlnl10V-DA) we created for 2018’s lists. 
+
+We’re sharing here an outline for a week of planned actions to put the evictors on notice. 
+
+Also: a template Run of Show for one of the actions during action week.
+
+Also: sample talking points for talking to tenants about the Worst Evictors List.
+
+{{< resource 
+  title1="12.3.3.5: Worst Evictors Week of Action (PDF)" 
+  link1="/docs/12/Tenant Organizing in RTC Zips--what’s different about it.pdf" 
+  title1-2="(DOCX)" 
+  link1-2="/docs/12/Tenant Organizing in RTC Zips--what’s different about it.docx" 
+  title2="12.3.3.6: Worst Evictors Action Run of Show for Sample Action (PDF)" 
+  title2-2="(DOCX)" >}}
+
+
