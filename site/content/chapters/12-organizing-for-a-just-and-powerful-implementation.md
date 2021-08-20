@@ -172,6 +172,8 @@ While Right to Counsel implementation and organizing may look different in your 
 
 {{< resource title1="12.3.3.4: Tenant Organizing in RTC Zips—What’s Different About It (PDF)" link1="/docs/12/Tenant Organizing in RTC Zips--what’s different about it.pdf" title1-2="(DOCX)" link1-2="/docs/12/Tenant Organizing in RTC Zips--what’s different about it.docx" >}}
 
+<br />
+
 _Worst Evictors List_
 
 The Worst Evictors List started as an outreach idea. We were brainstorming how to reach the people most impacted by evictions to make sure they knew about the right to counsel. Our organizers wanted to think strategically about outreach, education and organizing around the right to counsel. We knew there weren’t enough organizers to talk to everyone that had the new right, so we decided to target buildings with a lot of violations, but the tenants we came across mostly needed repairs in their units, and we needed to get to tenants who were facing evictions. That’s when we started to compile lists of buildings by eviction. Once we saw the overwhelming amount of data on this, we felt compelled to repeat the process and share the data annually. We’ve since published the list twice, but we didn’t do it in 2020 since there was an eviction moratorium in place across the city due to COVID-19. We also used the list as an organizing tool to advocate to the city to not fund any of the worst evictors, to pull funding from them when possible and to investigate the worst evictors. 
@@ -192,6 +194,8 @@ Also: sample talking points for talking to tenants about the Worst Evictors List
   title1-2="(DOCX)" 
   link1-2="/docs/12/Tenant Organizing in RTC Zips--what’s different about it.docx" 
   title2="12.3.3.6: Worst Evictors Action Run of Show for Sample Action (PDF)" 
-  title2-2="(DOCX)" >}}
+  link2="#"
+  title2-2="(DOCX)"
+  link2-2="#" >}}
 
 
