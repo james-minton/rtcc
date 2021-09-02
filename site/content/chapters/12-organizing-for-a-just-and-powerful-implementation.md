@@ -122,11 +122,18 @@ The tools in this section include:
 * **Right to Counsel 2.0:** The Work to Come: We share our vision for continued organizing to strengthen the Right to Counsel.
 * **Town Hall Guiding Agenda:** To organize and facilitate public meetings in which implementation is outlined.
 * **Town Hall Phone Banking Script:** A succinct script for phone bankers to use when calling community members to inform them about town hall meetings. 
-* **Supporting Tenant Organizing:** Four tools designed to guide ongoing organizing:
+* **Supporting Tenant Organizing:** Ten tools designed to guide ongoing organizing:
   * **Principles**
   * **Organizing timeline**
   * **Town hall phone banking** 
   * **Overview of organizing with RTC**
+  * **Worst Evictors List**
+  * **Evictions Pamphlet**
+  * **Our demands to make NYC eviction free**
+  * **Rent strikes as an organizing tool**
+  * **People’s Tribunal on Evictions**
+  * **Tenant Movement History Timeline**
+* **Supporting the Development of Zealous Movement Attorneys**  
 
 {{< resource title1="12.3.1: Case Study: The Work to Come & RTC 2.0 (PDF)" link1="/docs/12/Case Study-The Work to Come-RTC 2.0.pdf" title1-2="(DOCX)" link1-2="/docs/12/Case Study-The Work to Come-RTC 2.0.docx" >}}
 
@@ -190,17 +197,17 @@ Also: sample talking points for talking to tenants about the Worst Evictors List
 
 {{< resource 
   title1="12.3.3.5: Worst Evictors Week of Action (PDF)" 
-  link1="/docs/12/Tenant Organizing in RTC Zips--what’s different about it.pdf" 
+  link1="/docs/12/Worst Evictors Week of Action.PDF" 
   title1-2="(DOCX)" 
-  link1-2="/docs/12/Tenant Organizing in RTC Zips--what’s different about it.docx" 
+  link1-2="/docs/12/Worst Evictors Week of Action.docx" 
   title2="12.3.3.6: Worst Evictors Action Run of Show for Sample Action (PDF)" 
-  link2="#"
+  link2="/docs/12/Worst Evictors Action Run of Show for Sample Action.pdf"
   title2-2="(DOCX)"
-  link2-2="#"
+  link2-2="/docs/12/Worst Evictors Action Run of Show for Sample Action.docx"
   title3="12.3.3.7: Talking Points for Tenants (PDF)" 
-  link3="#"
+  link3="/docs/12/Talking Points for Tenants.pdf"
   title3-2="(DOCX)"
-  link3-2="#"  >}}
+  link3-2="/docs/12/Talking Points for Tenants.docx"  >}}
 
 <br />
 
@@ -211,7 +218,7 @@ We created this pamphlet for a few important reasons. We wanted to encourage ten
 
 {{< resource 
   title1="Eviction Pamphlet (PDF)" 
-  link1="#"   >}}
+  link1="/docs/12/EvictionPamphlet.English.web.REV.pdf" >}}
 
 <br />
 
@@ -229,17 +236,15 @@ We’re sharing the Demands as well as a sample retreat agenda where we identifi
 
 {{< resource 
   title1="Demands to make NYC Eviction Free (PDF)" 
-  link1="#" 
-  title1-2="(DOCX)" 
-  link1-2="#" 
-  title2="12.3.3.8: Agenda for Eviction Free NYC (PDF)" 
-  link2="#"
+  link1="/docs/12/Demands_to_Make_NYC_Eviction_Free-_Final_Language_(5)_(1).pdf" 
+  title2="12.3.3.8: Agenda for Eviction Free NYC Retreat (PDF)" 
+  link2="/docs/12/Agenda for Eviction Free NYC Retreat.pdf"
   title2-2="(DOCX)"
-  link2-2="#"
+  link2-2="/docs/12/Agenda for Eviction Free NYC Retreat.docx"
   title3="Visioning Exercise Instructions" 
-  link3="#"
+  link3="/docs/12/Visioning Exercise Instructions.pdf"
   title3-2="(DOCX)"
-  link3-2="#"  >}}
+  link3-2="/docs/12/Visioning Exercise Instructions.pdf"  >}}
 
 <br />
 
@@ -261,18 +266,19 @@ The legal support guide to rent strikes is something we put together during the 
 
 {{< resource 
   title1="The case for going on rent strike (PDF)" 
-  link1="#" 
+  link1="/docs/12/RTCNYC.RentStrikeFactSheet.English.2.pdf" 
   title2="12.3.3.9: Steps to coordinate a rent strike in your building (Spanish and English) (PDF)" 
-  link2="#"
+  link2="/docs/12/Steps to coordinate rent strikes or multiple non-pays.pdf"
   title2-2="(DOCX)"
-  link2-2="#"
+  link2-2="/docs/12/Steps to coordinate rent strikes or multiple non-pays.docx"
   title3="12.3.3.10: Interactive Activity (PDF)" 
-  link3="#"
+  link3="/docs/12/Interactive activity .pdf"
   title3-2="(DOCX)"
+  link3-2="/docs/12/Interactive activity .docx"
   title4="Rent Strike Toolkit (PDF)" 
-  link4="#"
+  link4="/docs/12/RTCNYC.COVID19.4.pdf"
   title4="Legal Support Guide for Rent Strikes (PDF)" 
-  link4="#" >}}
+  link4="/docs/12/COVID-19_Rent_Strike_Legal_Support_Guide.pdf" >}}
 
 <br />
 
@@ -284,18 +290,21 @@ For a glimpse into the process, we’re sharing here a facilitator’s agenda, a
 
 {{< resource 
   title1="12.3.3.11: Facilitator’s Agenda for the People's Tribunal on Evictions in NYC (PDF)" 
-  link1="#"
+  link1="/docs/12/Facilitator's Agenda_ People's Tribunal on Evictions.pdf"
   title1-2="(DOCX)" 
-  link1-2="#"
+  link1-2="/docs/12/Facilitator's Agenda_ People's Tribunal on Evictions.docx"
+
   title2="12.3.3.12: Testimony Guide for the People’s Tribunal on Evictions (PDF)" 
-  link2="#"
+  link2="/docs/12/Testimony Guide for the People’s Tribunal on Evictions_.pdf"
   title2-2="(DOCX)"
-  link2-2="#"
-  title3="12.3.3.13: Plan for the People's Tribunal on Evictions in NYC (PDF)" 
-  link3="#"
+  link2-2="/docs/12/Testimony Guide for the People’s Tribunal on Evictions_.docx"
+
+  title3="12.3.3.13: Detailed Overview: People's Tribunal on Evictions (PDF)" 
+  link3="/docs/12/Detailed Overview_ People's Tribunal on Evictions.pdf"
   title3-2="(DOCX)"
+  link3-2="/docs/12/Detailed Overview_ People's Tribunal on Evictions.docx"
   title4="Outreach Flyer (PDF)" 
-  link4="#" >}}
+  link4="/docs/12/EN People's Tribunal Flyer (1).pdf" >}}
 
 <br />
 
@@ -308,25 +317,109 @@ The tools we’re sharing below are included in other sections of the Toolkit, b
 We’re also sharing training materials that we used. We used a train-the-trainer model for folks who wanted to teach others about the importance of RTC’s narrative and timeline.
 
 {{< resource 
-  title1="Timeline (PDF)" 
-  link1="#"
+  title1="Timeline" 
+  link1="https://www.righttocounselnyc.org/nyc_tenant_history"
+  
   title2="Online Interactive Movement History Timeline: English" 
-  link2="#"
+  link2="https://editor.mediahistorytimeline.org/t/d2ywxewgmb6es6yf79l1t0366667t7bu"
   title2-2="Spanish"
-  link2-2="#"
+  link2-2="https://editor.mediahistorytimeline.org/t/x0h4x6kl0fhqgw3pkfux5pqr39cirnp9"
+  
   title3="Curriculum and Resource Packet: English" 
-  link3="#"
+  link3="/docs/12/RTCNYC.TenantMovement.Crclm.English.downsized.pdf"
   title3-2="Spanish"
-  link3-2="#"
+  link3-2="https://assets.nationbuilder.com/righttocounselnyc/pages/36/attachments/original/1551900749/RTCNYC.TenantMovement.Crclm.Spanish.downsized.2.pdf?1551900749"
+
   title4="2-pager on the History of the Tenant Movement: English" 
-  link4="#"
+  link4="/docs/12/Highlights_Sheet__2_(1).pdf"
   title4-2="Spanish"
-  link4-2="#"
+  link4-2="/docs/12/Ver._2_Highlights_Sheet_in_Spanish_.pdf"
+
   title5="2-pager on Direct Actions Highlights in the Tenant Movement: English" 
-  link5="#"
+  link5="/docs/12/Ver._2_Direct_Action_highlights__(1).pdf"
   title5-2="Spanish"
-  link5-2="#"
+  link5-2="/docs/12/Spanish_Direct_Action_Highlights.pdf"
+
   title6="How-to guide to help you host a house party/training/workshop: English" 
-  link6="#"
+  link6="/docs/12/Tenant_Movement_History_Timeline_Training_Guide.pdf"
   title6-2="Spanish"
-  link6-2="#" >}}
+  link6-2="/docs/12/Spanish_Tenant_Movement_History_Timeline_Training_Guide.pdf" >}}
+
+<br />  
+
+## Supporting the Development of Zealous Movement Attorneys
+
+One of the challenges from the onset with implementing the right to counsel was attorney capacity to represent tenants. In the beginning, the pool of available attorneys we had was small, and capacity was limited. Although we could hire new attorneys fresh out of law school to join us, there really wasn’t a tier of supervising attorneys to supervise the newer attorneys. 
+We realized that this was a movement-wide issue, and also a citywide issue. This is how  the Housing Justice Leadership Institute was born. We formed it as a training center for supervisors, and the focus went even beyond that. We wanted to address what it means to be a supervisor for attorneys within the Right to Counsel framework, for them to understand what it means to work in the movement and be accountable to the movement. Logistically, the leadership supervision and management skills training lasts 10 days. We’re proud to say the program is still ongoing, with two cohorts every year and is housed at New York Law School. 
+
+Although the Housing Justice Leadership Institute is an integral part of sustaining the movement in NYC, we acknowledge that starting something similar in a different locality is very challenging, and to that end, we’re sharing the following documents not as tools to recreate what we did in NYC, but for informational purposes. 
+
+Included here are:
+
+- Brochure, with program information and application. 
+- Initial press release
+
+{{< resource 
+  title1="Brochure (PDF)" 
+  link1="/docs/12/ICPI Housing Justice Leadership Institute Brochure and Application 2019.pdf"
+  title2="Press Release (DOCX)" 
+  link2="/docs/12/Press release re HJLI launch 1-15-19.docx" >}}
+
+<br />  
+
+### Neighborhood-based meetings between RTC organizers and lawyers 
+
+In an effort to orient new housing attorneys and ground them in what it means to be an attorney in the movement, we went around to many different legal services organizations and gave presentations about what RTC is and how we won it. 
+
+This felt necessary after the win. Organizers felt a disconnect with attorneys in the neighborhoods they were working in, and wanted to deepen their relationships with attorneys and connect with them on organizing strategies. Organizers wanted to forge relationships, to get to know attorneys and discover new organizing opportunities together and hold them accountable to the principles of the movement. We needed attorneys to know who we were. If they had clients (tenants) in buildings that we were already organizing in, it was important to us that the attorneys knew who we were, and that they knew what questions to ask of tenants. We essentially wanted to ensure that they were well-rounded and engaged in the eviction-defense movement, and not solely focused on traditional individual representation. 
+
+These training were led by local tenant leaders and tenant groups and were held all across the city and some were monthly and semi-monthly until the pandemic. Here are some more of the goals of these meetings:
+
+- Make our goals and work explicit. Being explicit also creates space to hold attorneys accountable
+- Build relationships. Identify people in meetings who seem interested, ask critical questions, etc., and find time to meet with them one on one, and work to recruit them to the Tenant Organizing vision. 
+- Come out of the meeting with next steps and agreements about working together. 
+- Don't have expectations. We'll keep doing the work and we have each other. 
+- Present the Tenant Organizing vision with them and ask them if they want to be partners.  
+
+Included are:
+
+- Sample introduction email
+- Sample meeting agenda 
+
+{{< resource 
+  title1="12.4.1: Sample email to law schools (PDF)" 
+  link1="/docs/12/Sample email to send to law schools .pdf"
+  title1-2="(DOCX)" 
+  link1-2="/docs/12/Sample email to send to law schools .docx"
+  title2="12.4.2: Sample meeting agenda"
+  link2="/docs/12/Sample agenda for Attorneys, Tenants, & Organizers.pdf"
+  title2-2="(DOCX)"
+  link2-2="site/static/docs/12/Sample agenda for Attorneys, Tenants, & Organizers.docx" >}}
+
+<br />  
+
+### List of Essential Trainings for RTC attorneys
+
+Our coalition includes a monthly legal support working group, and in the beginning of the rollout, participating organizers and tenant leaders realized that there was essentially no comprehensive training for on-the-ground RTC attorneys. We implemented the Housing Justice Leadership Institute for supervisors, but there was a strong need for attorneys to receive specific training in order to understand the intersecting issues that arise during eviction defense. We also incorporated the Tenant Movement History into our training for new attorneys in NYC. 
+
+To address this need, we came up with our own curriculum that we wanted attorneys to learn from. We’re excited to share that our curriculum will be rolled out in the fall of 2021.
+
+Included are: 
+- Essential trainings 
+- Sample training agenda schedule 
+  - This agenda includes a Spectogram exercise, and you can find a facilitation guide for that on pages 12-13 of our [NYC Tenant Movement History Cirruculum and Resource Packet](https://d3n8a8pro7vhmx.cloudfront.net/righttocounselnyc/pages/36/attachments/original/1548271235/RTCNYC.TenantMovement.Crclm.English.downsized.pdf?1548271235#%5B%7B%22num%22%3A60%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22FitR%22%7D%2C-104%2C-4%2C716%2C796%5D) 
+  - The agenda also includes a Dot-Democracy activity, and instructions for that are on page 44 of our [NYC Tenant Movement History Curruculum and Resource Packet](https://d3n8a8pro7vhmx.cloudfront.net/righttocounselnyc/pages/36/attachments/original/1548271235/RTCNYC.TenantMovement.Crclm.English.downsized.pdf?1548271235#%5B%7B%22num%22%3A60%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22FitR%22%7D%2C-104%2C-4%2C716%2C796%5D) 
+
+{{< resource 
+  title1="12.4.3: Essential Trainings for RTC Attorneys (PDF)" 
+  link1="/docs/12/Essential Trainings for RTC Attorneys.pdf"
+  title1-2="(DOCX)" 
+  link1-2="site/static/docs/12/Essential Trainings for RTC Attorneys.docx"
+  title2="12.4.4: Sample Training Schedule for Tenant Movement History (PDF)"
+  link2="/docs/12/Sample Training Schedule for Tenant Movement History.pdf"
+  title2-2="(DOCX)"
+  link2-2="/docs/12/Sample Training Schedule for Tenant Movement History.docx"
+  title3="12.4.4b: Small Group Instructions (PDF)"
+  link3="/docs/12/Small group instructions.pdf"
+  title3-2="(DOCX)"
+  link3-2="/docs/12/Small group instructions.docx" >}}
