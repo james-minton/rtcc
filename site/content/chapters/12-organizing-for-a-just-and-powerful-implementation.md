@@ -196,6 +196,137 @@ Also: sample talking points for talking to tenants about the Worst Evictors List
   title2="12.3.3.6: Worst Evictors Action Run of Show for Sample Action (PDF)" 
   link2="#"
   title2-2="(DOCX)"
-  link2-2="#" >}}
+  link2-2="#"
+  title3="12.3.3.7: Talking Points for Tenants (PDF)" 
+  link3="#"
+  title3-2="(DOCX)"
+  link3-2="#"  >}}
+
+<br />
+
+_Evictions Pamphlet_
+
+We created this pamphlet for a few important reasons. We wanted to encourage tenants to use the right to counsel and we wanted to illustrate to the public what tenant attorneys can do in court. It was also really important for us to encourage people to stay in their homes and prevent self-evictions. We know that a lot of people move when their landlord threatens them or sends them a rent demand. Our hope is that more people and families will fight to stay in their homes knowing that they’d be represented in court in the event their landlord made good on their threat to evict. 
 
 
+{{< resource 
+  title1="Eviction Pamphlet (PDF)" 
+  link1="#"   >}}
+
+<br />
+
+_Our demands to make NYC eviction free_
+
+The right to counsel is an organizing tool, both in terms of how it’s used and in what it could help build in NYC’s tenant movement. After the implementation, we saw that landlords were suing less and that eviction rates were dropping, but we knew that right to counsel was not going to stop all evictions. This led us to a three-month planning, brainstorming and visioning process that culminated in a retreat where we focused on what legislative win would help make NYC eviction-free. 
+
+We thought about how the right to counsel helps stop evictions once they start, we wanted to get at stopping them from starting in the first place! When we were told that doubling the income threshold for right to counsel would cost too much, one of our answers was that if the City investigated the worst evictors and stopped them from suing tenants, then right to counsel would cost much less! During the retreat, we thought of ways that the City could work to change landlord behavior and what was permissible; what would actually stop them from evicting people. Our focus was to determine what it would take to make the right to counsel less necessary, and the demands we’re sharing here reflect that thinking. 
+
+We released the demands at the People’s Tribunal on Evictions in fall of 2019. Our demands include the Clean Hands legislation, which would bar landlords from being able to bring eviction cases if they have open building violations, which we introduced before the COVID-19 pandemic. 
+
+These demands also help to organize people who have the tools to fight evictions, so that they can fight to change the system that makes evictions possible. 
+
+We’re sharing the Demands as well as a sample retreat agenda where we identified and narrowed down our demands. The agenda includes a newspaper visioning activity and we’re including instructions for that here as well. The activity is part of _Tools for Radical Democracy: How to Organize for Power in Your Community_, page 21.
+
+{{< resource 
+  title1="Demands to make NYC Eviction Free (PDF)" 
+  link1="#" 
+  title1-2="(DOCX)" 
+  link1-2="#" 
+  title2="12.3.3.8: Agenda for Eviction Free NYC (PDF)" 
+  link2="#"
+  title2-2="(DOCX)"
+  link2-2="#"
+  title3="Visioning Exercise Instructions" 
+  link3="#"
+  title3-2="(DOCX)"
+  link3-2="#"  >}}
+
+<br />
+
+_Rent strikes as an organizing tool_
+
+One of the core principles of right to counsel is that it should unleash tenant organizing  potential and allow tenants to take bold actions and do things they wouldn’t normally do. 
+
+A good example of the collective power of tenants who have the right to counsel is Gates Place in the Bronx, which has a large population of undocmented tenants. The owner instituted a building-wide rent increase which the tenants protested because the increases were likely to result in mass displacement. Based on the location of the building, all of the tenants had the right to counsel and an organizer working with the tenants presented the idea of a rent strike as a tool to prevent the mass evictions and leverage tenant’s demands. About 25 tenants decided to strike. The landlord sued 3 tenants in housing court as a test of power, but each day during the proceedings, nearly all the tenants showed up to court along with the press and media. Because of the sustained power of organizing, the landlord eliminated the building-wide rent increase! We saw how powerful rent strikes were and the tenants shared how having the right to counsel was a key part of their decision to take such bold action. Before COVID-19, rent strikes hadn't been a widely used tool since the 1960’s. 
+
+We spent time thinking about how to make the case for rent strikes and we’re sharing here supporting documents we put together:
+
+- The case for going on rent strike
+- Steps to coordinate a rent strike in your building 
+- An accompanying interactive activity
+- Rent Strike toolkit
+- Legal support guide for rent strikes
+
+The legal support guide to rent strikes is something we put together during the pandemic, in an effort to orient the lawyers in doing group/collective work. We still hold these training sessions for RTC attorneys.
+
+{{< resource 
+  title1="The case for going on rent strike (PDF)" 
+  link1="#" 
+  title2="12.3.3.9: Steps to coordinate a rent strike in your building (Spanish and English) (PDF)" 
+  link2="#"
+  title2-2="(DOCX)"
+  link2-2="#"
+  title3="12.3.3.10: Interactive Activity (PDF)" 
+  link3="#"
+  title3-2="(DOCX)"
+  title4="Rent Strike Toolkit (PDF)" 
+  link4="#"
+  title4="Legal Support Guide for Rent Strikes (PDF)" 
+  link4="#" >}}
+
+<br />
+
+_People’s Tribunal on Evictions_
+
+The People’s Tribunal was our way of demonstrating that evictions are not tenants’ fault and envisioning a world where landlords are held accountable. During the tribunal, tenants shared their demands and a jury of issued verdicts based on testimony. We could have a whole separate toolkit on the Tribunal! Rather than share the multitude of information we have on this topic, we’re linking to the section of our website that has information on the powerful Tribunal we held in 2019. For those that are especially interested in learning more about how to organize and hold a People’s Tribunal, please email us at info@righttocounselnyc.org and we will happily share more information with you! 
+
+For a glimpse into the process, we’re sharing here a facilitator’s agenda, a guide on how to prepare testimony, a detailed overview of the event, and our outreach flyer for the Tribunal. 
+
+{{< resource 
+  title1="12.3.3.11: Facilitator’s Agenda for the People's Tribunal on Evictions in NYC (PDF)" 
+  link1="#"
+  title1-2="(DOCX)" 
+  link1-2="#"
+  title2="12.3.3.12: Testimony Guide for the People’s Tribunal on Evictions (PDF)" 
+  link2="#"
+  title2-2="(DOCX)"
+  link2-2="#"
+  title3="12.3.3.13: Plan for the People's Tribunal on Evictions in NYC (PDF)" 
+  link3="#"
+  title3-2="(DOCX)"
+  title4="Outreach Flyer (PDF)" 
+  link4="#" >}}
+
+<br />
+
+_Tenant Movement History Timeline_
+
+This timeline is as fun to watch as it was to make and our hope was that folks in other cities could do something similar using the Global Action Project's Movement History Timeline Technology. 
+
+The tools we’re sharing below are included in other sections of the Toolkit, but we’re linking them here below in this section as well. 
+
+We’re also sharing training materials that we used. We used a train-the-trainer model for folks who wanted to teach others about the importance of RTC’s narrative and timeline.
+
+{{< resource 
+  title1="Timeline (PDF)" 
+  link1="#"
+  title2="Online Interactive Movement History Timeline: English" 
+  link2="#"
+  title2-2="Spanish"
+  link2-2="#"
+  title3="Curriculum and Resource Packet: English" 
+  link3="#"
+  title3-2="Spanish"
+  link3-2="#"
+  title4="2-pager on the History of the Tenant Movement: English" 
+  link4="#"
+  title4-2="Spanish"
+  link4-2="#"
+  title5="2-pager on Direct Actions Highlights in the Tenant Movement: English" 
+  link5="#"
+  title5-2="Spanish"
+  link5-2="#"
+  title6="How-to guide to help you host a house party/training/workshop: English" 
+  link6="#"
+  title6-2="Spanish"
+  link6-2="#" >}}
