@@ -284,7 +284,7 @@ The legal support guide to rent strikes is something we put together during the 
 
 _People’s Tribunal on Evictions_
 
-The People’s Tribunal was our way of demonstrating that evictions are not tenants’ fault and envisioning a world where landlords are held accountable. During the tribunal, tenants shared their demands and a jury of issued verdicts based on testimony. We could have a whole separate toolkit on the Tribunal! Rather than share the multitude of information we have on this topic, we’re linking to the section of our website that has information on the powerful Tribunal we held in 2019. For those that are especially interested in learning more about how to organize and hold a People’s Tribunal, please email us at info@righttocounselnyc.org and we will happily share more information with you! 
+The People’s Tribunal was our way of demonstrating that evictions are not tenants’ fault and envisioning a world where landlords are held accountable. During the tribunal, tenants shared their demands and a jury of issued verdicts based on testimony. We could have a whole separate toolkit on the Tribunal! Rather than share the multitude of information we have on this topic, [we’re linking to the section of our website](https://www.righttocounselnyc.org/the_jury_indicts_landlords_and_the_city) that has information on the powerful Tribunal we held in 2019. For those that are especially interested in learning more about how to organize and hold a People’s Tribunal, please email us at info@righttocounselnyc.org and we will happily share more information with you! 
 
 For a glimpse into the process, we’re sharing here a facilitator’s agenda, a guide on how to prepare testimony, a detailed overview of the event, and our outreach flyer for the Tribunal. 
 
@@ -423,3 +423,30 @@ Included are:
   link3="/docs/12/Small group instructions.pdf"
   title3-2="(DOCX)"
   link3-2="/docs/12/Small group instructions.docx" >}}
+
+### Taking our show on the road: Presentations to law school students 
+
+An important part of movement building is recruiting a new generation of legal advocates. We put together presentations for law school students with the goal of connecting with and recruiting them to join the movement and become tenant attorneys. Part of that work is to connect with law school students who come from communities impacted by gentrification and displacement, and those who have experienced the trauma of housing court. We also take the time to clear up any misconceptions of what it means to be a tenant attorney.  As part of the presentation, law school students hear from current attorneys and organizers who emphasize the importance of implementing the first right to counsel, what it’s like to be a part of a much larger movement and that eviction defense is a racial justice issue--all in the hopes that it resonates and inspires future attorneys to join us. These presentations also include information on the current job market for tenant attorneys in New York City, which we also link to on our website, and we encourage you to include similar information for the job market in your city in your outreach materials! 
+
+We’re sharing here:
+
+- The outline for the presentations
+- Sample outreach email to law schools 
+- Orientation to RTC for new tenant attorneys (sample agenda) 
+
+{{< resource
+  title1="12.4.5: Law School Roadshow Presentation Outline (PDF)"
+  link1="/docs/12/RTCNYC Presentation Outline.pdf"
+  title1-2="(DOCX)"
+  link1-2="/docs/12/RTCNYC Presentation Outline.docx"
+  title2="12.4.6: Outreach email to law schools"
+  link2="/docs/12/Law School Outreach Email - Template.pdf"
+  title2-2="(DOCX)"
+  link2-2="/docs/12/Law School Outreach Email - Template.docx"
+  title3="12.4.7: Orientation for New Lawyers on Right to Counsel"
+  link3="/docs/12/Orientation for New Lawyers on Right to Counsel.pdf"
+  title3-2="(DOCX)"
+  link3-2="/docs/12/Orientation for New Lawyers on Right to Counsel.docx"
+  title4="Become a RTC Lawyer information page (job board)"
+  link4="https://www.righttocounselnyc.org/jobs_board" >}}
+
