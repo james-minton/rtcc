@@ -411,7 +411,7 @@ Included are:
 - Sample meeting agenda 
 
 {{< resource 
-  title1="12.4.1: Sample email to law schools (PDF)" 
+  title1="12.4.1: Sample email to send to legal services organizations (PDF)" 
   link1="/docs/12/Sample email to send to legal services organizations.pdf"
   title1-2="(DOCX)" 
   link1-2="/docs/12/Sample email to send to legal services organizations.docx"
