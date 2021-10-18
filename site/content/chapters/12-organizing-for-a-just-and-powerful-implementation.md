@@ -277,8 +277,8 @@ The legal support guide to rent strikes is something we put together during the 
   link3-2="/docs/12/Interactive activity .docx"
   title4="Rent Strike Toolkit (PDF)" 
   link4="/docs/12/RTCNYC.COVID19.4.pdf"
-  title4="Legal Support Guide for Rent Strikes (PDF)" 
-  link4="/docs/12/COVID-19_Rent_Strike_Legal_Support_Guide.pdf" >}}
+  title4-2="Legal Support Guide for Rent Strikes (PDF)" 
+  link4-2="/docs/12/COVID-19_Rent_Strike_Legal_Support_Guide.pdf" >}}
 
 <br />
 
