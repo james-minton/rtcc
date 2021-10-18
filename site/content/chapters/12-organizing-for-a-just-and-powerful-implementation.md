@@ -14,7 +14,7 @@ In NYC, the law funds lawyers, not organizers, which is something we are working
 
 Please note that we developed the toolkit while still running a just implementation campaign. So this list of tools is not exhaustive! It’s just a sample. Definitely feel free to reach out to us if you have questions about organizing around just implementation! 
 
-Included are three sets of tools:
+Included are four sets of tools:
 
 <h3>Coalition Tools around Principles and Messaging</h3>
 
@@ -34,10 +34,35 @@ Included are three sets of tools:
 * **Working Groups for Implementation and Ongoing Organizing:** To organize the work of your campaign’s implementation organizing phase.
 * **Town Hall Guiding Agenda:** To organize and facilitate public meetings in which implementation is outlined.
 * **Supporting Implementation Organizing:** These tools are designed to guide ongoing organizing:
-  * **Principles**
-  * **Organizing Timeline**
-  * **Town Hall phone banking**
-  * **Overview of organizing with RTC**
+  * Organizing principles
+  * Organizing after the win timeline
+  * Town Hall phone banking script
+  * Overview of Organizing in Right to Counsel Zip Codes
+  * Worst Evictors List
+  * Evictions Pamphlet
+  * Our demands to make NYC eviction free
+  * Rent strikes as an organizing tool
+  * People’s Tribunal on Evictions
+  * Tenant Movement History Timeline
+
+### Supporting the Development of Zealous Movement Attorneys
+* **Housing Justice Leadership Institute** 
+  * Brochure, with program information and application.
+  * Initial press release
+* **Neighborhood-based meetings between RTC organizers and lawyers**
+  * Sample introduction email
+  * Sample meeting agenda
+* **List of Essential Trainings for RTC attorneys**
+  * Essential trainings for RTC attorneys
+  * Sample training schedule for tenant movement history
+  * Small group instructions
+* **Taking our show on the road: Presentations to law school students**
+  * Law school roadshow presentation 
+  * Outreach email to law schools
+  * Orientation for new lawyers
+  * Become a RTC lawyer (job board)
+
+  
 
 <hr />
 
