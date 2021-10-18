@@ -157,8 +157,7 @@ The tools in this section include:
   * **Our demands to make NYC eviction free**
   * **Rent strikes as an organizing tool**
   * **People’s Tribunal on Evictions**
-  * **Tenant Movement History Timeline**
-* **Supporting the Development of Zealous Movement Attorneys**  
+  * **Tenant Movement History Timeline** 
 
 {{< resource title1="12.3.1: Case Study: The Work to Come & RTC 2.0 (PDF)" link1="/docs/12/Case Study-The Work to Come-RTC 2.0.pdf" title1-2="(DOCX)" link1-2="/docs/12/Case Study-The Work to Come-RTC 2.0.docx" >}}
 
