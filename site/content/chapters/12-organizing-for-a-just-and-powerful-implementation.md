@@ -412,9 +412,9 @@ Included are:
 
 {{< resource 
   title1="12.4.1: Sample email to law schools (PDF)" 
-  link1="/docs/12/Sample email to send to law schools .pdf"
+  link1="/docs/12/Sample email to send to legal services organizations.pdf"
   title1-2="(DOCX)" 
-  link1-2="/docs/12/Sample email to send to law schools .docx"
+  link1-2="/docs/12/Sample email to send to legal services organizations.docx"
   title2="12.4.2: Sample meeting agenda"
   link2="/docs/12/Sample agenda for Attorneys, Tenants, & Organizers.pdf"
   title2-2="(DOCX)"
