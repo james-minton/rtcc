@@ -1,10 +1,10 @@
 ---
 title: 12. Organizing for a Just and Powerful Implementation
-weight: '130'
+weight: "130"
 contenttype: toolkit
 date: 2018-11-28T19:13:57.123Z
 aliases:
-    - /chapters/organizing-for-a-just-and-powerful-implementation
+  - /chapters/organizing-for-a-just-and-powerful-implementation
 ---
 <img src="/images/just-implementation-sm.jpg" alt="An outdoor rally featuring a tenant activist speaker" />
 
@@ -34,6 +34,7 @@ Included are four sets of tools:
 * **Working Groups for Implementation and Ongoing Organizing:** To organize the work of your campaign’s implementation organizing phase.
 * **Town Hall Guiding Agenda:** To organize and facilitate public meetings in which implementation is outlined.
 * **Supporting Implementation Organizing:** These tools are designed to guide ongoing organizing:
+
   * Organizing principles
   * Organizing after the win timeline
   * Town Hall phone banking script
@@ -46,23 +47,26 @@ Included are four sets of tools:
   * Tenant Movement History Timeline
 
 ### Supporting the Development of Zealous Movement Attorneys
+
 * **Housing Justice Leadership Institute** 
+
   * Brochure, with program information and application.
   * Initial press release
 * **Neighborhood-based meetings between RTC organizers and lawyers**
+
   * Sample introduction email
   * Sample meeting agenda
 * **List of Essential Trainings for RTC attorneys**
+
   * Essential trainings for RTC attorneys
   * Sample training schedule for tenant movement history
   * Small group instructions
 * **Taking our show on the road: Presentations to law school students**
+
   * Law school roadshow presentation 
   * Outreach email to law schools
   * Orientation for new lawyers
   * Become a RTC lawyer (job board)
-
-  
 
 <hr />
 
@@ -148,6 +152,7 @@ The tools in this section include:
 * **Town Hall Guiding Agenda:** To organize and facilitate public meetings in which implementation is outlined.
 * **Town Hall Phone Banking Script:** A succinct script for phone bankers to use when calling community members to inform them about town hall meetings. 
 * **Supporting Tenant Organizing:** Ten tools designed to guide ongoing organizing:
+
   * **Principles**
   * **Organizing timeline**
   * **Town hall phone banking** 
@@ -169,7 +174,7 @@ After the win, it was important to continue to meet as a community, not only to 
 
 <h3>Supporting Tenant Organizing</h3>
 
-_Organizing Principles for Right to Counsel Implementation Phase_
+*Organizing Principles for Right to Counsel Implementation Phase*
 
 As you move into the phase of organizing that happens after your Right to Counsel bill is passed, having primary organizing principles to guide your work is important. These principles will inform your work within your coalition, your ongoing organizing planning and your targets and tactics.
 
@@ -177,9 +182,9 @@ Here we share our organizing principles. You may want to revise these to fit wit
 
 {{< resource title1="12.3.3.1: Organizing Principles for Right to Counsel Implementation Phase (PDF)" link1="/docs/12/Organizing Principles.pdf" title1-2="(DOCX)" link1-2="/docs/12/Organizing Principles.docx" >}}
 
-_<br />_
+*<br />*
 
-_Timeline and Plan for Organizing After RTC Win_
+*Timeline and Plan for Organizing After RTC Win*
 
 After Right to Counsel is won, there is a lot of work to do to make sure tenants know their rights and claim them.  And because our legislation didn’t fund community organizing or outreach, there was no mechanism built in to make sure that tenants know and feel worthy and powerful in using their new right!  Our coalition found it helpful to develop a timeline with key organizing steps laid out throughout the year, as well as broader tasks such as outreach materials to develop, outreach activities, and places at which relationships should be built. Here in NYC, neighborhood-based community organizing groups are working on implementing the timeline in their neighborhoods. Because our roll out is by zip code, the outreach and organizing work is focused in the neighborhoods where RTC is being implemented.  Documents like this one ensure that our organizing remains strategic and coordinated, and they also reflect the collective thinking of a large committee of tenant leaders and organizers.  We share our timeline and planning document here for your coalition to use as a model.
 
@@ -187,7 +192,7 @@ After Right to Counsel is won, there is a lot of work to do to make sure tenants
 
 <br />
 
-_RTCNYC Town Hall Phone Banking Script_
+*RTCNYC Town Hall Phone Banking Script*
 
 Holding town halls was an effective way for us to reach out and share information with communities about the Right to Counsel legislation. We relied on coalition members to volunteer and spread the word about these events. We’ve included a script for phone banking that we developed to reach out to tenants. You’ll see that we typed out guided instructions for volunteers to follow, including how to engage people who were not able to attend. It was also important that we provide brief context and history of the right to counsel. Simply tailor the script to include the relevant event information and historical context so that your phone bankers are prepared. 
 
@@ -195,7 +200,7 @@ Holding town halls was an effective way for us to reach out and share informatio
 
 <br />
 
-_Overview of Organizing  in RTC Zips—What’s Different About It?_
+*Overview of Organizing  in RTC Zips—What’s Different About It?*
 
 This document was designed by the coalition to be used by organizers. It lays out key steps organizers should take when working in buildings that are in zip codes that qualify for Right to Counsel, ranging from ensuring that tenants know they have the right to counsel (even if they don’t have an active case) to helping identify tenants at risk of eviction to set up rapid response defense and explore actions like eviction blockades. Documents like these, that tie Right to Counsel to larger organizing efforts, are an important part of the ongoing campaign.
 
@@ -205,7 +210,7 @@ While Right to Counsel implementation and organizing may look different in your 
 
 <br />
 
-_Worst Evictors List_
+*Worst Evictors List*
 
 The Worst Evictors List started as an outreach idea. We were brainstorming how to reach the people most impacted by evictions to make sure they knew about the right to counsel. Our organizers wanted to think strategically about outreach, education and organizing around the right to counsel. We knew there weren’t enough organizers to talk to everyone that had the new right, so we decided to target buildings with a lot of violations, but the tenants we came across mostly needed repairs in their units, and we needed to get to tenants who were facing evictions. That’s when we started to compile lists of buildings by eviction. Once we saw the overwhelming amount of data on this, we felt compelled to repeat the process and share the data annually. We’ve since published the list twice, but we didn’t do it in 2020 since there was an eviction moratorium in place across the city due to COVID-19. We also used the list as an organizing tool to advocate to the city to not fund any of the worst evictors, to pull funding from them when possible and to investigate the worst evictors. 
 
@@ -235,10 +240,9 @@ Also: sample talking points for talking to tenants about the Worst Evictors List
 
 <br />
 
-_Evictions Pamphlet_
+*Evictions Pamphlet*
 
 We created this pamphlet for a few important reasons. We wanted to encourage tenants to use the right to counsel and we wanted to illustrate to the public what tenant attorneys can do in court. It was also really important for us to encourage people to stay in their homes and prevent self-evictions. We know that a lot of people move when their landlord threatens them or sends them a rent demand. Our hope is that more people and families will fight to stay in their homes knowing that they’d be represented in court in the event their landlord made good on their threat to evict. 
-
 
 {{< resource 
   title1="Eviction Pamphlet (PDF)" 
@@ -246,7 +250,7 @@ We created this pamphlet for a few important reasons. We wanted to encourage ten
 
 <br />
 
-_Our demands to make NYC eviction free_
+*Our demands to make NYC eviction free*
 
 The right to counsel is an organizing tool, both in terms of how it’s used and in what it could help build in NYC’s tenant movement. After the implementation, we saw that landlords were suing less and that eviction rates were dropping, but we knew that right to counsel was not going to stop all evictions. This led us to a three-month planning, brainstorming and visioning process that culminated in a retreat where we focused on what legislative win would help make NYC eviction-free. 
 
@@ -256,11 +260,11 @@ We released the demands at the People’s Tribunal on Evictions in fall of 2019.
 
 These demands also help to organize people who have the tools to fight evictions, so that they can fight to change the system that makes evictions possible. 
 
-We’re sharing the Demands as well as a sample retreat agenda where we identified and narrowed down our demands. The agenda includes a newspaper visioning activity and we’re including instructions for that here as well. The activity is part of _Tools for Radical Democracy: How to Organize for Power in Your Community_, page 21.
+We’re sharing the Demands as well as a sample retreat agenda where we identified and narrowed down our demands. The agenda includes a newspaper visioning activity and we’re including instructions for that here as well. The activity is part of *Tools for Radical Democracy: How to Organize for Power in Your Community*, page 21.
 
 {{< resource 
   title1="Demands to make NYC Eviction Free (PDF)" 
-  link1="/docs/12/Demands_to_Make_NYC_Eviction_Free-_Final_Language_(5)_(1).pdf" 
+  link1="/docs/12/Demands*to_Make_NYC_Eviction_Free-_Final_Language*(5)_(1).pdf" 
   title2="12.3.3.8: Agenda for Eviction Free NYC Retreat (PDF)" 
   link2="/docs/12/Agenda for Eviction Free NYC Retreat.pdf"
   title2-2="(DOCX)"
@@ -272,7 +276,7 @@ We’re sharing the Demands as well as a sample retreat agenda where we identifi
 
 <br />
 
-_Rent strikes as an organizing tool_
+*Rent strikes as an organizing tool*
 
 One of the core principles of right to counsel is that it should unleash tenant organizing  potential and allow tenants to take bold actions and do things they wouldn’t normally do. 
 
@@ -280,11 +284,11 @@ A good example of the collective power of tenants who have the right to counsel 
 
 We spent time thinking about how to make the case for rent strikes and we’re sharing here supporting documents we put together:
 
-- The case for going on rent strike
-- Steps to coordinate a rent strike in your building 
-- An accompanying interactive activity
-- Rent Strike toolkit
-- Legal support guide for rent strikes
+* The case for going on rent strike
+* Steps to coordinate a rent strike in your building 
+* An accompanying interactive activity
+* Rent Strike toolkit
+* Legal support guide for rent strikes
 
 The legal support guide to rent strikes is something we put together during the pandemic, in an effort to orient the lawyers in doing group/collective work. We still hold these training sessions for RTC attorneys.
 
@@ -306,7 +310,7 @@ The legal support guide to rent strikes is something we put together during the 
 
 <br />
 
-_People’s Tribunal on Evictions_
+*People’s Tribunal on Evictions*
 
 The People’s Tribunal was our way of demonstrating that evictions are not tenants’ fault and envisioning a world where landlords are held accountable. During the tribunal, tenants shared their demands and a jury of issued verdicts based on testimony. We could have a whole separate toolkit on the Tribunal! Rather than share the multitude of information we have on this topic, [we’re linking to the section of our website](https://www.righttocounselnyc.org/the_jury_indicts_landlords_and_the_city) that has information on the powerful Tribunal we held in 2019. For those that are especially interested in learning more about how to organize and hold a People’s Tribunal, please email us at info@righttocounselnyc.org and we will happily share more information with you! 
 
@@ -314,25 +318,25 @@ For a glimpse into the process, we’re sharing here a facilitator’s agenda, a
 
 {{< resource 
   title1="12.3.3.11: Facilitator’s Agenda for the People's Tribunal on Evictions in NYC (PDF)" 
-  link1="/docs/12/Facilitator's Agenda_ People's Tribunal on Evictions.pdf"
+  link1="/docs/12/Facilitator's Agenda *People's Tribunal on Evictions.pdf"
   title1-2="(DOCX)" 
-  link1-2="/docs/12/Facilitator's Agenda_ People's Tribunal on Evictions.docx"
+  link1-2="/docs/12/Facilitator's Agenda* People's Tribunal on Evictions.docx"
 
   title2="12.3.3.12: Testimony Guide for the People’s Tribunal on Evictions (PDF)" 
-  link2="/docs/12/Testimony Guide for the People’s Tribunal on Evictions_.pdf"
+  link2="/docs/12/Testimony Guide for the People’s Tribunal on Evictions*.pdf"
   title2-2="(DOCX)"
-  link2-2="/docs/12/Testimony Guide for the People’s Tribunal on Evictions_.docx"
+  link2-2="/docs/12/Testimony Guide for the People’s Tribunal on Evictions*.docx"
 
   title3="12.3.3.13: Detailed Overview: People's Tribunal on Evictions (PDF)" 
-  link3="/docs/12/Detailed Overview_ People's Tribunal on Evictions.pdf"
+  link3="/docs/12/Detailed Overview *People's Tribunal on Evictions.pdf"
   title3-2="(DOCX)"
-  link3-2="/docs/12/Detailed Overview_ People's Tribunal on Evictions.docx"
+  link3-2="/docs/12/Detailed Overview* People's Tribunal on Evictions.docx"
   title4="Outreach Flyer (PDF)" 
   link4="/docs/12/EN People's Tribunal Flyer (1).pdf" >}}
 
 <br />
 
-_Tenant Movement History Timeline_
+*Tenant Movement History Timeline*
 
 This timeline is as fun to watch as it was to make and our hope was that folks in other cities could do something similar using the Global Action Project's Movement History Timeline Technology. 
 
@@ -343,21 +347,21 @@ We’re also sharing training materials that we used. We used a train-the-traine
 {{< resource 
   title1="Timeline" 
   link1="https://www.righttocounselnyc.org/nyc_tenant_history"
-  
+
   title2="Online Interactive Movement History Timeline: English" 
   link2="https://editor.mediahistorytimeline.org/t/d2ywxewgmb6es6yf79l1t0366667t7bu"
   title2-2="Spanish"
   link2-2="https://editor.mediahistorytimeline.org/t/x0h4x6kl0fhqgw3pkfux5pqr39cirnp9"
-  
+
   title3="Curriculum and Resource Packet: English" 
   link3="/docs/12/RTCNYC.TenantMovement.Crclm.English.downsized.pdf"
   title3-2="Spanish"
   link3-2="https://assets.nationbuilder.com/righttocounselnyc/pages/36/attachments/original/1551900749/RTCNYC.TenantMovement.Crclm.Spanish.downsized.2.pdf?1551900749"
 
   title4="2-pager on the History of the Tenant Movement: English" 
-  link4="/docs/12/Highlights_Sheet__2_(1).pdf"
+  link4="/docs/12/Highlights*Sheet__2*(1).pdf"
   title4-2="Spanish"
-  link4-2="/docs/12/Ver._2_Highlights_Sheet_in_Spanish_.pdf"
+  link4-2="/docs/12/Ver.*2_Highlights_Sheet_in_Spanish*.pdf"
 
   title5="2-pager on Direct Actions Highlights in the Tenant Movement: English" 
   link5="/docs/12/Ver._2_Direct_Action_highlights__(1).pdf"
@@ -380,8 +384,8 @@ Although the Housing Justice Leadership Institute is an integral part of sustain
 
 Included here are:
 
-- Brochure, with program information and application. 
-- Initial press release
+* Brochure, with program information and application. 
+* Initial press release
 
 {{< resource 
   title1="Brochure (PDF)" 
@@ -391,7 +395,7 @@ Included here are:
 
 <br />  
 
-### Neighborhood-based meetings between RTC organizers and lawyers 
+### Neighborhood-based meetings between RTC organizers and lawyers
 
 In an effort to orient new housing attorneys and ground them in what it means to be an attorney in the movement, we went around to many different legal services organizations and gave presentations about what RTC is and how we won it. 
 
@@ -399,16 +403,16 @@ This felt necessary after the win. Organizers felt a disconnect with attorneys i
 
 These training were led by local tenant leaders and tenant groups and were held all across the city and some were monthly and semi-monthly until the pandemic. Here are some more of the goals of these meetings:
 
-- Make our goals and work explicit. Being explicit also creates space to hold attorneys accountable
-- Build relationships. Identify people in meetings who seem interested, ask critical questions, etc., and find time to meet with them one on one, and work to recruit them to the Tenant Organizing vision. 
-- Come out of the meeting with next steps and agreements about working together. 
-- Don't have expectations. We'll keep doing the work and we have each other. 
-- Present the Tenant Organizing vision with them and ask them if they want to be partners.  
+* Make our goals and work explicit. Being explicit also creates space to hold attorneys accountable
+* Build relationships. Identify people in meetings who seem interested, ask critical questions, etc., and find time to meet with them one on one, and work to recruit them to the Tenant Organizing vision. 
+* Come out of the meeting with next steps and agreements about working together. 
+* Don't have expectations. We'll keep doing the work and we have each other. 
+* Present the Tenant Organizing vision with them and ask them if they want to be partners.  
 
 Included are:
 
-- Sample introduction email
-- Sample meeting agenda 
+* Sample introduction email
+* Sample meeting agenda 
 
 {{< resource 
   title1="12.4.1: Sample email to send to legal services organizations (PDF)" 
@@ -429,10 +433,12 @@ Our coalition includes a monthly legal support working group, and in the beginni
 To address this need, we came up with our own curriculum that we wanted attorneys to learn from. We’re excited to share that our curriculum will be rolled out in the fall of 2021.
 
 Included are: 
-- Essential trainings 
-- Sample training agenda schedule 
-  - This agenda includes a Spectogram exercise, and you can find a facilitation guide for that on pages 12-13 of our [NYC Tenant Movement History Cirruculum and Resource Packet](https://d3n8a8pro7vhmx.cloudfront.net/righttocounselnyc/pages/36/attachments/original/1548271235/RTCNYC.TenantMovement.Crclm.English.downsized.pdf?1548271235#%5B%7B%22num%22%3A60%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22FitR%22%7D%2C-104%2C-4%2C716%2C796%5D) 
-  - The agenda also includes a Dot-Democracy activity, and instructions for that are on page 44 of our [NYC Tenant Movement History Curruculum and Resource Packet](https://d3n8a8pro7vhmx.cloudfront.net/righttocounselnyc/pages/36/attachments/original/1548271235/RTCNYC.TenantMovement.Crclm.English.downsized.pdf?1548271235#%5B%7B%22num%22%3A60%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22FitR%22%7D%2C-104%2C-4%2C716%2C796%5D) 
+
+* Essential trainings 
+* Sample training agenda schedule 
+
+  * This agenda includes a Spectogram exercise, and you can find a facilitation guide for that on pages 12-13 of our [NYC Tenant Movement History Curriculum and Resource Packet](https://d3n8a8pro7vhmx.cloudfront.net/righttocounselnyc/pages/36/attachments/original/1548271235/RTCNYC.TenantMovement.Crclm.English.downsized.pdf?1548271235#%5B%7B%22num%22%3A60%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22FitR%22%7D%2C-104%2C-4%2C716%2C796%5D) 
+  * The agenda also includes a Dot-Democracy activity, and instructions for that are on page 44 of our [NYC Tenant Movement History Curriculum and Resource Packet](https://d3n8a8pro7vhmx.cloudfront.net/righttocounselnyc/pages/36/attachments/original/1548271235/RTCNYC.TenantMovement.Crclm.English.downsized.pdf?1548271235#%5B%7B%22num%22%3A60%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22FitR%22%7D%2C-104%2C-4%2C716%2C796%5D) 
 
 {{< resource 
   title1="12.4.3: Essential Trainings for RTC Attorneys (PDF)" 
@@ -448,15 +454,15 @@ Included are:
   title3-2="(DOCX)"
   link3-2="/docs/12/Small group instructions.docx" >}}
 
-### Taking our show on the road: Presentations to law school students 
+### Taking our show on the road: Presentations to law school students
 
 An important part of movement building is recruiting a new generation of legal advocates. We put together presentations for law school students with the goal of connecting with and recruiting them to join the movement and become tenant attorneys. Part of that work is to connect with law school students who come from communities impacted by gentrification and displacement, and those who have experienced the trauma of housing court. We also take the time to clear up any misconceptions of what it means to be a tenant attorney.  As part of the presentation, law school students hear from current attorneys and organizers who emphasize the importance of implementing the first right to counsel, what it’s like to be a part of a much larger movement and that eviction defense is a racial justice issue--all in the hopes that it resonates and inspires future attorneys to join us. These presentations also include information on the current job market for tenant attorneys in New York City, which we also link to on our website, and we encourage you to include similar information for the job market in your city in your outreach materials! 
 
 We’re sharing here:
 
-- The outline for the presentations
-- Sample outreach email to law schools 
-- Orientation to RTC for new tenant attorneys (sample agenda) 
+* The outline for the presentations
+* Sample outreach email to law schools 
+* Orientation to RTC for new tenant attorneys (sample agenda) 
 
 {{< resource
   title1="12.4.5: Law School Roadshow Presentation Outline (PDF)"
@@ -473,4 +479,3 @@ We’re sharing here:
   link3-2="/docs/12/Orientation for New Lawyers on Right to Counsel.docx"
   title4="Become a RTC Lawyer information page (job board)"
   link4="https://www.righttocounselnyc.org/jobs_board" >}}
-
